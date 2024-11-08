@@ -128,9 +128,6 @@ if __name__ == "__main__":
             if location:
                 lat_lng = get_lat_lng(location)
                 if lat_lng:
-                    print(f"Event {idx} Location: {location}")
-                    print(f"  Latitude: {lat_lng['latitude']}")
-                    print(f"  Longitude: {lat_lng['longitude']}\n")
                     event['latitude'] = lat_lng['latitude']
                     event['longitude'] = lat_lng['longitude']
                 else:
