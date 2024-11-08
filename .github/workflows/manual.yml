@@ -30,4 +30,7 @@ jobs:
 
       # Run the Python script
       - name: Run cron.py
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python cron.py
