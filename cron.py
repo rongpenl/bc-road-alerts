@@ -70,7 +70,7 @@ def extract_key_info(description):
 
     try:
         response = open_ai_client.chat.completions.create(
-            model="gpt-3.5-turbo", messages=messages, max_tokens=250, temperature=0
+            model="gpt-3.5-turbo", messages=messages, max_tokens=2000, temperature=0
         )
 
         json_output = response.choices[0].message.content.strip()

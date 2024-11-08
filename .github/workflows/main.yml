@@ -3,18 +3,16 @@ name: Main
 
 # Trigger the workflow every hour, manually or when pushing to the main branch
 on:
+  workflow_dispatch:
+
   schedule:
     - cron: "0 * * * *"
-  workflow_dispatch:
-  pull_request:
-    branches:
-      - main
 
 # also support manual triggering
 
 
 jobs:
-  run-scraper:
+  update-data:
     runs-on: ubuntu-latest
     steps:
       # Checkout the repository so that we have access to the Python script
