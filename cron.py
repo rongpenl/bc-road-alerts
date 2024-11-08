@@ -4,44 +4,18 @@ import requests
 import urllib.parse
 from bs4 import BeautifulSoup
 from openai import OpenAI
-from tqdm import tqdm
 
 GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY")
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
+geocoding_base_url = os.environ.get("GEOCODING_BASE_URL")
+drivebc_major_events_url = os.environ.get("DRIVEBC_MAJOR_EVENTS_URL")
 
 open_ai_client = OpenAI(api_key=OPENAI_API_KEY)
 
 
-def get_lat_lng(address):
-    encoded_address = urllib.parse.quote(address)
-
-    geocoding_url = f"https://maps.googleapis.com/maps/api/geocode/json?address={encoded_address}&key={GOOGLE_API_KEY}"
-    
-    response = requests.get(geocoding_url)
-
-    if response.status_code == 200:
-        data = response.json()
-        if data["status"] == "OK":
-            result = data["results"][0] # obtain the first result
-            location = result["geometry"]["location"]
-            latitude = location["lat"]
-            longitude = location["lng"]
-            return {"latitude": latitude, "longitude": longitude}
-        else:
-            print("Geocoding failed. Status:", data["status"])
-    else:
-        print(
-            "Failed to connect to Google Geocoding API. HTTP Status Code:",
-            response.status_code,
-        )
-
-    return None
-
-
 def get_major_events():
 
-    url = "https://www.drivebc.ca/mobile/pub/events/majorevents.html"
-    response = requests.get(url)
+    response = requests.get(drivebc_major_events_url)
 
     if response.status_code != 200:
         print("Failed to fetch the page. HTTP Status Code:", response.status_code)
@@ -113,6 +87,30 @@ def augment_events(events):
         event.update(key_info)
     return events
 
+def get_lat_lng(address):
+    encoded_address = urllib.parse.quote(address)
+
+    geocoding_url = f"address={encoded_address}&key={GOOGLE_API_KEY}"
+    
+    response = requests.get(geocoding_url)
+
+    if response.status_code == 200:
+        data = response.json()
+        if data["status"] == "OK":
+            result = data["results"][0] # obtain the first result
+            location = result["geometry"]["location"]
+            latitude = location["lat"]
+            longitude = location["lng"]
+            return {"latitude": latitude, "longitude": longitude}
+        else:
+            print("Geocoding failed. Status:", data["status"])
+    else:
+        print(
+            "Failed to connect to Google Geocoding API. HTTP Status Code:",
+            response.status_code,
+        )
+
+    return None
 
 if __name__ == "__main__":
     events = get_major_events()
@@ -123,7 +121,7 @@ if __name__ == "__main__":
         print("No events found.")
     
     if augment_events:
-        for idx, event in tqdm(enumerate(augmented_events, start=1)):
+        for idx, event in enumerate(augmented_events, start=1):
             location = event.get('Location')
             if location:
                 lat_lng = get_lat_lng(location)
@@ -135,7 +133,7 @@ if __name__ == "__main__":
                     print("  Failed to get latitude and longitude for the location: ", location)
             else:
                 print(f"Event {idx} Location: N/A")
-                print("  No location information found.")
+                print("No location information found.")
     # save augmented event with lat and lng
     with open("src/data/data.json", "w") as f:
         json.dump(augmented_events, f, indent=2)
