@@ -90,7 +90,7 @@ def augment_events(events):
 def get_lat_lng(address):
     encoded_address = urllib.parse.quote(address)
 
-    geocoding_url = f"address={encoded_address}&key={GOOGLE_API_KEY}"
+    geocoding_url = geocoding_base_url + f"address={encoded_address}&key={GOOGLE_API_KEY}"
     
     response = requests.get(geocoding_url)
 
