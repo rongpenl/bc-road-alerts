@@ -112,11 +112,44 @@ def get_lat_lng(address):
 
     return None
 
+
+def backup_data_to_documentdb(data):
+    from pymongo import MongoClient
+
+    # MongoDB connection string with password placeholder
+    password = os.environ.get("DOCUMENTDB_PASSWORD")
+    user = os.environ.get("DOCUMENTDB_USER")
+    db_name = os.environ.get("DOCUMENTDB_DB_NAME")
+    collection_name = os.environ.get("DOCUMENTDB_COLLECTION_NAME")
+    client = MongoClient(f"mongodb://{user}:{password}@{db_name}.cluster-coqjo5ckblxs.us-east-1.docdb.amazonaws.com:27017/?tls=true&tlsCAFile=global-bundle.pem&replicaSet=rs0&readPreference=secondaryPreferred&retryWrites=false")
+
+    # Database and collection names
+    db = client.get_database(db_name)  # replace with your actual database name
+
+    # Check if the collection exists, if not create it
+    if collection_name not in db.list_collection_names():
+        db.create_collection(collection_name)
+
+    # Insert records into the collection in bulk
+    collection = db[collection_name]
+
+    # Batch insert
+    if data:
+        collection.insert_many(data)
+        print("Records inserted successfully.")
+    else:
+        print("No records to insert.")
+
+
+
 if __name__ == "__main__":
     events = get_major_events()
-
     if events:
         augmented_events = augment_events(events)
+        try:
+            backup_data_to_documentdb(augmented_events)
+        except Exception as e:
+            print(f"Failed to backup data to DocumentDB: {e}")
     else:
         print("No events found.")
     

@@ -38,6 +38,10 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           GEOCODING_BASE_URL: ${{ vars.GEOCODING_BASE_URL }}
           DRIVEBC_MAJOR_EVENTS_URL: ${{ vars.DRIVEBC_MAJOR_EVENTS_URL }}
+          DOCUMENTDB_PASSWORD: ${{ secrets.DOCUMENTDB_PASSWORD }}
+          DOCUMENTDB_USER: ${{ secrets.DOCUMENTDB_USER }}
+          DOCUMENTDB_DB_NAME: ${{ secrets.DOCUMENTDB_DB_NAME }}
+          DOCUMENTDB_COLLECTION_NAME: ${{ secrets.DOCUMENTDB_COLLECTION_NAME }}
         run: python cron.py
       # update data.json
       - name: Update resources
