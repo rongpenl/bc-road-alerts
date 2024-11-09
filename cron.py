@@ -1,4 +1,5 @@
 import os
+import time
 import json
 import requests
 import urllib.parse
@@ -20,6 +21,9 @@ def get_major_events():
     if response.status_code != 200:
         print("Failed to fetch the page. HTTP Status Code:", response.status_code)
         return []
+
+    # backup the content to cloud storage
+    backup_data_to_cloud_storage(response.text)
 
     soup = BeautifulSoup(response.content, "html.parser")
     events = []
@@ -111,6 +115,39 @@ def get_lat_lng(address):
         )
 
     return None
+
+
+def backup_data_to_cloud_storage(html):
+    # save the html to a tmp file using tempfile and upload it
+    import tempfile
+    from google.cloud import storage
+    tmp_file = tempfile.NamedTemporaryFile(delete=False, suffix=".html")
+    file_path = tmp_file.name
+    with open(file_path, "w") as f:
+        f.write(html)
+    
+    GOOGLE_APPLICATION_CREDENTIALS = os.environ.get("GOOGLE_APPLICATION_CREDENTIALS")
+    CLOUD_STORAGE_BUCKET_NAME = os.environ.get("CLOUD_STORAGE_BUCKET_NAME")
+
+    # Create a storage client
+    storage_client = storage.Client()
+
+    # Get the bucket
+    bucket = storage_client.get_bucket(CLOUD_STORAGE_BUCKET_NAME)
+
+    # Create a new blob with timestamp as the name, file extension is html
+    blob = bucket.blob(f"{os.path.basename(file_path)}" + time.strftime("_%Y%m%d-%H%M%S") + ".html")
+    
+    # upon successful upload, delete the tmp file
+    try:
+        blob.upload_from_filename(file_path)
+        print("File uploaded to Cloud Storage.")
+    except Exception as e:
+        print(f"Failed to upload file to Cloud Storage: {e}")
+    finally:
+        os.unlink(file_path)
+
+    
 
 
 def backup_data_to_documentdb(data):
