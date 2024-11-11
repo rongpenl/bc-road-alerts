@@ -24,13 +24,7 @@
   {
     "title": "Highway 1 Both Directions",
     "description": "Highway 1 (TransCanada Highway), in both directions. Bridge maintenance planned between Crazy Ck. Bridge and Enchanted Forest Ftg Rd for 6.2 km (29 km east of Sicamous to 29 km west of Revelstoke). Starting Thu Nov 14 at 7:00 AM PST until Thu Nov 14 at 5:00 PM PST. Single lane alternating traffic will be in effect. Watch for traffic control personnel. Speed reduction to 50 km/h. Next update time Thu Nov 14 at 5:00 PM PST. Last updated Mon Nov 4 at 6:45 PM PST. (DBC-69955)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69955.html",
-    "Location": "Highway 1 (TransCanada Highway), between Crazy Ck. Bridge and Enchanted Forest Ftg Rd",
-    "Description": "Bridge maintenance planned for 6.2 km stretch. Single lane alternating traffic in both directions. Speed reduction to 50 km/h. Watch for traffic control personnel.",
-    "Next update time": "Thu Nov 14 at 5:00 PM PST",
-    "Last update time": "Mon Nov 4 at 6:45 PM PST",
-    "latitude": 53.7266683,
-    "longitude": -127.6476206
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69955.html"
   },
   {
     "title": "Highway 1 Both Directions",
@@ -62,13 +56,7 @@
   {
     "title": "Highway 17 Both Directions",
     "description": "Highway 17 (Patricia Bay Highway), in both directions. Construction work at Exit 18: Keating Cross Rd (Central Saanich). Until Tue Jul 1, 2025. Nighttime lane closures both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed. Next update time Sat May 10, 2025 at 12:00 PM PDT. Last updated Thu Sep 26 at 12:08 PM PDT. (DBC-54341)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-54341.html",
-    "Location": "Highway 17 (Patricia Bay Highway), in both directions at Exit 18: Keating Cross Rd (Central Saanich)",
-    "Description": "Construction work with nighttime lane closures both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed.",
-    "Next update time": "Sat May 10, 2025 at 12:00 PM PDT",
-    "Last update time": "Thu Sep 26 at 12:08 PM PDT",
-    "latitude": 48.5533773,
-    "longitude": -123.3926916
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-54341.html"
   },
   {
     "title": "Highway 23 Both Directions",
@@ -84,7 +72,13 @@
   {
     "title": "Highway 8 Both Directions",
     "description": "Highway 8, in both directions. Geotechnical investigation between the start of Highway 8 and 14 Mile Ranch Rd for 2.4 km (9 to 11 km east of Spences Bridge). Until Sat Nov 23 at 5:00 PM PDT. Single lane alternating traffic. Watch for traffic control. Expect delays. Next update time Sat Nov 23 at 5:00 PM PDT. Last updated Tue Oct 29 at 4:12 PM PDT. (DBC-69631)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69631.html"
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69631.html",
+    "Location": "Highway 8, in both directions. Between the start of Highway 8 and 14 Mile Ranch Rd for 2.4 km (9 to 11 km east of Spences Bridge)",
+    "Description": "Geotechnical investigation. Single lane alternating traffic. Watch for traffic control. Expect delays.",
+    "Next update time": "Sat Nov 23 at 5:00 PM PDT",
+    "Last update time": "Tue Oct 29 at 4:12 PM PDT",
+    "latitude": 50.30072149999999,
+    "longitude": -121.1895532
   },
   {
     "title": "Highway 93",
@@ -109,17 +103,6 @@
     "longitude": -119.7096726
   },
   {
-    "title": "Highway 97 Both Directions",
-    "description": "Highway 97, in both directions. Road construction work between Park Ave and Renfrew Rd for 7.4 km (Peachland). Until Sat Nov 9 at 7:00 PM PST. Watch for traffic control. Watch for slow moving vehicles and equipment. Next update time Sat Nov 9 at 7:00 PM PST. Last updated Mon Nov 4 at 6:18 PM PST. (DBC-69953)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69953.html",
-    "Location": "Highway 97, in both directions between Park Ave and Renfrew Rd for 7.4 km (Peachland)",
-    "Description": "Road construction work. Watch for traffic control. Watch for slow moving vehicles and equipment.",
-    "Next update time": "Sat Nov 9 at 7:00 PM PST",
-    "Last update time": "Mon Nov 4 at 6:18 PM PST",
-    "latitude": 49.7515853,
-    "longitude": -119.7590808
-  },
-  {
     "title": "Highway 97C Both Directions",
     "description": "Highway 97C (Okanagan Connector), in both directions. Road construction work between Junction Hwy 97 and Pennask Summit for 33.0 km (West Kelowna to Pennask Summit). Until Tue Nov 12 at 7:00 PM PST. Watch for traffic control. Watch for slow moving vehicles and equipment on the road. Next update time Tue Nov 12 at 7:00 PM PST. Last updated Mon Nov 4 at 5:58 PM PST. (DBC-69950)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69950.html",
@@ -135,7 +118,7 @@
     "description": "Kootenay Lake Ferry. Ferry is out of service between Balfour and Kootenay Bay. Schedule modification due to crewing issue. Monday - Friday Essential Service sailings from Balfour at 6:30AM, 8:10AM, 4:30PM, from Kootenay Bay at 7:10AM, 9AM, 5:20PM. Passage only for Essential Service travelers. All weekend and holiday sailings cancelled. Emergency service sailings accommodated. Next update time Tue Nov 12 at 9:00 AM PST. Last updated Fri Nov 8 at 12:27 PM PST. (DBC-69872)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69872.html",
     "Location": "Kootenay Lake Ferry",
-    "Description": "Ferry is out of service between Balfour and Kootenay Bay due to crewing issue. Essential Service sailings on weekdays with modified schedule. Passage only for Essential Service travelers. All weekend and holiday sailings cancelled. Emergency service sailings accommodated.",
+    "Description": "Ferry is out of service between Balfour and Kootenay Bay due to crewing issue. Essential Service sailings on weekdays only. Passage restricted to Essential Service travelers. Weekend and holiday sailings canceled. Emergency service sailings available.",
     "Next update time": "Tue Nov 12 at 9:00 AM PST",
     "Last update time": "Fri Nov 8 at 12:27 PM PST",
     "latitude": 49.57009370000001,
@@ -151,7 +134,7 @@
     "description": "Kersley-Dale Landing Rd. Landslide at 500 metres in from Highway 97 Intersection. Road closed. A temporary Single Lane Gravel Road for Local Traffic via Arnoldus Road. Next update time Mon Dec 9 at 9:00 AM PDT. Last updated Thu Aug 8 at 9:26 AM PDT. (DBC-23443)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-23443.html",
     "Location": "Kersley-Dale Landing Rd. at 500 metres in from Highway 97 Intersection",
-    "Description": "Landslide, road closed. Temporary Single Lane Gravel Road for Local Traffic via Arnoldus Road.",
+    "Description": "Landslide, road closed. Temporary Single Lane Gravel Road for Local Traffic via Arnoldus Road",
     "Next update time": "Mon Dec 9 at 9:00 AM PDT",
     "Last update time": "Thu Aug 8 at 9:26 AM PDT",
     "latitude": 54.6985492,
@@ -161,8 +144,8 @@
     "title": "Other Roads Both Directions",
     "description": "Durrell Road, in both directions. Landslide at 700m from Highway 97. Road closed. Detour in effect. Detour available via Highway 97 and Dale Lake Road. Next update time Wed Apr 23, 2025 at 2:00 PM PDT. Last updated Wed Oct 23 at 1:06 PM PDT. (DBC-27390)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-27390.html",
-    "Location": "Durrell Road, 700m from Highway 97",
-    "Description": "Landslide, road closed. Detour available via Highway 97 and Dale Lake Road.",
+    "Location": "Durrell Road, in both directions at 700m from Highway 97",
+    "Description": "Landslide. Road closed. Detour available via Highway 97 and Dale Lake Road.",
     "Next update time": "Wed Apr 23, 2025 at 2:00 PM PDT",
     "Last update time": "Wed Oct 23 at 1:06 PM PDT",
     "latitude": 54.6985492,
@@ -182,7 +165,13 @@
   {
     "title": "Other Roads",
     "description": "Johnston Bridge. Travel advisory in effect at Front St. In Quesnel. Johnston Bridge. Bridge is open to vehicles with gross vehicle weight rating of 10,000 kilograms or lower. Industrial traffic and heavy commercial traffic must detour via Plywood Rd and Maple Drive. Industrial traffic is not allowed to detour through Johnston Subdivision. Next update time Wed Apr 8, 2026 at 9:00 AM PDT. Last updated Thu Oct 17 at 6:39 AM PDT. (DBC-47311)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-47311.html"
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-47311.html",
+    "Location": "Johnston Bridge at Front St. in Quesnel",
+    "Description": "Bridge is open to vehicles with gross vehicle weight rating of 10,000 kilograms or lower. Industrial traffic and heavy commercial traffic must detour via Plywood Rd and Maple Drive. Industrial traffic is not allowed to detour through Johnston Subdivision.",
+    "Next update time": "Wed Apr 8, 2026 at 9:00 AM PDT",
+    "Last update time": "Thu Oct 17 at 6:39 AM PDT",
+    "latitude": 52.9733808,
+    "longitude": -122.4965097
   },
   {
     "title": "Other Roads Both Directions",
