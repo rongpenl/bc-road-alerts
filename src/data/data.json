@@ -13,13 +13,7 @@
   {
     "title": "Highway 1 Both Directions",
     "description": "Highway 1 (TransCanada Highway), in both directions. Construction work between Coburn St and Shuswap Ave for 0.7 km (Chase). From 7:00 AM to 5:00 PM PDT on weekdays and Saturday. Blasting. Road closed intermittently. Watch for traffic control. Speed reduction to 60km/hr. Next update time Mon Nov 25 at 10:00 AM PDT. Last updated Mon Oct 21 at 10:28 AM PDT. (DBC-64961)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-64961.html",
-    "Location": "Highway 1 (TransCanada Highway), between Coburn St and Shuswap Ave for 0.7 km (Chase)",
-    "Description": "Construction work, blasting. Road closed intermittently. Watch for traffic control. Speed reduction to 60km/hr.",
-    "Next update time": "Mon Nov 25 at 10:00 AM PDT",
-    "Last update time": "Mon Oct 21 at 10:28 AM PDT",
-    "latitude": 50.820462,
-    "longitude": -119.686908
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-64961.html"
   },
   {
     "title": "Highway 1 Both Directions",
@@ -56,7 +50,13 @@
   {
     "title": "Highway 17 Both Directions",
     "description": "Highway 17 (Patricia Bay Highway), in both directions. Construction work at Exit 18: Keating Cross Rd (Central Saanich). Until Tue Jul 1, 2025. Nighttime lane closures both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed. Next update time Sat May 10, 2025 at 12:00 PM PDT. Last updated Thu Sep 26 at 12:08 PM PDT. (DBC-54341)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-54341.html"
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-54341.html",
+    "Location": "Highway 17 (Patricia Bay Highway), in both directions at Exit 18: Keating Cross Rd (Central Saanich)",
+    "Description": "Construction work with nighttime lane closures both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed.",
+    "Next update time": "Sat May 10, 2025 at 12:00 PM PDT",
+    "Last update time": "Thu Sep 26 at 12:08 PM PDT",
+    "latitude": 48.5533773,
+    "longitude": -123.3926916
   },
   {
     "title": "Highway 23 Both Directions",
@@ -73,7 +73,7 @@
     "title": "Highway 8 Both Directions",
     "description": "Highway 8, in both directions. Geotechnical investigation between the start of Highway 8 and 14 Mile Ranch Rd for 2.4 km (9 to 11 km east of Spences Bridge). Until Sat Nov 23 at 5:00 PM PDT. Single lane alternating traffic. Watch for traffic control. Expect delays. Next update time Sat Nov 23 at 5:00 PM PDT. Last updated Tue Oct 29 at 4:12 PM PDT. (DBC-69631)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69631.html",
-    "Location": "Highway 8, in both directions. Between the start of Highway 8 and 14 Mile Ranch Rd for 2.4 km (9 to 11 km east of Spences Bridge)",
+    "Location": "Highway 8, in both directions between the start of Highway 8 and 14 Mile Ranch Rd for 2.4 km (9 to 11 km east of Spences Bridge)",
     "Description": "Geotechnical investigation. Single lane alternating traffic. Watch for traffic control. Expect delays.",
     "Next update time": "Sat Nov 23 at 5:00 PM PDT",
     "Last update time": "Tue Oct 29 at 4:12 PM PDT",
@@ -82,12 +82,12 @@
   },
   {
     "title": "Highway 93",
-    "description": "Highway 93. Construction work between Radium Hill Rd and Stanley St (1 km south of Radium Hot Springs). Until Fri Nov 15. From 7:00 AM to 6:00 PM MDT on weekdays and Saturday. Lane Closure. Speed reduced to 50 km/hr. Next update time Mon Nov 11. Last updated Thu Oct 31 at 6:54 AM MDT. (DBC-65247)",
+    "description": "Highway 93. Construction work between Radium Hill Rd and Stanley St (1 km south of Radium Hot Springs). Until Fri Nov 15. From 7:00 AM to 6:00 PM MST on weekdays and Saturday. Lane Closure. Speed reduced to 50 km/hr. Next update time Fri Nov 15. Last updated Mon Nov 11 at 12:01 AM MST. (DBC-65247)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-65247.html",
     "Location": "Highway 93",
     "Description": "Construction work between Radium Hill Rd and Stanley St (1 km south of Radium Hot Springs). Lane Closure. Speed reduced to 50 km/hr.",
-    "Next update time": "Mon Nov 11",
-    "Last update time": "Thu Oct 31 at 6:54 AM MDT",
+    "Next update time": "Fri Nov 15",
+    "Last update time": "Mon Nov 11 at 12:01 AM MST",
     "latitude": 50.0993712,
     "longitude": -115.7574143
   },
@@ -101,6 +101,11 @@
     "Last update time": "Tue Oct 8 at 10:24 AM PDT",
     "latitude": 49.6723449,
     "longitude": -119.7096726
+  },
+  {
+    "title": "Highway 97 Both Directions",
+    "description": "Highway 97, in both directions. Tree on road between Park Ave and Brent Rd for 0.6 km (2 km south of Peachland). Road closed. Downed hydro lines. Assessment in progress. Two hour detour available: Highway 97C to Highway 5A to Princeton to Highway 3 to Highway 3A to Penticton. Estimated time of opening not available. Next update time Mon Nov 11 at 4:30 PM PST. Last updated Mon Nov 11 at 3:04 PM PST. (DBC-70140)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70140.html"
   },
   {
     "title": "Highway 97C Both Directions",
@@ -127,7 +132,13 @@
   {
     "title": "Other Roads Both Directions",
     "description": "Soda-Creek Macalister Road, in both directions. Landslide at 10 kms from the Junction of Highway 97. Road closed. Geotech assessment underway. Next update time Fri Feb 21, 2025 at 2:00 PM PDT. Last updated Mon Aug 26 at 2:45 PM PDT. (DBC-16911)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-16911.html"
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-16911.html",
+    "Location": "Soda-Creek Macalister Road, 10 kms from the Junction of Highway 97",
+    "Description": "Landslide",
+    "Next update time": "Fri Feb 21, 2025 at 2:00 PM PDT",
+    "Last update time": "Mon Aug 26 at 2:45 PM PDT",
+    "latitude": 52.390962,
+    "longitude": -122.3783111
   },
   {
     "title": "Other Roads",
@@ -187,13 +198,7 @@
   {
     "title": "Other Roads Both Directions",
     "description": "Canal Rd, in both directions. Construction work at Mt Norman Access Rd. From 10:00 AM to 2:00 PM PST daily. Road closed. Watch for traffic control. Expect delays. Work to continue through long weekend. Night work will begin on November 13th. Next update time Tue Nov 12 at 3:00 PM PST. Last updated Fri Nov 8 at 3:44 PM PST. (DBC-61149)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-61149.html",
-    "Location": "Canal Rd, in both directions at Mt Norman Access Rd",
-    "Description": "Road closed due to construction work. Watch for traffic control. Expect delays. Work to continue through long weekend. Night work will begin on November 13th.",
-    "Next update time": "Tue Nov 12 at 3:00 PM PST",
-    "Last update time": "Fri Nov 8 at 3:44 PM PST",
-    "latitude": 48.7591586,
-    "longitude": -123.2294164
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-61149.html"
   },
   {
     "title": "Other Roads Both Directions",
