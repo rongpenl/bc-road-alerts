@@ -1,16 +1,5 @@
 [
   {
-    "title": "Adams Lake Ferry",
-    "description": "Adams Lake Ferry. There will be required maintenance between the start of Adams Lake Ferry and Adams Lake Ferry (Adams Lake). Starting Fri Nov 15 at 1:00 AM PST. Ferry route will be closed. Next update time Fri Nov 15 at 5:00 AM PST. Last updated Tue Nov 12 at 10:48 AM PST. (DBC-70167)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70167.html",
-    "Location": "Adams Lake Ferry",
-    "Description": "There will be required maintenance between the start of Adams Lake Ferry and Adams Lake Ferry (Adams Lake). Ferry route will be closed.",
-    "Next update time": "Fri Nov 15 at 5:00 AM PST",
-    "Last update time": "Tue Nov 12 at 10:48 AM PST",
-    "latitude": 51.17466839999999,
-    "longitude": -119.5707686
-  },
-  {
     "title": "Highway 1 Both Directions",
     "description": "Highway 1 (TransCanada Highway), in both directions. Bridge construction at Nicomen River Rd (14 km east of Lytton). Until Sat Nov 30. Watch for traffic control. Expect delays. Speed reduced to 30 km/h. Highway stoppages with expected delays of 15 minutes. Project completion: 30 November 2024. Next update time Fri Nov 29 at 3:00 PM PDT. Last updated Fri Oct 25 at 5:08 AM PDT. (DBC-56391)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-56391.html",
@@ -31,17 +20,6 @@
     "Last update time": "Mon Oct 21 at 10:28 AM PDT",
     "latitude": 50.820462,
     "longitude": -119.686908
-  },
-  {
-    "title": "Highway 1 Both Directions",
-    "description": "Highway 1 (TransCanada Highway), in both directions. Bridge maintenance between Crazy Ck. Bridge and Enchanted Forest Ftg Rd for 6.2 km (29 km east of Sicamous to 29 km west of Revelstoke). Until Thu Nov 14 at 5:00 PM PST. Single lane alternating traffic. Watch for traffic control. Speed reduction to 50 km/h. Next update time Thu Nov 14 at 5:00 PM PST. Last updated Mon Nov 4 at 6:45 PM PST. (DBC-69955)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69955.html",
-    "Location": "Highway 1 (TransCanada Highway), between Crazy Ck. Bridge and Enchanted Forest Ftg Rd",
-    "Description": "Bridge maintenance for 6.2 km (29 km east of Sicamous to 29 km west of Revelstoke). Single lane alternating traffic. Watch for traffic control. Speed reduction to 50 km/h.",
-    "Next update time": "Thu Nov 14 at 5:00 PM PST",
-    "Last update time": "Mon Nov 4 at 6:45 PM PST",
-    "latitude": 53.7266683,
-    "longitude": -127.6476206
   },
   {
     "title": "Highway 1 Both Directions",
@@ -82,29 +60,34 @@
     "longitude": -123.3926916
   },
   {
+    "title": "Highway 7 Both Directions",
+    "description": "Highway 7 (Lougheed Highway), in both directions. There are rocks on the road between 7 Day Adventist Youth Camp Rd and Ross Rd (Hope). Road closed. Assessment in progress. No detour available. Alternate route via Highway 1. Next update time Fri Nov 15 at 6:00 PM PST. Last updated Fri Nov 15 at 12:03 PM PST. (DBC-70255)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70255.html"
+  },
+  {
     "title": "Highway 8 Both Directions",
     "description": "Highway 8, in both directions. Geotechnical investigation between the start of Highway 8 and 14 Mile Ranch Rd for 2.4 km (9 to 11 km east of Spences Bridge). Until Sat Nov 23 at 5:00 PM PDT. Single lane alternating traffic. Watch for traffic control. Expect delays. Next update time Sat Nov 23 at 5:00 PM PDT. Last updated Tue Oct 29 at 4:12 PM PDT. (DBC-69631)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69631.html",
-    "Location": "Highway 8, in both directions",
-    "Description": "Geotechnical investigation between the start of Highway 8 and 14 Mile Ranch Rd for 2.4 km (9 to 11 km east of Spences Bridge). Single lane alternating traffic. Watch for traffic control. Expect delays.",
-    "Next update time": "Sat Nov 23 at 5:00 PM PDT",
-    "Last update time": "Tue Oct 29 at 4:12 PM PDT",
-    "latitude": 50.2577012,
-    "longitude": -121.103234
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69631.html"
   },
   {
     "title": "Highway 97 Both Directions",
     "description": "Highway 97, in both directions. Landslide between Callan Rd and N Beach Rd for 1.5 km (2 to 1 km north of Summerland). Road open to traffic. Expect delays under 5 minutes. Next update time Fri Nov 22 at 12:30 PM PST. Last updated Wed Nov 13 at 1:14 PM PST. (DBC-55794)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-55794.html"
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-55794.html",
+    "Location": "Highway 97, between Callan Rd and N Beach Rd, 1.5 km north of Summerland",
+    "Description": "Landslide",
+    "Next update time": "Fri Nov 22 at 12:30 PM PST",
+    "Last update time": "Wed Nov 13 at 1:14 PM PST",
+    "latitude": 49.6723449,
+    "longitude": -119.7096726
   },
   {
     "title": "Kootenay Lake Ferry",
-    "description": "Kootenay Lake Ferry. Ferry is out of service between Balfour and Kootenay Bay. Schedule modification due to crewing issue. Monday - Friday Essential Service sailings from Balfour at 6:30AM, 8:10AM, 4:30PM, from Kootenay Bay at 7:10AM, 9AM, 5:20PM. Passage only for Essential Service travelers. All weekend and holiday sailings cancelled. Emergency service sailings accommodated. Next update time Fri Nov 15 at 9:00 AM PST. Last updated Thu Nov 14 at 8:40 AM PST. (DBC-69872)",
+    "description": "Kootenay Lake Ferry. Ferry is out of service between Balfour and Kootenay Bay. Schedule modification due to crewing issue. Monday - Friday Essential Service sailings from Balfour at 6:30AM, 8:10AM, 4:30PM, from Kootenay Bay at 7:10AM, 9AM, 5:20PM. Passage only for Essential Service travelers. All weekend and holiday sailings cancelled. Emergency service sailings accommodated. Next update time Mon Nov 18 at 9:00 AM PST. Last updated Fri Nov 15 at 8:27 AM PST. (DBC-69872)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69872.html",
     "Location": "Kootenay Lake Ferry",
     "Description": "Ferry is out of service between Balfour and Kootenay Bay due to crewing issue. Essential Service sailings available on weekdays with modified schedule. Passage only for Essential Service travelers. Weekend and holiday sailings cancelled. Emergency service sailings accommodated.",
-    "Next update time": "Fri Nov 15 at 9:00 AM PST",
-    "Last update time": "Thu Nov 14 at 8:40 AM PST",
+    "Next update time": "Mon Nov 18 at 9:00 AM PST",
+    "Last update time": "Fri Nov 15 at 8:27 AM PST",
     "latitude": 49.57009370000001,
     "longitude": -116.8312394
   },
@@ -155,7 +138,13 @@
   {
     "title": "Other Roads",
     "description": "Johnston Bridge. Travel advisory in effect at Front St. In Quesnel. Johnston Bridge. Bridge is open to vehicles with gross vehicle weight rating of 10,000 kilograms or lower. Industrial traffic and heavy commercial traffic must detour via Plywood Rd and Maple Drive. Industrial traffic is not allowed to detour through Johnston Subdivision. Next update time Wed Apr 8, 2026 at 9:00 AM PDT. Last updated Thu Oct 17 at 6:39 AM PDT. (DBC-47311)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-47311.html"
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-47311.html",
+    "Location": "Johnston Bridge at Front St. in Quesnel",
+    "Description": "Bridge is open to vehicles with gross vehicle weight rating of 10,000 kilograms or lower. Industrial traffic and heavy commercial traffic must detour via Plywood Rd and Maple Drive. Industrial traffic is not allowed to detour through Johnston Subdivision.",
+    "Next update time": "Wed Apr 8, 2026 at 9:00 AM PDT",
+    "Last update time": "Thu Oct 17 at 6:39 AM PDT",
+    "latitude": 52.9733808,
+    "longitude": -122.4965097
   },
   {
     "title": "Other Roads Both Directions",
@@ -173,7 +162,7 @@
     "description": "Canal Rd, in both directions. Construction work at Mt Norman Access Rd. From 10:00 AM to 2:00 PM PST daily. Watch for traffic control. Expect delays. Road closed. Night work will begin on November 13th. Next update time Fri Nov 29 at 10:00 AM PST. Last updated Wed Nov 13 at 9:56 AM PST. (DBC-61149)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-61149.html",
     "Location": "Canal Rd, in both directions at Mt Norman Access Rd",
-    "Description": "Construction work. Watch for traffic control. Expect delays. Road closed. Night work will begin on November 13th.",
+    "Description": "Construction work. Watch for traffic control. Expect delays. Road closed.",
     "Next update time": "Fri Nov 29 at 10:00 AM PST",
     "Last update time": "Wed Nov 13 at 9:56 AM PST",
     "latitude": 48.7591586,
@@ -206,7 +195,7 @@
     "description": "Pavilion Clinton Rd, in both directions. Travel advisory in effect between Clinton and Lillooet 60 km south of Lillooet. Road closed for the season. Pavilion-Clinton Rd is closed for the Winter. Next update time Fri May 16, 2025 at 10:00 AM PST. Last updated Tue Nov 12 at 9:23 AM PST. (DBC-70161)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70161.html",
     "Location": "Pavilion Clinton Rd, in both directions between Clinton and Lillooet 60 km south of Lillooet",
-    "Description": "Road closed for the season",
+    "Description": "Road closed for the season. Pavilion-Clinton Rd is closed for the Winter.",
     "Next update time": "Fri May 16, 2025 at 10:00 AM PST",
     "Last update time": "Tue Nov 12 at 9:23 AM PST",
     "latitude": 51.0879404,
