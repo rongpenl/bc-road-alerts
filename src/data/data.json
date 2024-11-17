@@ -25,12 +25,12 @@
     "title": "Highway 1 Both Directions",
     "description": "Highway 1 (TransCanada Highway), in both directions. Blasting planned between Griffin Lake Avalanche Gate and Clanwilliam OH Bridge for 15.4 km (9 to 24 km west of Revelstoke). Starting Thu Nov 21 at 10:00 AM PDT until Thu Nov 21 at 12:00 PM PDT. Road closure planned. Expect delays. Next update time Thu Nov 21 at 12:00 PM PDT. Last updated Fri Nov 1 at 5:19 PM PDT. (DBC-69823)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69823.html",
-    "Location": "Highway 1 (TransCanada Highway), in both directions between Griffin Lake Avalanche Gate and Clanwilliam OH Bridge for 15.4 km (9 to 24 km west of Revelstoke)",
-    "Description": "Blasting planned. Road closure planned. Expect delays.",
+    "Location": "Highway 1 (TransCanada Highway), in both directions between Griffin Lake Avalanche Gate and Clanwilliam OH Bridge",
+    "Description": "Blasting planned for 15.4 km (9 to 24 km west of Revelstoke). Road closure planned. Expect delays.",
     "Next update time": "Thu Nov 21 at 12:00 PM PDT",
     "Last update time": "Fri Nov 1 at 5:19 PM PDT",
-    "latitude": 50.998115,
-    "longitude": -118.195672
+    "latitude": 53.7266683,
+    "longitude": -127.6476206
   },
   {
     "title": "Highway 1",
@@ -61,19 +61,31 @@
   },
   {
     "title": "Highway 7 Both Directions",
-    "description": "Highway 7 (Lougheed Highway), in both directions. There are rocks on the road between 7 Day Adventist Youth Camp Rd and Ross Rd (Hope). Road closed. Assessment in progress. No detour available. Alternate route via Highway 1. Next update time Fri Nov 15 at 6:00 PM PST. Last updated Fri Nov 15 at 12:03 PM PST. (DBC-70255)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70255.html"
+    "description": "Highway 7 (Lougheed Highway), in both directions. There are rocks on the road between 7 Day Adventist Youth Camp Rd and Ross Rd (Hope). Road closed. Assessment in progress. No detour available. Alternate route via Highway 1 and Highway 9. Next update time Sat Nov 16 at 7:00 PM PST. Last updated Sat Nov 16 at 11:15 AM PST. (DBC-70255)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70255.html",
+    "Location": "Highway 7 (Lougheed Highway), between 7 Day Adventist Youth Camp Rd and Ross Rd (Hope)",
+    "Description": "There are rocks on the road. Road closed. Assessment in progress. No detour available. Alternate route via Highway 1 and Highway 9.",
+    "Next update time": "Sat Nov 16 at 7:00 PM PST",
+    "Last update time": "Sat Nov 16 at 11:15 AM PST",
+    "latitude": 49.401884,
+    "longitude": -121.4497022
   },
   {
     "title": "Highway 8 Both Directions",
     "description": "Highway 8, in both directions. Geotechnical investigation between the start of Highway 8 and 14 Mile Ranch Rd for 2.4 km (9 to 11 km east of Spences Bridge). Until Sat Nov 23 at 5:00 PM PDT. Single lane alternating traffic. Watch for traffic control. Expect delays. Next update time Sat Nov 23 at 5:00 PM PDT. Last updated Tue Oct 29 at 4:12 PM PDT. (DBC-69631)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69631.html"
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69631.html",
+    "Location": "Highway 8, in both directions. Between the start of Highway 8 and 14 Mile Ranch Rd for 2.4 km (9 to 11 km east of Spences Bridge)",
+    "Description": "Geotechnical investigation. Single lane alternating traffic. Watch for traffic control. Expect delays.",
+    "Next update time": "Sat Nov 23 at 5:00 PM PDT",
+    "Last update time": "Tue Oct 29 at 4:12 PM PDT",
+    "latitude": 50.30072149999999,
+    "longitude": -121.1895532
   },
   {
     "title": "Highway 97 Both Directions",
     "description": "Highway 97, in both directions. Landslide between Callan Rd and N Beach Rd for 1.5 km (2 to 1 km north of Summerland). Road open to traffic. Expect delays under 5 minutes. Next update time Fri Nov 22 at 12:30 PM PST. Last updated Wed Nov 13 at 1:14 PM PST. (DBC-55794)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-55794.html",
-    "Location": "Highway 97, between Callan Rd and N Beach Rd, 1.5 km north of Summerland",
+    "Location": "Highway 97, between Callan Rd and N Beach Rd, 2 to 1 km north of Summerland",
     "Description": "Landslide",
     "Next update time": "Fri Nov 22 at 12:30 PM PST",
     "Last update time": "Wed Nov 13 at 1:14 PM PST",
@@ -83,13 +95,7 @@
   {
     "title": "Kootenay Lake Ferry",
     "description": "Kootenay Lake Ferry. Ferry is out of service between Balfour and Kootenay Bay. Schedule modification due to crewing issue. Monday - Friday Essential Service sailings from Balfour at 6:30AM, 8:10AM, 4:30PM, from Kootenay Bay at 7:10AM, 9AM, 5:20PM. Passage only for Essential Service travelers. All weekend and holiday sailings cancelled. Emergency service sailings accommodated. Next update time Mon Nov 18 at 9:00 AM PST. Last updated Fri Nov 15 at 8:27 AM PST. (DBC-69872)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69872.html",
-    "Location": "Kootenay Lake Ferry",
-    "Description": "Ferry is out of service between Balfour and Kootenay Bay due to crewing issue. Essential Service sailings available on weekdays with modified schedule. Passage only for Essential Service travelers. Weekend and holiday sailings cancelled. Emergency service sailings accommodated.",
-    "Next update time": "Mon Nov 18 at 9:00 AM PST",
-    "Last update time": "Fri Nov 15 at 8:27 AM PST",
-    "latitude": 49.57009370000001,
-    "longitude": -116.8312394
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69872.html"
   },
   {
     "title": "Other Roads Both Directions",
@@ -162,7 +168,7 @@
     "description": "Canal Rd, in both directions. Construction work at Mt Norman Access Rd. From 10:00 AM to 2:00 PM PST daily. Watch for traffic control. Expect delays. Road closed. Night work will begin on November 13th. Next update time Fri Nov 29 at 10:00 AM PST. Last updated Wed Nov 13 at 9:56 AM PST. (DBC-61149)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-61149.html",
     "Location": "Canal Rd, in both directions at Mt Norman Access Rd",
-    "Description": "Construction work. Watch for traffic control. Expect delays. Road closed.",
+    "Description": "Construction work. Watch for traffic control. Expect delays. Road closed. Night work will begin on November 13th.",
     "Next update time": "Fri Nov 29 at 10:00 AM PST",
     "Last update time": "Wed Nov 13 at 9:56 AM PST",
     "latitude": 48.7591586,
@@ -194,8 +200,8 @@
     "title": "Other Roads Both Directions",
     "description": "Pavilion Clinton Rd, in both directions. Travel advisory in effect between Clinton and Lillooet 60 km south of Lillooet. Road closed for the season. Pavilion-Clinton Rd is closed for the Winter. Next update time Fri May 16, 2025 at 10:00 AM PST. Last updated Tue Nov 12 at 9:23 AM PST. (DBC-70161)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70161.html",
-    "Location": "Pavilion Clinton Rd, in both directions between Clinton and Lillooet 60 km south of Lillooet",
-    "Description": "Road closed for the season. Pavilion-Clinton Rd is closed for the Winter.",
+    "Location": "Pavilion Clinton Rd, between Clinton and Lillooet 60 km south of Lillooet",
+    "Description": "Road closed for the season",
     "Next update time": "Fri May 16, 2025 at 10:00 AM PST",
     "Last update time": "Tue Nov 12 at 9:23 AM PST",
     "latitude": 51.0879404,
