@@ -11,6 +11,17 @@
     "longitude": -121.7255006
   },
   {
+    "title": "Highway 1 Eastbound",
+    "description": "Highway 1 (TransCanada Highway), eastbound. Stalled vehicle at Port Mann Bridge (Surrey). Right lane is blocked. Expect delays due to congestion. Next update time Wed Nov 20 at 4:45 PM PST. Last updated Wed Nov 20 at 4:15 PM PST. (DBC-70408)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70408.html",
+    "Location": "Highway 1 (TransCanada Highway), eastbound at Port Mann Bridge (Surrey)",
+    "Description": "Stalled vehicle blocking the right lane. Expect delays due to congestion.",
+    "Next update time": "Wed Nov 20 at 4:45 PM PST",
+    "Last update time": "Wed Nov 20 at 4:15 PM PST",
+    "latitude": 49.2156897,
+    "longitude": -122.8116897
+  },
+  {
     "title": "Highway 1 Both Directions",
     "description": "Highway 1 (TransCanada Highway), in both directions. Bridge construction at Nicomen River Rd (14 km east of Lytton). Until Sat Nov 30. Watch for traffic control. Expect delays. Speed reduced to 30 km/h. Highway stoppages with expected delays of 15 minutes. Project completion: 30 November 2024. Next update time Fri Nov 29 at 3:00 PM PDT. Last updated Fri Oct 25 at 5:08 AM PDT. (DBC-56391)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-56391.html",
@@ -40,17 +51,84 @@
   {
     "title": "Highway 101 Both Directions",
     "description": "Highway 101, in both directions. Special event planned between Alberni St and Duncan St for 0.9 km (Powell River). Starting Sun Dec 1 at 2:00 PM PDT until Sun Dec 1 at 5:00 PM PDT. Road closure planned. The annual Santa Claus Parade will be taking place. Next update time Sun Dec 1 at 5:00 PM PDT. Last updated Fri Oct 25 at 12:04 PM PDT. (DBC-69604)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69604.html"
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69604.html",
+    "Location": "Highway 101, in both directions between Alberni St and Duncan St for 0.9 km (Powell River)",
+    "Description": "Road closure planned for the annual Santa Claus Parade",
+    "Next update time": "Sun Dec 1 at 5:00 PM PDT",
+    "Last update time": "Fri Oct 25 at 12:04 PM PDT",
+    "latitude": 49.8464829,
+    "longitude": -124.5169267
+  },
+  {
+    "title": "Highway 14",
+    "description": "Highway 14. Tree on road between Deering Rd and Woodhaven Rd for 49.8 km (Port Renfrew to 9 km east of Jordan River). Downed hydro lines. Road closed. Next update time Wed Nov 20 at 6:00 PM PST. Last updated Wed Nov 20 at 7:36 AM PST. (DBC-70368)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70368.html",
+    "Location": "Highway 14 between Deering Rd and Woodhaven Rd for 49.8 km (Port Renfrew to 9 km east of Jordan River)",
+    "Description": "Downed hydro lines. Road closed.",
+    "Next update time": "Wed Nov 20 at 6:00 PM PST",
+    "Last update time": "Wed Nov 20 at 7:36 AM PST",
+    "latitude": 48.4085172,
+    "longitude": -123.9947117
   },
   {
     "title": "Highway 17 Both Directions",
     "description": "Highway 17 (Patricia Bay Highway), in both directions. Construction work at Exit 18: Keating Cross Rd (Central Saanich). Until Tue Jul 1, 2025. Nighttime lane closures both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed. Next update time Sat May 10, 2025 at 12:00 PM PDT. Last updated Thu Sep 26 at 12:08 PM PDT. (DBC-54341)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-54341.html"
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-54341.html",
+    "Location": "Highway 17 (Patricia Bay Highway), Exit 18: Keating Cross Rd (Central Saanich)",
+    "Description": "Construction work with nighttime lane closures in both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale, and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed.",
+    "Next update time": "Sat May 10, 2025 at 12:00 PM PDT",
+    "Last update time": "Thu Sep 26 at 12:08 PM PDT",
+    "latitude": 48.5651196,
+    "longitude": -123.417242
   },
   {
-    "title": "Highway 5A Both Directions",
-    "description": "Highway 5A, in both directions. Vehicle incident between Monck Park Rd and Pennask Lake Rd (7 km north of Merritt). Road closed. Detour in effect. Assessment in progress. Expect delays. Detour via Highway 5. Estimated time of re-opening Tue Nov 19 at 3:00 PM PST. Next update time Tue Nov 19 at 2:00 PM PST. Last updated Tue Nov 19 at 11:56 AM PST. (DBC-70346)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70346.html"
+    "title": "Highway 17 Westbound",
+    "description": "Highway 17, westbound. Bridge construction planned between Bridgeview Dr and Old Yale Rd for 2.5 km (Surrey). Starting Thu Nov 28 until Sat Nov 30. From 9:00 PM to 5:00 AM PST on Thursday, Friday and Saturday. Detour via Bridgeview Dr to 120th St. Next update time Sat Nov 30 at 5:00 AM PST. Last updated Tue Nov 19 at 4:13 PM PST. (DBC-70359)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70359.html",
+    "Location": "Highway 17, westbound, between Bridgeview Dr and Old Yale Rd, Surrey",
+    "Description": "Bridge construction planned for 2.5 km",
+    "Next update time": "Sat Nov 30 at 5:00 AM PST",
+    "Last update time": "Tue Nov 19 at 4:13 PM PST",
+    "latitude": 49.194488,
+    "longitude": -122.866121
+  },
+  {
+    "title": "Highway 17 Eastbound",
+    "description": "Highway 17, eastbound. Bridge construction planned between Old Yale Rd and Bridgeview Dr (Surrey). Starting Mon Nov 25 until Wed Nov 27. From 9:00 PM to 5:00 AM PST on Monday, Tuesday and Wednesday. Road closure planned. Watch for traffic control personnel. Detour planned. Drivers to detour at Tannery Rd to 120th St. Next update time Wed Nov 27 at 5:00 AM PST. Last updated Tue Nov 19 at 5:10 PM PST. (DBC-70360)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70360.html"
+  },
+  {
+    "title": "Highway 3 Both Directions",
+    "description": "Highway 3 (Crowsnest Highway), in both directions. Vehicle incident between Helena Ave and Elko Tunnel for 3.8 km (3 to 7 km east of Elko). Road closed. Assessment in progress. Watch for traffic control. Next update time Wed Nov 20 at 5:15 PM MST. Last updated Wed Nov 20 at 4:34 PM MST. (DBC-70406)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70406.html",
+    "Location": "Highway 3 (Crowsnest Highway), in both directions between Helena Ave and Elko Tunnel for 3.8 km (3 to 7 km east of Elko)",
+    "Description": "Road closed due to a vehicle incident. Assessment in progress. Watch for traffic control.",
+    "Next update time": "Wed Nov 20 at 5:15 PM MST",
+    "Last update time": "Wed Nov 20 at 4:34 PM MST",
+    "latitude": 49.2986807,
+    "longitude": -115.1141614
+  },
+  {
+    "title": "Highway 4 Both Directions",
+    "description": "Highway 4, in both directions. Tree on road at Yew Wood Rd (Tofino). Road closed. Assessment in progress. Next update time Wed Nov 20 at 4:00 PM PST. Last updated Wed Nov 20 at 2:27 PM PST. (DBC-70395)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70395.html",
+    "Location": "Highway 4, at Yew Wood Rd (Tofino)",
+    "Description": "Tree on road. Road closed. Assessment in progress.",
+    "Next update time": "Wed Nov 20 at 4:00 PM PST",
+    "Last update time": "Wed Nov 20 at 2:27 PM PST",
+    "latitude": 49.1410371,
+    "longitude": -125.8901075
+  },
+  {
+    "title": "Highway 4 Both Directions",
+    "description": "Highway 4, in both directions. Tree on road between Aspeden Rd and Chatsworth Rd for 24.7 km (2 km east of Port Alberni to 9 km west of Qualicum Beach). Single lane alternating traffic. Assessment in progress. Expect up to 20 minute delays. Next update time Wed Nov 20 at 6:00 PM PST. Last updated Wed Nov 20 at 4:14 PM PST. (DBC-70364)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70364.html",
+    "Location": "Highway 4, between Aspeden Rd and Chatsworth Rd for 24.7 km (2 km east of Port Alberni to 9 km west of Qualicum Beach)",
+    "Description": "Tree on road, single lane alternating traffic. Assessment in progress. Expect up to 20 minute delays.",
+    "Next update time": "Wed Nov 20 at 6:00 PM PST",
+    "Last update time": "Wed Nov 20 at 4:14 PM PST",
+    "latitude": 49.2656693,
+    "longitude": -124.7506699
   },
   {
     "title": "Highway 7 Both Directions",
@@ -61,8 +139,8 @@
     "title": "Highway 8 Both Directions",
     "description": "Highway 8, in both directions. Geotechnical investigation between the start of Highway 8 and 14 Mile Ranch Rd for 2.4 km (9 to 11 km east of Spences Bridge). Until Sat Nov 23 at 5:00 PM PDT. Single lane alternating traffic. Watch for traffic control. Expect delays. Next update time Sat Nov 23 at 5:00 PM PDT. Last updated Tue Oct 29 at 4:12 PM PDT. (DBC-69631)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69631.html",
-    "Location": "Highway 8, in both directions. Geotechnical investigation between the start of Highway 8 and 14 Mile Ranch Rd for 2.4 km (9 to 11 km east of Spences Bridge)",
-    "Description": "Single lane alternating traffic. Watch for traffic control. Expect delays.",
+    "Location": "Highway 8, in both directions. Between the start of Highway 8 and 14 Mile Ranch Rd for 2.4 km (9 to 11 km east of Spences Bridge)",
+    "Description": "Geotechnical investigation. Single lane alternating traffic. Watch for traffic control. Expect delays.",
     "Next update time": "Sat Nov 23 at 5:00 PM PDT",
     "Last update time": "Tue Oct 29 at 4:12 PM PDT",
     "latitude": 50.30072149999999,
@@ -72,7 +150,7 @@
     "title": "Highway 97 Both Directions",
     "description": "Highway 97, in both directions. Landslide between Callan Rd and N Beach Rd for 1.5 km (2 to 1 km north of Summerland). Road open to traffic. Expect delays under 5 minutes. Next update time Fri Nov 22 at 12:30 PM PST. Last updated Wed Nov 13 at 1:14 PM PST. (DBC-55794)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-55794.html",
-    "Location": "Highway 97, between Callan Rd and N Beach Rd, 1.5 km north of Summerland",
+    "Location": "Highway 97, between Callan Rd and N Beach Rd, 2 to 1 km north of Summerland",
     "Description": "Landslide",
     "Next update time": "Fri Nov 22 at 12:30 PM PST",
     "Last update time": "Wed Nov 13 at 1:14 PM PST",
@@ -81,12 +159,12 @@
   },
   {
     "title": "Kootenay Lake Ferry",
-    "description": "Kootenay Lake Ferry. Ferry is out of service between Balfour and Kootenay Bay. Schedule modification due to crewing issue. Monday - Friday Essential Service sailings from Balfour at 6:30AM, 8:10AM, 4:30PM, from Kootenay Bay at 7:10AM, 9AM, 5:20PM. Passage only for Essential Service travelers. All weekend and holiday sailings cancelled. Emergency service sailings accommodated. Next update time Wed Nov 20 at 9:00 AM PST. Last updated Mon Nov 18 at 6:52 AM PST. (DBC-69872)",
+    "description": "Kootenay Lake Ferry. Ferry is out of service between Balfour and Kootenay Bay. Schedule modification due to crewing issue. Monday - Friday Essential Service sailings from Balfour at 6:30AM, 8:10AM, 4:30PM, from Kootenay Bay at 7:10AM, 9AM, 5:20PM. Passage only for Essential Service travelers. All weekend and holiday sailings cancelled. Emergency service sailings accommodated. Next update time Fri Nov 22 at 9:00 AM PST. Last updated Wed Nov 20 at 8:08 AM PST. (DBC-69872)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69872.html",
     "Location": "Kootenay Lake Ferry",
-    "Description": "Ferry is out of service between Balfour and Kootenay Bay. Schedule modification due to crewing issue. Passage only for Essential Service travelers. All weekend and holiday sailings cancelled. Emergency service sailings accommodated.",
-    "Next update time": "Wed Nov 20 at 9:00 AM PST",
-    "Last update time": "Mon Nov 18 at 6:52 AM PST",
+    "Description": "Ferry is out of service between Balfour and Kootenay Bay due to crewing issue. Essential Service sailings on weekdays only. Passage restricted to Essential Service travelers. Weekend and holiday sailings canceled. Emergency service sailings available.",
+    "Next update time": "Fri Nov 22 at 9:00 AM PST",
+    "Last update time": "Wed Nov 20 at 8:08 AM PST",
     "latitude": 49.57009370000001,
     "longitude": -116.8312394
   },
@@ -116,8 +194,8 @@
     "title": "Other Roads Both Directions",
     "description": "Durrell Road, in both directions. Landslide at 700m from Highway 97. Road closed. Detour in effect. Detour available via Highway 97 and Dale Lake Road. Next update time Wed Apr 23, 2025 at 2:00 PM PDT. Last updated Wed Oct 23 at 1:06 PM PDT. (DBC-27390)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-27390.html",
-    "Location": "Durrell Road, in both directions at 700m from Highway 97",
-    "Description": "Landslide. Road closed. Detour available via Highway 97 and Dale Lake Road.",
+    "Location": "Durrell Road, 700m from Highway 97",
+    "Description": "Landslide, road closed. Detour available via Highway 97 and Dale Lake Road.",
     "Next update time": "Wed Apr 23, 2025 at 2:00 PM PDT",
     "Last update time": "Wed Oct 23 at 1:06 PM PDT",
     "latitude": 54.6985492,
@@ -137,13 +215,7 @@
   {
     "title": "Other Roads",
     "description": "Johnston Bridge. Travel advisory in effect at Front St. In Quesnel. Johnston Bridge. Bridge is open to vehicles with gross vehicle weight rating of 10,000 kilograms or lower. Industrial traffic and heavy commercial traffic must detour via Plywood Rd and Maple Drive. Industrial traffic is not allowed to detour through Johnston Subdivision. Next update time Wed Apr 8, 2026 at 9:00 AM PDT. Last updated Thu Oct 17 at 6:39 AM PDT. (DBC-47311)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-47311.html",
-    "Location": "Johnston Bridge at Front St. in Quesnel",
-    "Description": "Bridge is open to vehicles with gross vehicle weight rating of 10,000 kilograms or lower. Industrial traffic and heavy commercial traffic must detour via Plywood Rd and Maple Drive. Industrial traffic is not allowed to detour through Johnston Subdivision.",
-    "Next update time": "Wed Apr 8, 2026 at 9:00 AM PDT",
-    "Last update time": "Thu Oct 17 at 6:39 AM PDT",
-    "latitude": 52.9733808,
-    "longitude": -122.4965097
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-47311.html"
   },
   {
     "title": "Other Roads Both Directions",
@@ -194,21 +266,31 @@
     "description": "Pavilion Clinton Rd, in both directions. Travel advisory in effect between Clinton and Lillooet 60 km south of Lillooet. Road closed for the season. Pavilion-Clinton Rd is closed for the Winter. Next update time Fri May 16, 2025 at 10:00 AM PST. Last updated Tue Nov 12 at 9:23 AM PST. (DBC-70161)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70161.html",
     "Location": "Pavilion Clinton Rd, in both directions between Clinton and Lillooet 60 km south of Lillooet",
-    "Description": "Road closed for the season",
+    "Description": "Road closed for the season. Pavilion-Clinton Rd is closed for the Winter.",
     "Next update time": "Fri May 16, 2025 at 10:00 AM PST",
     "Last update time": "Tue Nov 12 at 9:23 AM PST",
     "latitude": 51.0879404,
     "longitude": -121.598893
   },
   {
+    "title": "Other Roads Both Directions",
+    "description": "Coal Harbour Road, in both directions. Tree on road between Highway 19 and Harbour Road. Debris on roadway. Single lane alternating traffic. Watch for traffic control. Next update time Wed Nov 20 at 5:00 PM PST. Last updated Wed Nov 20 at 2:25 PM PST. (DBC-70378)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70378.html",
+    "Location": "Coal Harbour Road, in both directions between Highway 19 and Harbour Road",
+    "Description": "Tree on road. Debris on roadway. Single lane alternating traffic. Watch for traffic control.",
+    "Next update time": "Wed Nov 20 at 5:00 PM PST",
+    "Last update time": "Wed Nov 20 at 2:25 PM PST",
+    "latitude": 50.599556,
+    "longitude": -127.5807978
+  },
+  {
     "title": "Upper Arrow Lake Ferry",
     "description": "Upper Arrow Lake Ferry. There will be required maintenance between Galena Bay and Shelter Bay. Starting Sat Nov 30 at 10:00 PM PST until Sun Dec 1 at 5:00 AM PST. Ferry will be out of service. Last sailing from Shelter Bay at 9:00PM. Last sailing from Galena Bay at 9:30PM. Next update time Sun Dec 1 at 5:00 AM PST. Last updated Tue Nov 19 at 10:11 AM PST. (DBC-70350)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70350.html",
-    "Location": "Upper Arrow Lake Ferry",
-    "Description": "There will be required maintenance between Galena Bay and Shelter Bay.",
-    "Next update time": "Sun Dec 1 at 5:00 AM PST",
-    "Last update time": "Tue Nov 19 at 10:11 AM PST",
-    "latitude": 50.6288821,
-    "longitude": -117.9007844
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70350.html"
+  },
+  {
+    "title": "Upper Arrow Lake Ferry Both Directions",
+    "description": "Upper Arrow Lake Ferry, in both directions. Crewing issue are expected at Upper Arrow Lake Ferry (Upper Arrow Lake). Starting Wed Nov 20 at 11:00 PM PST until Thu Nov 21 at 5:00 AM PST. Ferry route will be closed. Last sailing from Shelter Bay will be 2200 (10PM). Last Sailing from Galena Bay will be 2230 (1030PM). Next update time Thu Nov 21 at 5:00 AM PST. Last updated Wed Nov 20 at 2:22 PM PST. (DBC-70404)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70404.html"
   }
 ]
