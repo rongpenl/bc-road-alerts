@@ -11,6 +11,17 @@
     "longitude": -121.7255006
   },
   {
+    "title": "Highway 1 Eastbound",
+    "description": "Highway 1 (TransCanada Highway), eastbound. Vehicle incident between Exit 73 and Bradner Rd (Langley - District). Right lane is blocked. Expect delays due to congestion. Next update time Thu Nov 28 at 4:15 PM PST. Last updated Thu Nov 28 at 3:46 PM PST. (DBC-70624)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70624.html",
+    "Location": "Highway 1 (TransCanada Highway), eastbound between Exit 73 and Bradner Rd (Langley - District)",
+    "Description": "Vehicle incident. Right lane is blocked. Expect delays due to congestion.",
+    "Next update time": "Thu Nov 28 at 4:15 PM PST",
+    "Last update time": "Thu Nov 28 at 3:46 PM PST",
+    "latitude": 49.0024115,
+    "longitude": -122.4274495
+  },
+  {
     "title": "Highway 1 Both Directions",
     "description": "Highway 1 (TransCanada Highway), in both directions. Bridge construction at Nicomen River Rd (14 km east of Lytton). Until Sat Nov 30. Watch for traffic control. Expect delays. Speed reduced to 30 km/h. Highway stoppages with expected delays of 15 minutes. Project completion: 30 November 2024. Next update time Fri Nov 29 at 3:00 PM PDT. Last updated Fri Oct 25 at 5:08 AM PDT. (DBC-56391)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-56391.html",
@@ -24,13 +35,7 @@
   {
     "title": "Highway 1 Both Directions",
     "description": "Highway 1 (TransCanada Highway), in both directions. Construction work between Coburn St and Shuswap Ave for 0.7 km (Chase). From 7:00 AM to 5:00 PM PST on weekdays and Saturday. Blasting. Road closed intermittently. Watch for traffic control. Speed reduction to 60km/hr. Next update time Sun Dec 15 at 10:00 AM PST. Last updated Mon Nov 25 at 10:06 AM PST. (DBC-64961)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-64961.html",
-    "Location": "Highway 1 (TransCanada Highway), between Coburn St and Shuswap Ave for 0.7 km (Chase)",
-    "Description": "Construction work, blasting. Road closed intermittently. Watch for traffic control. Speed reduction to 60km/hr.",
-    "Next update time": "Sun Dec 15 at 10:00 AM PST",
-    "Last update time": "Mon Nov 25 at 10:06 AM PST",
-    "latitude": 50.820462,
-    "longitude": -119.686908
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-64961.html"
   },
   {
     "title": "Highway 1 Both Directions",
@@ -83,30 +88,13 @@
   },
   {
     "title": "Kootenay Lake Ferry Both Directions",
-    "description": "Kootenay Lake Ferry, in both directions. Ferry is out of service between Balfour and Kootenay Bay. Schedule modification due to crewing issue. Monday - Friday essential service sailings from Balfour at 6:30AM, 8:10AM, 4:30PM, from Kootenay Bay at 7:10AM, 9AM, 5:20PM. Passage only for essential service travellers. All weekend and holiday sailings cancelled. Emergency service sailings accommodated. Next update time Fri Nov 29 at 9:00 AM PST. Last updated Wed Nov 27 at 6:58 AM PST. (DBC-69872)",
+    "description": "Kootenay Lake Ferry, in both directions. Ferry is out of service between Balfour and Kootenay Bay. Schedule modification due to crewing issue. Monday - Friday essential service sailings from Balfour at 6:30AM, 8:10AM, 4:30PM, from Kootenay Bay at 7:10AM, 9AM, 5:20PM. Priority boarding for essential service travellers and then general public to be loaded. Emergency service sailings accommodated. Next update time Fri Nov 29 at 9:00 AM PST. Last updated Wed Nov 27 at 5:56 PM PST. (DBC-69872)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69872.html"
-  },
-  {
-    "title": "Little Fort Ferry Both Directions",
-    "description": "Little Fort Ferry, in both directions. Ferry will be out of service between Little Fort Ferry and the end of Little Fort Ferry (Little Fort). Starting Thu Nov 28 at 7:00 AM PST until Fri Nov 29 at 6:30 PM PST. There will be required maintenance. Next update time Fri Nov 29 at 6:30 PM PST. Last updated Mon Nov 25 at 7:26 PM PST. (DBC-70531)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70531.html",
-    "Location": "Little Fort Ferry",
-    "Description": "Ferry will be out of service between Little Fort Ferry and the end of Little Fort Ferry (Little Fort) due to required maintenance.",
-    "Next update time": "Fri Nov 29 at 6:30 PM PST",
-    "Last update time": "Mon Nov 25 at 7:26 PM PST",
-    "latitude": 51.4239653,
-    "longitude": -120.2053428
   },
   {
     "title": "Other Roads Both Directions",
     "description": "Soda-Creek Macalister Road, in both directions. Landslide at 10 kms from the Junction of Highway 97. Road closed. Geotech assessment underway. Next update time Fri Feb 21, 2025 at 2:00 PM PDT. Last updated Mon Aug 26 at 2:45 PM PDT. (DBC-16911)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-16911.html",
-    "Location": "Soda-Creek Macalister Road, in both directions at 10 kms from the Junction of Highway 97",
-    "Description": "Landslide",
-    "Next update time": "Fri Feb 21, 2025 at 2:00 PM PDT",
-    "Last update time": "Mon Aug 26 at 2:45 PM PDT",
-    "latitude": 52.390962,
-    "longitude": -122.3783111
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-16911.html"
   },
   {
     "title": "Other Roads",
@@ -162,7 +150,7 @@
     "description": "Canal Rd, in both directions. Construction work at Mt Norman Access Rd. From 10:00 AM to 2:00 PM PST daily. Watch for traffic control. Expect delays. Road closed. Night work will begin on November 13th. Next update time Fri Nov 29 at 10:00 AM PST. Last updated Wed Nov 13 at 9:56 AM PST. (DBC-61149)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-61149.html",
     "Location": "Canal Rd, in both directions at Mt Norman Access Rd",
-    "Description": "Construction work. Road closed. Night work will begin on November 13th. Watch for traffic control. Expect delays.",
+    "Description": "Construction work. Watch for traffic control. Expect delays. Road closed. Night work will begin on November 13th.",
     "Next update time": "Fri Nov 29 at 10:00 AM PST",
     "Last update time": "Wed Nov 13 at 9:56 AM PST",
     "latitude": 48.7591586,
@@ -204,7 +192,13 @@
   {
     "title": "Upper Arrow Lake Ferry",
     "description": "Upper Arrow Lake Ferry. There will be required maintenance between Galena Bay and Shelter Bay. Starting Sat Nov 30 at 10:00 PM PST until Sun Dec 1 at 5:00 AM PST. Ferry will be out of service. Last sailing from Shelter Bay at 9:00PM. Last sailing from Galena Bay at 9:30PM. Next update time Sun Dec 1 at 5:00 AM PST. Last updated Tue Nov 19 at 10:11 AM PST. (DBC-70350)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70350.html"
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70350.html",
+    "Location": "Upper Arrow Lake Ferry",
+    "Description": "There will be required maintenance between Galena Bay and Shelter Bay.",
+    "Next update time": "Sun Dec 1 at 5:00 AM PST",
+    "Last update time": "Tue Nov 19 at 10:11 AM PST",
+    "latitude": 50.6288821,
+    "longitude": -117.9007844
   },
   {
     "title": "Upper Arrow Lake Ferry Both Directions",
