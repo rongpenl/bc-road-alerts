@@ -12,6 +12,11 @@
   },
   {
     "title": "Highway 1 Both Directions",
+    "description": "Highway 1 (TransCanada Highway), in both directions. Bridge maintenance between Mt Sicker Rd and Fuller Lake Rd for 3.7 km (Chemainus). Lane closures in both directions. Construction speed zone in effect. Southbound bridge closed for repairs. All Traffic diverted onto the adjacent bridge. No overwidth protocols in effect up to 4.4m. Next update time Mon Jan 20, 2025 at 7:00 AM PST. Last updated Fri Nov 29 at 9:22 PM PST. (DBC-70685)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70685.html"
+  },
+  {
+    "title": "Highway 1 Both Directions",
     "description": "Highway 1 (TransCanada Highway), in both directions. Bridge construction at Nicomen River Rd (14 km east of Lytton). Until Sat Nov 30. Watch for traffic control. Expect delays. Speed reduced to 30 km/h. Highway stoppages with expected delays of 15 minutes. Project completion: 30 November 2024. Next update time Fri Dec 6 at 3:00 PM PST. Last updated Fri Nov 29 at 3:02 PM PST. (DBC-56391)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-56391.html",
     "Location": "Highway 1 (TransCanada Highway), in both directions at Nicomen River Rd (14 km east of Lytton)",
@@ -51,41 +56,30 @@
   {
     "title": "Highway 17 Both Directions",
     "description": "Highway 17 (Patricia Bay Highway), in both directions. Construction work at Exit 18: Keating Cross Rd (Central Saanich). Until Tue Jul 1, 2025. Nighttime lane closures both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed. Next update time Sat May 10, 2025 at 12:00 PM PDT. Last updated Thu Sep 26 at 12:08 PM PDT. (DBC-54341)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-54341.html"
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-54341.html",
+    "Location": "Highway 17 (Patricia Bay Highway), in both directions at Exit 18: Keating Cross Rd (Central Saanich)",
+    "Description": "Construction work with nighttime lane closures both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed.",
+    "Next update time": "Sat May 10, 2025 at 12:00 PM PDT",
+    "Last update time": "Thu Sep 26 at 12:08 PM PDT",
+    "latitude": 48.5651196,
+    "longitude": -123.417242
   },
   {
     "title": "Highway 17 Westbound",
-    "description": "Highway 17, westbound. Bridge construction planned between Bridgeview Dr and Old Yale Rd for 2.5 km (Surrey). Starting Fri Nov 29 at 9:00 PM PST until Wed Dec 4. From 9:00 PM to 5:00 AM PST on Wednesday, Thursday and Friday. Road closure planned. Watch for traffic control personnel. Detour planned. Work being done on November 29th and December 2nd-4th. Detour via Bridgeview Dr to 120th St. Next update time Wed Dec 4 at 5:00 AM PST. Last updated Fri Nov 29 at 8:43 AM PST. (DBC-70359)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70359.html",
-    "Location": "Highway 17, westbound between Bridgeview Dr and Old Yale Rd for 2.5 km (Surrey)",
-    "Description": "Bridge construction. Road closure planned with detour via Bridgeview Dr to 120th St. Watch for traffic control personnel.",
-    "Next update time": "Wed Dec 4 at 5:00 AM PST",
-    "Last update time": "Fri Nov 29 at 8:43 AM PST",
-    "latitude": 49.2092957,
-    "longitude": -122.8641246
-  },
-  {
-    "title": "Highway 99 Both Directions",
-    "description": "Highway 99, in both directions. Vehicle incident between Lost Lagoon Rd and Wren Trail for 0.4 km (Vancouver). Expect delays. The centre lane is closed due to a vehicle incident near Lost Lagoon. Next update time Fri Nov 29 at 5:00 PM PST. Last updated Fri Nov 29 at 3:30 PM PST. (DBC-70666)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70666.html",
-    "Location": "Highway 99, in both directions between Lost Lagoon Rd and Wren Trail, Vancouver",
-    "Description": "Vehicle incident. Expect delays. The centre lane is closed due to a vehicle incident near Lost Lagoon.",
-    "Next update time": "Fri Nov 29 at 5:00 PM PST",
-    "Last update time": "Fri Nov 29 at 3:30 PM PST",
-    "latitude": 49.3026094,
-    "longitude": -123.1424504
+    "description": "Highway 17, westbound. Bridge construction between Bridgeview Dr and Old Yale Rd for 2.5 km (Surrey). Until Wed Dec 4. From 9:00 PM to 5:00 AM PST on Wednesday, Thursday and Friday. Road closed. Watch for traffic control. Detour in effect. Work being done on November 29th and December 2nd-4th. Detour via Bridgeview Dr to 120th St. Next update time Wed Dec 4 at 5:00 AM PST. Last updated Fri Nov 29 at 8:43 AM PST. (DBC-70359)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70359.html"
   },
   {
     "title": "Kootenay Lake Ferry Both Directions",
-    "description": "[Truncated] Kootenay Lake Ferry, in both directions. Ferry is out of service between Balfour and Kootenay Bay. Schedule modification due to crewing issue. Mon-Fri essential service Balfour sailings: 6:30AM, 8:10AM, 4:30PM, from Kootenay Bay: 7:10AM, 9AM, 5:20PM. Sat-Sun Balfour sailings: 6:30AM & 9:40PM, from Kootenay Bay: 7:10AM & 10:20PM. Priority boarding: essential service travelers, then general public. Emergency services accommodated. Next update time Mon Dec 2 at 9:00 AM PST. Last updated",
+    "description": "Kootenay Lake Ferry, in both directions. Ferry is out of service between Balfour and Kootenay Bay. Schedule modification. Mon-Fri essential service Balfour sailings: 6:30AM, 8:10AM, 4:30PM, Kootenay Bay: 7:10AM, 9AM, 5:20PM. Sat-Sun Balfour sailings: 6:30AM & 9:40PM, Kootenay Bay: 7:10AM & 10:20PM. Essential service travelers board 1st, then general public. Emergency services accommodated. Next update time Mon Dec 2 at 9:00 AM PST. Last updated Fri Nov 29 at 4:32 PM PST. (DBC-69872)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69872.html"
   },
   {
     "title": "Other Roads",
     "description": "Kersley-Dale Landing Rd. Landslide at 500 metres in from Highway 97 Intersection. Road closed. A temporary Single Lane Gravel Road for Local Traffic via Arnoldus Road. Next update time Mon Dec 9 at 9:00 AM PDT. Last updated Thu Aug 8 at 9:26 AM PDT. (DBC-23443)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-23443.html",
-    "Location": "Kersley-Dale Landing Rd. at 500 metres in from Highway 97 Intersection",
-    "Description": "Landslide, road closed. Temporary Single Lane Gravel Road for Local Traffic via Arnoldus Road.",
+    "Location": "Kersley-Dale Landing Rd. Landslide at 500 metres in from Highway 97 Intersection",
+    "Description": "Road closed. A temporary Single Lane Gravel Road for Local Traffic via Arnoldus Road",
     "Next update time": "Mon Dec 9 at 9:00 AM PDT",
     "Last update time": "Thu Aug 8 at 9:26 AM PDT",
     "latitude": 54.6985492,
@@ -134,7 +128,7 @@
     "description": "Canal Rd, in both directions. Construction work at Mt Norman Access Rd. From 10:00 AM to 2:00 PM PST daily. Watch for traffic control. Expect delays. Road closed. Night work will begin on November 13th. Next update time Fri Dec 13 at 10:00 AM PST. Last updated Fri Nov 29 at 11:37 AM PST. (DBC-61149)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-61149.html",
     "Location": "Canal Rd, in both directions at Mt Norman Access Rd",
-    "Description": "Construction work. Watch for traffic control. Expect delays. Road closed.",
+    "Description": "Construction work. Watch for traffic control. Expect delays. Road closed. Night work will begin on November 13th.",
     "Next update time": "Fri Dec 13 at 10:00 AM PST",
     "Last update time": "Fri Nov 29 at 11:37 AM PST",
     "latitude": 48.7591586,
