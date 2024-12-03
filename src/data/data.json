@@ -13,13 +13,7 @@
   {
     "title": "Highway 1 Both Directions",
     "description": "Highway 1 (TransCanada Highway), in both directions. Bridge maintenance between Mt Sicker Rd and Fuller Lake Rd for 3.7 km (Chemainus). Lane closures in both directions. Construction speed zone in effect. Southbound bridge closed for repairs. All Traffic diverted onto the adjacent bridge. No overwidth protocols in effect up to 4.4m. Next update time Mon Jan 20, 2025 at 7:00 AM PST. Last updated Fri Nov 29 at 9:22 PM PST. (DBC-70685)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70685.html",
-    "Location": "Highway 1 (TransCanada Highway), between Mt Sicker Rd and Fuller Lake Rd for 3.7 km (Chemainus)",
-    "Description": "Bridge maintenance with lane closures in both directions. Construction speed zone in effect. Southbound bridge closed for repairs. All Traffic diverted onto the adjacent bridge. No overwidth protocols in effect up to 4.4m.",
-    "Next update time": "Mon Jan 20, 2025 at 7:00 AM PST",
-    "Last update time": "Fri Nov 29 at 9:22 PM PST",
-    "latitude": 48.9034496,
-    "longitude": -123.7183903
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70685.html"
   },
   {
     "title": "Highway 1 Both Directions",
@@ -38,67 +32,45 @@
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70490.html"
   },
   {
-    "title": "Highway 101 Both Directions",
-    "description": "Highway 101, in both directions. Special event between Alberni St and Duncan St for 0.9 km (Powell River). Until Sun Dec 1 at 5:00 PM PST. Road closed. The annual Santa Claus Parade will be taking place. Next update time Sun Dec 1 at 5:00 PM PST. Last updated Fri Oct 25 at 12:04 PM PST. (DBC-69604)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69604.html",
-    "Location": "Highway 101, in both directions between Alberni St and Duncan St for 0.9 km (Powell River)",
-    "Description": "Road closed due to the annual Santa Claus Parade",
-    "Next update time": "Sun Dec 1 at 5:00 PM PST",
-    "Last update time": "Fri Oct 25 at 12:04 PM PST",
-    "latitude": 49.8464829,
-    "longitude": -124.5169267
-  },
-  {
     "title": "Highway 17 Both Directions",
     "description": "Highway 17 (Patricia Bay Highway), in both directions. Construction work at Exit 18: Keating Cross Rd (Central Saanich). Until Tue Jul 1, 2025. Nighttime lane closures both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed. Next update time Sat May 10, 2025 at 12:00 PM PDT. Last updated Thu Sep 26 at 12:08 PM PDT. (DBC-54341)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-54341.html"
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-54341.html",
+    "Location": "Highway 17 (Patricia Bay Highway), in both directions at Exit 18: Keating Cross Rd (Central Saanich)",
+    "Description": "Construction work with nighttime lane closures both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed.",
+    "Next update time": "Sat May 10, 2025 at 12:00 PM PDT",
+    "Last update time": "Thu Sep 26 at 12:08 PM PDT",
+    "latitude": 48.5651196,
+    "longitude": -123.417242
   },
   {
     "title": "Highway 17 Westbound",
-    "description": "Highway 17, westbound. Bridge construction between Bridgeview Dr and Old Yale Rd for 2.5 km (Surrey). Until Wed Dec 4. From 9:00 PM to 5:00 AM PST on Wednesday, Thursday and Friday. Road closed. Watch for traffic control. Detour in effect. Work being done on November 29th and December 2nd-4th. Detour via Bridgeview Dr to 120th St. Next update time Wed Dec 4 at 5:00 AM PST. Last updated Fri Nov 29 at 8:43 AM PST. (DBC-70359)",
+    "description": "Highway 17, westbound. Bridge construction planned between Bridgeview Dr and Old Yale Rd for 2.5 km (Surrey). Starting Mon Dec 2 at 9:00 PM PST until Wed Dec 4 at 5:00 AM PST. From 9:00 PM to 5:00 AM PST on Monday and Tuesday. Road closure planned. Watch for traffic control personnel. Detour via Bridgeview Dr to 120th St. Next update time Wed Dec 4 at 5:00 AM PST. Last updated Mon Dec 2 at 1:00 PM PST. (DBC-70359)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70359.html"
   },
   {
     "title": "Highway 37 Both Directions",
-    "description": "Highway 37, in both directions. Travel advisory planned between Bell 2 Bridge and Bob Quinn Camp for 47.8 km (Bell II to Bob Quinn). Starting Sun Dec 1 at 11:00 PM PST until Tue Dec 3 at 6:00 AM PST. Highway is currently open but may close due to a High Avalanche Hazard. Next update time Mon Dec 2 at 8:00 AM PST. Last updated Sun Dec 1 at 12:24 PM PST. (DBC-70711)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70711.html",
-    "Location": "Highway 37, between Bell 2 Bridge and Bob Quinn Camp",
-    "Description": "Highway is currently open but may close due to a High Avalanche Hazard",
-    "Next update time": "Mon Dec 2 at 8:00 AM PST",
-    "Last update time": "Sun Dec 1 at 12:24 PM PST",
-    "latitude": 56.9787192,
-    "longitude": -130.2505014
+    "description": "Highway 37, in both directions. Travel advisory in effect between Bell 2 Bridge and Bob Quinn Camp for 47.8 km (Bell II to Bob Quinn). Until Tue Dec 3 at 6:00 AM PST. Highway is currently open but may close due to a High Avalanche Hazard. Next update time Mon Dec 2 at 6:00 PM PST. Last updated Mon Dec 2 at 7:53 AM PST. (DBC-70711)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70711.html"
   },
   {
     "title": "Highway 37 Both Directions",
-    "description": "Highway 37, in both directions. Travel advisory planned between Cottonwood Rest Area South and Good Hope Lk Rd for 45.2 km (21 km south of Jade City to Good Hope Lake). Starting Sun Dec 1 at 11:00 PM PST until Tue Dec 3 at 6:00 AM PST. Highway is currently open but may close due to a High Avalanche Hazard. Next update time Mon Dec 2 at 8:00 AM PST. Last updated Sun Dec 1 at 12:25 PM PST. (DBC-70712)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70712.html"
-  },
-  {
-    "title": "Highway 37A",
-    "description": "Highway 37A. Travel advisory in effect between Hyder and Highway 37 Junction for 64.9 km (British Columbia and Alaska Border to Meziadin). Environment Canada has issued a winter storm warning. Heavy snow and rain on compact forecast. Use caution when travelling. Next update time Mon Dec 2 at 2:00 PM PST. Last updated Sun Dec 1 at 11:22 AM PST. (DBC-70706)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70706.html",
-    "Location": "Highway 37A between Hyder and Highway 37 Junction for 64.9 km (British Columbia and Alaska Border to Meziadin)",
-    "Description": "Environment Canada has issued a winter storm warning. Heavy snow and rain on compact forecast. Use caution when travelling.",
-    "Next update time": "Mon Dec 2 at 2:00 PM PST",
-    "Last update time": "Sun Dec 1 at 11:22 AM PST",
-    "latitude": 56.104544,
-    "longitude": -129.6519568
+    "description": "Highway 37, in both directions. Travel advisory in effect between Cottonwood Rest Area South and Good Hope Lk Rd for 45.2 km (21 km south of Jade City to Good Hope Lake). Until Tue Dec 3 at 6:00 AM PST. Highway is currently open but may close due to a High Avalanche Hazard. Next update time Mon Dec 2 at 6:00 PM PST. Last updated Mon Dec 2 at 7:55 AM PST. (DBC-70712)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70712.html",
+    "Location": "Highway 37, between Cottonwood Rest Area South and Good Hope Lk Rd, 21 km south of Jade City to Good Hope Lake",
+    "Description": "Highway is currently open but may close due to a High Avalanche Hazard",
+    "Next update time": "Mon Dec 2 at 6:00 PM PST",
+    "Last update time": "Mon Dec 2 at 7:55 AM PST",
+    "latitude": 59.28194399999999,
+    "longitude": -129.302778
   },
   {
     "title": "Highway 37A Both Directions",
-    "description": "Highway 37A, in both directions. Travel advisory planned between Pearly Gates and Surprise Pullout/Windy Chain Up for 33.9 km (12 km east of Stewart to 13 km west of Meziadin). Starting Sun Dec 1 at 11:00 PM PST until Tue Dec 3 at 6:00 AM PST. Highway is currently open, may close for Avalanche Control or High Avalanche Hazard. If closed, hwy may remain closed for extended period of time. Next update time Tue Dec 3 at 6:00 AM PST. Last updated Sun Dec 1 at 11:05 AM PST. (DBC-70703)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70703.html",
-    "Location": "Highway 37A, between Pearly Gates and Surprise Pullout/Windy Chain Up",
-    "Description": "Highway is currently open, may close for Avalanche Control or High Avalanche Hazard. If closed, hwy may remain closed for extended period of time.",
-    "Next update time": "Tue Dec 3 at 6:00 AM PST",
-    "Last update time": "Sun Dec 1 at 11:05 AM PST",
-    "latitude": 53.7266683,
-    "longitude": -127.6476206
+    "description": "Highway 37A, in both directions. Travel advisory in effect between Pearly Gates and Surprise Pullout/Windy Chain Up for 33.9 km (12 km east of Stewart to 13 km west of Meziadin). Until Tue Dec 3 at 6:00 AM PST. Highway is currently open, may close for Avalanche Control or High Avalanche Hazard. If closed, hwy may remain closed for extended period of time. Next update time Tue Dec 3 at 6:00 AM PST. Last updated Sun Dec 1 at 11:05 AM PST. (DBC-70703)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70703.html"
   },
   {
     "title": "Kootenay Lake Ferry Both Directions",
-    "description": "Kootenay Lake Ferry, in both directions. Ferry is out of service between Balfour and Kootenay Bay. Schedule modification. Mon-Fri essential service Balfour sailings: 6:30AM, 8:10AM, 4:30PM, Kootenay Bay: 7:10AM, 9AM, 5:20PM. Sat-Sun Balfour sailings: 6:30AM & 9:40PM, Kootenay Bay: 7:10AM & 10:20PM. Essential service travelers board 1st, then general public. Emergency services accommodated. Next update time Mon Dec 2 at 9:00 AM PST. Last updated Fri Nov 29 at 4:32 PM PST. (DBC-69872)",
+    "description": "Kootenay Lake Ferry, in both directions. Ferry is out of service between Balfour and Kootenay Bay. Schedule modification. Mon-Fri essential service Balfour sailings: 6:30AM, 8:10AM, 4:30PM, Kootenay Bay: 7:10AM, 9AM, 5:20PM. Sat-Sun Balfour sailings: 6:30AM & 9:40PM, Kootenay Bay: 7:10AM & 10:20PM. Essential service travelers board 1st, then general public. Emergency services accommodated. Next update time Wed Dec 4 at 9:00 AM PST. Last updated Mon Dec 2 at 8:08 AM PST. (DBC-69872)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69872.html"
   },
   {
@@ -189,17 +161,6 @@
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70161.html"
   },
   {
-    "title": "Telegraph Creek Rd Both Directions",
-    "description": "Telegraph Creek Rd (Highway 51), in both directions. Travel advisory in effect between Glenora Rd and Meehaus Pit for 43.4 km (Telegraph Creek). Until Mon Dec 2 at 6:00 AM PST. Highway is currently open but may close due to a High Avalanche Hazard. Next update time Mon Dec 2 at 8:00 AM PST. Last updated Sun Dec 1 at 12:20 PM PST. (DBC-70709)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70709.html",
-    "Location": "Telegraph Creek Rd (Highway 51), in both directions between Glenora Rd and Meehaus Pit for 43.4 km (Telegraph Creek)",
-    "Description": "Highway is currently open but may close due to a High Avalanche Hazard",
-    "Next update time": "Mon Dec 2 at 8:00 AM PST",
-    "Last update time": "Sun Dec 1 at 12:20 PM PST",
-    "latitude": 57.8777171,
-    "longitude": -131.2617302
-  },
-  {
     "title": "Upper Arrow Lake Ferry Both Directions",
     "description": "Upper Arrow Lake Ferry, in both directions. There will be required maintenance between Shelter Bay and Galena Bay. Starting Sat Dec 7 at 10:00 PM PST until Sun Dec 8 at 6:00 AM PST. Ferry will be out of service. Last sailing from Shelter Bay will be 9pm. Last sailing from Galena Bay will be 9:30pm. Next update time Sun Dec 8 at 6:00 AM PST. Last updated Mon Nov 25 at 11:18 AM PST. (DBC-70516)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70516.html",
@@ -207,17 +168,6 @@
     "Description": "There will be required maintenance between Shelter Bay and Galena Bay.",
     "Next update time": "Sun Dec 8 at 6:00 AM PST",
     "Last update time": "Mon Nov 25 at 11:18 AM PST",
-    "latitude": 50.6288821,
-    "longitude": -117.9007844
-  },
-  {
-    "title": "Upper Arrow Lake Ferry Both Directions",
-    "description": "Upper Arrow Lake Ferry, in both directions. Crewing issue are expected between Shelter Bay and Galena Bay. Starting Sun Dec 1 at 9:00 PM PST until Mon Dec 2 at 5:00 AM PST. Ferry route will be closed. Last sailing from Shelter Bay will be 2000hrs (8PM). Last sailing from Galena Bay will be 2030hrs (8:30PM). Next update time Mon Dec 2 at 5:00 AM PST. Last updated Sun Dec 1 at 9:02 AM PST. (DBC-70702)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70702.html",
-    "Location": "Upper Arrow Lake Ferry, in both directions",
-    "Description": "Crewing issue are expected between Shelter Bay and Galena Bay",
-    "Next update time": "Mon Dec 2 at 5:00 AM PST",
-    "Last update time": "Sun Dec 1 at 9:02 AM PST",
     "latitude": 50.6288821,
     "longitude": -117.9007844
   }
