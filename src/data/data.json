@@ -29,29 +29,45 @@
   {
     "title": "Highway 1 Both Directions",
     "description": "Highway 1 (TransCanada Highway), in both directions. Construction work between Old Sicamous Rd and Solsqua-Sicamous Rd for 2.0 km (Sicamous). From 9:00 AM to 3:00 PM PST on weekdays and Saturday. Bridge closed. Full closure 9AM-3PM Daily + Saturdays. Alternate route via Hwy 97A (Sicamous) / 97B (Salmon Arm) Single lane alternating traffic from 8PM-6AM PST, expect 20 minute delays. Next update time Fri Dec 6 at 3:00 PM PST. Last updated Fri Nov 29 at 3:03 PM PST. (DBC-70490)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70490.html",
-    "Location": "Highway 1 (TransCanada Highway), between Old Sicamous Rd and Solsqua-Sicamous Rd, Sicamous, BC",
-    "Description": "Construction work for 2.0 km. Bridge closed. Full closure 9AM-3PM Daily + Saturdays. Alternate route via Hwy 97A (Sicamous) / 97B (Salmon Arm). Single lane alternating traffic from 8PM-6AM PST, expect 20 minute delays.",
-    "Next update time": "Fri Dec 6 at 3:00 PM PST",
-    "Last update time": "Fri Nov 29 at 3:03 PM PST",
-    "latitude": 50.85341,
-    "longitude": -118.9581475
-  },
-  {
-    "title": "Highway 1",
-    "description": "Highway 1 (TransCanada Highway). Avalanche control work planned between Illecillewaet Brake Check and Lanark Snowshed for 4.4 km (1 to 5 km west of West Boundary of Glacier National Park). Starting Thu Dec 5 at 12:00 PM PST until Thu Dec 5 at 2:00 PM PST. Watch for traffic control personnel. Detour will not be available. Expect Road closures up to 20mins. Next update time Thu Dec 5 at 1:45 PM PST. Last updated Wed Dec 4 at 8:50 AM PST. (DBC-70811)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70811.html",
-    "Location": "Highway 1 (TransCanada Highway) between Illecillewaet Brake Check and Lanark Snowshed, 1 to 5 km west of West Boundary of Glacier National Park",
-    "Description": "Avalanche control work for 4.4 km stretch",
-    "Next update time": "Thu Dec 5 at 1:45 PM PST",
-    "Last update time": "Wed Dec 4 at 8:50 AM PST",
-    "latitude": 51.20677209999999,
-    "longitude": -117.7253562
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70490.html"
   },
   {
     "title": "Highway 17 Both Directions",
     "description": "Highway 17 (Patricia Bay Highway), in both directions. Construction work at Exit 18: Keating Cross Rd (Central Saanich). Until Tue Jul 1, 2025. Nighttime lane closures both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed. Next update time Sat May 10, 2025 at 12:00 PM PDT. Last updated Thu Sep 26 at 12:08 PM PDT. (DBC-54341)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-54341.html"
+  },
+  {
+    "title": "Highway 17 Eastbound",
+    "description": "Highway 17, eastbound. Bridge construction planned between Tannery Rd and Bridgeview Dr for 2.0 km (Surrey). Starting Mon Dec 9 at 9:00 PM PST until Tue Dec 10 at 5:00 AM PST. Road closure planned. Detour at Tannery Rd to 120th St. Watch for traffic control. Next update time Tue Dec 10 at 5:00 AM PST. Last updated Thu Dec 5 at 3:35 PM PST. (DBC-70851)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70851.html",
+    "Location": "Highway 17, eastbound between Tannery Rd and Bridgeview Dr, Surrey",
+    "Description": "Bridge construction planned for 2.0 km. Road closure planned. Detour at Tannery Rd to 120th St. Watch for traffic control.",
+    "Next update time": "Tue Dec 10 at 5:00 AM PST",
+    "Last update time": "Thu Dec 5 at 3:35 PM PST",
+    "latitude": 49.1963312,
+    "longitude": -122.8933251
+  },
+  {
+    "title": "Highway 17 Westbound",
+    "description": "Highway 17, westbound. Bridge construction planned between Bridgeview Dr and Old Yale Rd for 2.5 km (Surrey). Starting Wed Dec 11 at 9:00 PM PST until Thu Dec 12 at 5:00 AM PST. Road closure planned. Detour at Bridgeview Dr to 120th St. Watch for traffic control. Next update time Thu Dec 12 at 5:00 AM PST. Last updated Thu Dec 5 at 3:38 PM PST. (DBC-70853)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70853.html",
+    "Location": "Highway 17, westbound, between Bridgeview Dr and Old Yale Rd, Surrey",
+    "Description": "Bridge construction planned for 2.5 km. Road closure planned. Detour at Bridgeview Dr to 120th St. Watch for traffic control.",
+    "Next update time": "Thu Dec 12 at 5:00 AM PST",
+    "Last update time": "Thu Dec 5 at 3:38 PM PST",
+    "latitude": 49.194488,
+    "longitude": -122.866121
+  },
+  {
+    "title": "Highway 8 Both Directions",
+    "description": "Highway 8, in both directions. Downed hydro lines between Sunshine Valley Rd East and Aberdeen Rd for 3.4 km (7 to 10 km west of Merritt). Road closed. Assessment in progress. Detour not available. Next update time Thu Dec 5 at 5:00 PM PST. Last updated Thu Dec 5 at 4:02 PM PST. (DBC-70856)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70856.html",
+    "Location": "Highway 8, between Sunshine Valley Rd East and Aberdeen Rd, 7 to 10 km west of Merritt",
+    "Description": "Downed hydro lines, road closed. Assessment in progress. Detour not available.",
+    "Next update time": "Thu Dec 5 at 5:00 PM PST",
+    "Last update time": "Thu Dec 5 at 4:02 PM PST",
+    "latitude": 50.1311673,
+    "longitude": -120.9630328
   },
   {
     "title": "Highway 99 Both Directions",
@@ -155,8 +171,8 @@
     "title": "Other Roads Both Directions",
     "description": "Pavilion Clinton Rd, in both directions. Travel advisory in effect between Clinton and Lillooet 60 km south of Lillooet. Road closed for the season. Pavilion-Clinton Rd is closed for the Winter. Next update time Fri May 16, 2025 at 10:00 AM PST. Last updated Tue Nov 12 at 9:23 AM PST. (DBC-70161)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70161.html",
-    "Location": "Pavilion Clinton Rd, in both directions between Clinton and Lillooet 60 km south of Lillooet",
-    "Description": "Road closed for the season. Pavilion-Clinton Rd is closed for the Winter.",
+    "Location": "Pavilion Clinton Rd, between Clinton and Lillooet 60 km south of Lillooet",
+    "Description": "Road closed for the season",
     "Next update time": "Fri May 16, 2025 at 10:00 AM PST",
     "Last update time": "Tue Nov 12 at 9:23 AM PST",
     "latitude": 51.0879404,
@@ -170,17 +186,6 @@
     "Description": "There will be required maintenance between Shelter Bay and Galena Bay.",
     "Next update time": "Sun Dec 8 at 6:00 AM PST",
     "Last update time": "Mon Nov 25 at 11:18 AM PST",
-    "latitude": 50.6288821,
-    "longitude": -117.9007844
-  },
-  {
-    "title": "Upper Arrow Lake Ferry Both Directions",
-    "description": "Upper Arrow Lake Ferry, in both directions. Crewing issue are expected between Shelter Bay and Galena Bay. Starting Wed Dec 4 at 11:00 PM PST until Thu Dec 5 at 5:00 AM PST. Ferry route will be closed. Last sailing from Shelter Bay will be 10 PM. Last sailing from Galena Bay will be 10:30 PM. Next update time Thu Dec 5 at 5:00 AM PST. Last updated Wed Dec 4 at 9:02 AM PST. (DBC-70702)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70702.html",
-    "Location": "Upper Arrow Lake Ferry, in both directions between Shelter Bay and Galena Bay",
-    "Description": "Crewing issue expected, ferry route closed",
-    "Next update time": "Thu Dec 5 at 5:00 AM PST",
-    "Last update time": "Wed Dec 4 at 9:02 AM PST",
     "latitude": 50.6288821,
     "longitude": -117.9007844
   }
