@@ -28,13 +28,19 @@
   },
   {
     "title": "Highway 1 Both Directions",
-    "description": "Highway 1 (TransCanada Highway), in both directions. Construction work between Old Sicamous Rd and Solsqua-Sicamous Rd for 2.0 km (Sicamous). From 9:00 AM to 3:00 PM PST on weekdays and Saturday. Bridge closed. Full closure 9AM-3PM Daily + Saturdays. Alternate route via Hwy 97A (Sicamous) / 97B (Salmon Arm) Single lane alternating traffic from 8PM-6AM PST, expect 20 minute delays. Next update time Sun Dec 8 at 3:00 PM PST. Last updated Fri Dec 6 at 3:38 PM PST. (DBC-70490)",
+    "description": "Highway 1 (TransCanada Highway), in both directions. Construction work between Old Sicamous Rd and Solsqua-Sicamous Rd for 2.0 km (Sicamous). From 9:00 AM to 3:00 PM PST on weekdays. Bridge closed. Full closure 9AM-3PM weekdays. Alternate route via Hwy 97A (Sicamous) / 97B (Salmon Arm) Single lane alternating traffic from 8PM-6AM PST, expect 20 minute delays. Next update time Sun Dec 8 at 3:00 PM PST. Last updated Sat Dec 7 at 8:45 AM PST. (DBC-70490)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70490.html"
   },
   {
     "title": "Highway 1",
-    "description": "[Truncated] Highway 1 (TransCanada Highway). Avalanche control work planned between Glacier National Park West Boundary and Glacier National Park East Boundary for 43.5 km (East Boundary of Glacier National Park to 1 km east of West Boundary of Glacier National Park). Starting Sat Dec 7 at 2:00 PM PST until Sat Dec 7 at 6:00 PM PST. Road closure planned. Detour will not be available. Watch for traffic control personnel. Next update time Sat Dec 7 at 5:45 PM PST. Last updated Fri Dec 6 at 4:02 PM",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70883.html"
+    "description": "Highway 1 (TransCanada Highway). Avalanche control work between Townley St and Anderson Rd for 141.4 km (Revelstoke to 1 km west of Golden). Until Sat Dec 7 at 6:00 PM PST. Road closed. Detour not available. Watch for traffic control. Next update time Sat Dec 7 at 5:45 PM PST. Last updated Fri Dec 6 at 4:21 PM PST. (DBC-70883)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70883.html",
+    "Location": "Highway 1 (TransCanada Highway) between Townley St and Anderson Rd for 141.4 km (Revelstoke to 1 km west of Golden)",
+    "Description": "Avalanche control work. Road closed. Detour not available. Watch for traffic control.",
+    "Next update time": "Sat Dec 7 at 5:45 PM PST",
+    "Last update time": "Fri Dec 6 at 4:21 PM PST",
+    "latitude": 50.9963175,
+    "longitude": -118.1781806
   },
   {
     "title": "Highway 17 Both Directions",
@@ -70,15 +76,15 @@
     "longitude": -122.866121
   },
   {
-    "title": "Highway 20",
-    "description": "Highway 20. Travel advisory in effect between Hammer Rd and Graham Lake Access No 2 Rd for 184.2 km (Tatla Lake to 5 km east of Firvale). Ongoing freezing rain and fluctuating temperatures. Travelers should expect rapidly changing conditions. Consider alternate travel plans. Next update time Fri Dec 6 at 9:00 PM PST. Last updated Fri Dec 6 at 2:27 PM PST. (DBC-70879)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70879.html",
-    "Location": "Highway 20 between Hammer Rd and Graham Lake Access No 2 Rd for 184.2 km (Tatla Lake to 5 km east of Firvale)",
-    "Description": "Ongoing freezing rain and fluctuating temperatures. Travelers should expect rapidly changing conditions. Consider alternate travel plans.",
-    "Next update time": "Fri Dec 6 at 9:00 PM PST",
-    "Last update time": "Fri Dec 6 at 2:27 PM PST",
-    "latitude": 51.905156,
-    "longitude": -124.597755
+    "title": "Highway 3 Both Directions",
+    "description": "Highway 3 (Crowsnest Highway), in both directions. Vehicle incident between Highway 3B and Junction Hwy 22 for 25.9 km (Castlegar). Road closed. Detour available via Highway 3B/Highway 22. Estimated time of re-opening Sat Dec 7 at 7:00 PM PST. Next update time Sat Dec 7 at 7:00 PM PST. Last updated Sat Dec 7 at 4:11 PM PST. (DBC-70922)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70922.html",
+    "Location": "Highway 3 (Crowsnest Highway), in both directions between Highway 3B and Junction Hwy 22 for 25.9 km (Castlegar)",
+    "Description": "Vehicle incident. Road closed. Detour available via Highway 3B/Highway 22.",
+    "Next update time": "Sat Dec 7 at 7:00 PM PST",
+    "Last update time": "Sat Dec 7 at 4:11 PM PST",
+    "latitude": 49.0898143,
+    "longitude": -117.6331973
   },
   {
     "title": "Kootenay Lake Ferry Both Directions",
@@ -89,8 +95,8 @@
     "title": "Other Roads",
     "description": "Kersley-Dale Landing Rd. Landslide at 500 metres in from Highway 97 Intersection. Road closed. A temporary Single Lane Gravel Road for Local Traffic via Arnoldus Road. Next update time Mon Dec 9 at 9:00 AM PDT. Last updated Thu Aug 8 at 9:26 AM PDT. (DBC-23443)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-23443.html",
-    "Location": "Kersley-Dale Landing Rd. Landslide at 500 metres in from Highway 97 Intersection",
-    "Description": "Road closed. A temporary Single Lane Gravel Road for Local Traffic via Arnoldus Road",
+    "Location": "Kersley-Dale Landing Rd. at 500 metres in from Highway 97 Intersection",
+    "Description": "Landslide, road closed. Temporary Single Lane Gravel Road for Local Traffic via Arnoldus Road.",
     "Next update time": "Mon Dec 9 at 9:00 AM PDT",
     "Last update time": "Thu Aug 8 at 9:26 AM PDT",
     "latitude": 54.6985492,
@@ -121,13 +127,7 @@
   {
     "title": "Other Roads",
     "description": "Johnston Bridge. Travel advisory in effect at Front St. In Quesnel. Johnston Bridge. Bridge is open to vehicles with gross vehicle weight rating of 10,000 kilograms or lower. Industrial traffic and heavy commercial traffic must detour via Plywood Rd and Maple Drive. Industrial traffic is not allowed to detour through Johnston Subdivision. Next update time Wed Apr 8, 2026 at 9:00 AM PDT. Last updated Thu Oct 17 at 6:39 AM PDT. (DBC-47311)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-47311.html",
-    "Location": "Johnston Bridge at Front St. in Quesnel",
-    "Description": "Bridge is open to vehicles with gross vehicle weight rating of 10,000 kilograms or lower. Industrial traffic and heavy commercial traffic must detour via Plywood Rd and Maple Drive. Industrial traffic is not allowed to detour through Johnston Subdivision.",
-    "Next update time": "Wed Apr 8, 2026 at 9:00 AM PDT",
-    "Last update time": "Thu Oct 17 at 6:39 AM PDT",
-    "latitude": 52.9733808,
-    "longitude": -122.4965097
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-47311.html"
   },
   {
     "title": "Other Roads Both Directions",
@@ -145,7 +145,7 @@
     "description": "Canal Rd, in both directions. Construction work at Mt Norman Access Rd. From 10:00 AM to 2:00 PM PST daily. Watch for traffic control. Expect delays. Road closed. Night work will begin on November 13th. Next update time Fri Dec 13 at 10:00 AM PST. Last updated Fri Nov 29 at 11:37 AM PST. (DBC-61149)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-61149.html",
     "Location": "Canal Rd, in both directions at Mt Norman Access Rd",
-    "Description": "Construction work. Watch for traffic control. Expect delays. Road closed.",
+    "Description": "Construction work. Watch for traffic control. Expect delays. Road closed. Night work will begin on November 13th.",
     "Next update time": "Fri Dec 13 at 10:00 AM PST",
     "Last update time": "Fri Nov 29 at 11:37 AM PST",
     "latitude": 48.7591586,
@@ -178,7 +178,7 @@
     "description": "Pavilion Clinton Rd, in both directions. Travel advisory in effect between Clinton and Lillooet 60 km south of Lillooet. Road closed for the season. Pavilion-Clinton Rd is closed for the Winter. Next update time Fri May 16, 2025 at 10:00 AM PST. Last updated Tue Nov 12 at 9:23 AM PST. (DBC-70161)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70161.html",
     "Location": "Pavilion Clinton Rd, in both directions between Clinton and Lillooet 60 km south of Lillooet",
-    "Description": "Road closed for the season",
+    "Description": "Road closed for the season. Pavilion-Clinton Rd is closed for the Winter.",
     "Next update time": "Fri May 16, 2025 at 10:00 AM PST",
     "Last update time": "Tue Nov 12 at 9:23 AM PST",
     "latitude": 51.0879404,
