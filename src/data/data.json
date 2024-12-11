@@ -16,6 +16,11 @@
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70685.html"
   },
   {
+    "title": "Highway 1 Eastbound",
+    "description": "Highway 1 (TransCanada Highway), eastbound. Vehicle incident between Exit 73 and Bradner Rd (Langley - District). Lane Closure. Emergency vehicles on scene. Expect delays. Next update time Tue Dec 10 at 4:45 PM PST. Last updated Tue Dec 10 at 4:09 PM PST. (DBC-71020)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71020.html"
+  },
+  {
     "title": "Highway 1 Both Directions",
     "description": "Highway 1 (TransCanada Highway), in both directions. Construction work between Coburn St and Shuswap Ave for 0.7 km (Chase). From 7:00 AM to 5:00 PM PST on weekdays and Saturday. Blasting. Road closed intermittently. Watch for traffic control. Speed reduction to 60km/hr. Next update time Sun Dec 15 at 10:00 AM PST. Last updated Mon Nov 25 at 10:06 AM PST. (DBC-64961)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-64961.html",
@@ -34,29 +39,13 @@
   {
     "title": "Highway 17 Both Directions",
     "description": "Highway 17 (Patricia Bay Highway), in both directions. Construction work at Exit 18: Keating Cross Rd (Central Saanich). Until Tue Jul 1, 2025. Nighttime lane closures both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed. Next update time Sat May 10, 2025 at 12:00 PM PDT. Last updated Thu Sep 26 at 12:08 PM PDT. (DBC-54341)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-54341.html"
-  },
-  {
-    "title": "Highway 17 Both Directions",
-    "description": "Highway 17, in both directions. Vehicle incident between Aldrich Rd and Highway 91 Connector (Delta). Westbound is closed. Eastbound reduced to one lane. Next update time Mon Dec 9 at 4:30 PM PST. Last updated Mon Dec 9 at 3:27 PM PST. (DBC-70990)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70990.html",
-    "Location": "Highway 17, in both directions between Aldrich Rd and Highway 91 Connector (Delta)",
-    "Description": "Vehicle incident. Westbound is closed. Eastbound reduced to one lane.",
-    "Next update time": "Mon Dec 9 at 4:30 PM PST",
-    "Last update time": "Mon Dec 9 at 3:27 PM PST",
-    "latitude": 49.1457193,
-    "longitude": -122.9427391
-  },
-  {
-    "title": "Highway 17 Eastbound",
-    "description": "Highway 17, eastbound. Bridge construction planned between Tannery Rd and Bridgeview Dr for 2.0 km (Surrey). Starting Mon Dec 9 at 9:00 PM PST until Tue Dec 10 at 5:00 AM PST. Road closure planned. Detour at Tannery Rd to 120th St. Watch for traffic control. Next update time Tue Dec 10 at 5:00 AM PST. Last updated Thu Dec 5 at 3:35 PM PST. (DBC-70851)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70851.html",
-    "Location": "Highway 17, eastbound, between Tannery Rd and Bridgeview Dr, Surrey",
-    "Description": "Bridge construction planned for 2.0 km. Road closure planned. Detour at Tannery Rd to 120th St. Watch for traffic control.",
-    "Next update time": "Tue Dec 10 at 5:00 AM PST",
-    "Last update time": "Thu Dec 5 at 3:35 PM PST",
-    "latitude": 49.1963312,
-    "longitude": -122.8933251
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-54341.html",
+    "Location": "Highway 17 (Patricia Bay Highway), in both directions at Exit 18: Keating Cross Rd (Central Saanich)",
+    "Description": "Construction work with nighttime lane closures both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed.",
+    "Next update time": "Sat May 10, 2025 at 12:00 PM PDT",
+    "Last update time": "Thu Sep 26 at 12:08 PM PDT",
+    "latitude": 48.5651196,
+    "longitude": -123.417242
   },
   {
     "title": "Highway 17 Westbound",
@@ -75,13 +64,24 @@
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69872.html"
   },
   {
+    "title": "McLure Ferry Both Directions",
+    "description": "McLure Ferry, in both directions. Ferry is currently out of service between McLure Ferry and the end of McLure Ferry (McLure). Until Sat Dec 14 at 7:00 AM PST. Estimated time of re-opening Sat Dec 14 at 7:00 AM PST. Next update time Sat Dec 14 at 7:00 AM PST. Last updated Tue Dec 10 at 11:04 AM PST. (DBC-71007)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71007.html",
+    "Location": "McLure Ferry, in both directions",
+    "Description": "Ferry is currently out of service between McLure Ferry and the end of McLure Ferry (McLure)",
+    "Next update time": "Sat Dec 14 at 7:00 AM PST",
+    "Last update time": "Tue Dec 10 at 11:04 AM PST",
+    "latitude": 51.0409386,
+    "longitude": -120.2401904
+  },
+  {
     "title": "Other Roads",
-    "description": "Kersley-Dale Landing Rd. Landslide at 500 metres in from Highway 97 Intersection. Road closed. A temporary Single Lane Gravel Road for Local Traffic via Arnoldus Road. Next update time Tue Dec 10 at 9:00 AM PST. Last updated Mon Dec 9 at 10:06 AM PST. (DBC-23443)",
+    "description": "Kersley-Dale Landing Rd. Landslide at 500 metres in from Highway 97 Intersection. Road closed. A temporary Single Lane Gravel Road for Local Traffic via Arnoldus Road. Next update time Mon Apr 14, 2025 at 9:00 AM PST. Last updated Mon Dec 9 at 5:50 PM PST. (DBC-23443)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-23443.html",
     "Location": "Kersley-Dale Landing Rd. at 500 metres in from Highway 97 Intersection",
     "Description": "Landslide, road closed. Temporary Single Lane Gravel Road for Local Traffic via Arnoldus Road.",
-    "Next update time": "Tue Dec 10 at 9:00 AM PST",
-    "Last update time": "Mon Dec 9 at 10:06 AM PST",
+    "Next update time": "Mon Apr 14, 2025 at 9:00 AM PST",
+    "Last update time": "Mon Dec 9 at 5:50 PM PST",
     "latitude": 54.6985492,
     "longitude": -122.7918979
   },
@@ -114,23 +114,23 @@
   },
   {
     "title": "Other Roads Both Directions",
-    "description": "McKay Road, in both directions. Flooding at McKay Road. Road closed. Next update time Tue Dec 10 at 9:00 AM PST. Last updated Mon Dec 9 at 10:06 AM PST. (DBC-53013)",
+    "description": "McKay Road, in both directions. Flooding at McKay Road. Road closed. Next update time Thu Apr 10, 2025 at 9:00 AM PST. Last updated Tue Dec 10 at 9:04 AM PST. (DBC-53013)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-53013.html",
     "Location": "McKay Road",
     "Description": "Flooding at McKay Road. Road closed.",
-    "Next update time": "Tue Dec 10 at 9:00 AM PST",
-    "Last update time": "Mon Dec 9 at 10:06 AM PST",
+    "Next update time": "Thu Apr 10, 2025 at 9:00 AM PST",
+    "Last update time": "Tue Dec 10 at 9:04 AM PST",
     "latitude": 49.3241831,
     "longitude": -121.6117836
   },
   {
     "title": "Other Roads Both Directions",
-    "description": "Canal Rd, in both directions. Construction work at Mt Norman Access Rd. From 10:00 AM to 2:00 PM PST daily. Watch for traffic control. Expect delays. Road closed. Night work will begin on November 13th. Next update time Fri Dec 13 at 10:00 AM PST. Last updated Fri Nov 29 at 11:37 AM PST. (DBC-61149)",
+    "description": "Canal Rd, in both directions. Construction work at Mt Norman Access Rd. From 10:00 AM to 2:00 PM PST daily. Watch for traffic control. Expect delays. Road closed. Night work will begin on November 13th. 5 ton load limit and one vehicle per light until 4 PM, Friday, December 13th, 2024. Next update time Fri Dec 13 at 10:00 AM PST. Last updated Tue Dec 10 at 7:30 AM PST. (DBC-61149)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-61149.html",
     "Location": "Canal Rd, in both directions at Mt Norman Access Rd",
-    "Description": "Construction work. Watch for traffic control. Expect delays. Road closed. Night work will begin on November 13th.",
+    "Description": "Construction work. Road closed. 5 ton load limit and one vehicle per light until 4 PM, Friday, December 13th, 2024.",
     "Next update time": "Fri Dec 13 at 10:00 AM PST",
-    "Last update time": "Fri Nov 29 at 11:37 AM PST",
+    "Last update time": "Tue Dec 10 at 7:30 AM PST",
     "latitude": 48.7591586,
     "longitude": -123.2294164
   },
@@ -159,6 +159,12 @@
   {
     "title": "Other Roads Both Directions",
     "description": "Pavilion Clinton Rd, in both directions. Travel advisory in effect between Clinton and Lillooet 60 km south of Lillooet. Road closed for the season. Pavilion-Clinton Rd is closed for the Winter. Next update time Fri May 16, 2025 at 10:00 AM PST. Last updated Tue Nov 12 at 9:23 AM PST. (DBC-70161)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70161.html"
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70161.html",
+    "Location": "Pavilion Clinton Rd, in both directions between Clinton and Lillooet 60 km south of Lillooet",
+    "Description": "Road closed for the season",
+    "Next update time": "Fri May 16, 2025 at 10:00 AM PST",
+    "Last update time": "Tue Nov 12 at 9:23 AM PST",
+    "latitude": 51.0879404,
+    "longitude": -121.598893
   }
 ]
