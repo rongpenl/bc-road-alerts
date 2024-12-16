@@ -2,13 +2,7 @@
   {
     "title": "Arrow Park Ferry",
     "description": "Arrow Park Ferry. There will be required maintenance at Arrow Park. Starting Wed Dec 18 at 12:00 PM PST until Wed Dec 18 at 3:00 PM PST. Road closure planned. Next update time Wed Dec 18 at 3:00 PM PST. Last updated Wed Dec 11 at 5:19 PM PST. (DBC-71059)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71059.html",
-    "Location": "Arrow Park Ferry",
-    "Description": "There will be required maintenance at Arrow Park. Road closure planned.",
-    "Next update time": "Wed Dec 18 at 3:00 PM PST",
-    "Last update time": "Wed Dec 11 at 5:19 PM PST",
-    "latitude": 50.1043426,
-    "longitude": -117.9028574
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71059.html"
   },
   {
     "title": "Big Bar Reaction Ferry",
@@ -28,37 +22,37 @@
   },
   {
     "title": "Highway 1 Both Directions",
-    "description": "Highway 1 (TransCanada Highway), in both directions. Construction work between Coburn St and Shuswap Ave for 0.7 km (Chase). From 7:00 AM to 5:00 PM PST on weekdays and Saturday. Blasting. Road closed intermittently. Watch for traffic control. Speed reduction to 60km/hr. Next update time Sun Dec 15 at 10:00 AM PST. Last updated Mon Nov 25 at 10:06 AM PST. (DBC-64961)",
+    "description": "Highway 1 (TransCanada Highway), in both directions. Construction work between Coburn St and Shuswap Ave for 0.7 km (Chase). From 7:00 AM to 5:00 PM PST on weekdays and Saturday. Blasting. Road closed intermittently. Watch for traffic control. Speed reduction to 60km/hr. Next update time Fri Dec 20 at 10:00 AM PST. Last updated Sun Dec 15 at 10:50 AM PST. (DBC-64961)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-64961.html",
     "Location": "Highway 1 (TransCanada Highway), between Coburn St and Shuswap Ave for 0.7 km (Chase)",
     "Description": "Construction work, blasting. Road closed intermittently. Watch for traffic control. Speed reduction to 60km/hr.",
-    "Next update time": "Sun Dec 15 at 10:00 AM PST",
-    "Last update time": "Mon Nov 25 at 10:06 AM PST",
+    "Next update time": "Fri Dec 20 at 10:00 AM PST",
+    "Last update time": "Sun Dec 15 at 10:50 AM PST",
     "latitude": 50.820462,
     "longitude": -119.686908
   },
   {
     "title": "Highway 1 Both Directions",
-    "description": "Highway 1 (TransCanada Highway), in both directions. Construction work between Old Sicamous Rd and Solsqua-Sicamous Rd for 2.0 km (Sicamous). From 9:00 AM to 3:00 PM PST on weekdays. Bridge closed. Single lane alternating traffic from 8pm-6am. Expect 20 minute delays. Next update time Sun Dec 15 at 4:00 PM PST. Last updated Sat Dec 14 at 4:02 PM PST. (DBC-70490)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70490.html",
-    "Location": "Highway 1 (TransCanada Highway), in both directions between Old Sicamous Rd and Solsqua-Sicamous Rd for 2.0 km (Sicamous)",
-    "Description": "Construction work. Bridge closed. Single lane alternating traffic from 8pm-6am. Expect 20 minute delays.",
-    "Next update time": "Sun Dec 15 at 4:00 PM PST",
-    "Last update time": "Sat Dec 14 at 4:02 PM PST",
-    "latitude": 48.5693141,
-    "longitude": -88.8349293
+    "description": "Highway 1 (TransCanada Highway), in both directions. Construction work between Old Sicamous Rd and Solsqua-Sicamous Rd for 2.0 km (Sicamous). From 9:00 AM to 3:00 PM PST on weekdays. Bridge closed. Fully closed 9am-3pm Mon-Fri. Alternate route via Hwy 97A and 97B. Single lane alternating traffic from 8pm-6am. Expect 20 min delays. Next update time Fri Dec 20 at 5:00 PM PST. Last updated Sun Dec 15 at 4:18 PM PST. (DBC-70490)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70490.html"
   },
   {
     "title": "Highway 1 Both Directions",
     "description": "Highway 1 (TransCanada Highway), in both directions. Avalanche control work planned between Townley St and Anderson Rd for 141.4 km (Revelstoke to 1 km west of Golden). Starting Tue Dec 17 at 10:00 AM PST. Road closure planned. Detour will not be available. Watch for traffic control personnel. Estimated time of re-opening Tue Dec 17 at 2:00 PM PST. Next update time Tue Dec 17 at 1:45 PM PST. Last updated Fri Dec 13 at 8:38 AM PST. (DBC-71101)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71101.html"
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71101.html",
+    "Location": "Highway 1 (TransCanada Highway), between Townley St and Anderson Rd for 141.4 km (Revelstoke to 1 km west of Golden)",
+    "Description": "Avalanche control work",
+    "Next update time": "Tue Dec 17 at 1:45 PM PST",
+    "Last update time": "Fri Dec 13 at 8:38 AM PST",
+    "latitude": 50.9963175,
+    "longitude": -118.1781806
   },
   {
     "title": "Highway 17 Both Directions",
     "description": "Highway 17 (Patricia Bay Highway), in both directions. Construction work at Exit 18: Keating Cross Rd (Central Saanich). Until Tue Jul 1, 2025. Nighttime lane closures both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed. Next update time Sat May 10, 2025 at 12:00 PM PDT. Last updated Thu Sep 26 at 12:08 PM PDT. (DBC-54341)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-54341.html",
     "Location": "Highway 17 (Patricia Bay Highway), in both directions at Exit 18: Keating Cross Rd (Central Saanich)",
-    "Description": "Construction work with nighttime lane closures both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed.",
+    "Description": "Construction work with nighttime lane closures in both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale, and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed.",
     "Next update time": "Sat May 10, 2025 at 12:00 PM PDT",
     "Last update time": "Thu Sep 26 at 12:08 PM PDT",
     "latitude": 48.5651196,
@@ -66,47 +60,13 @@
   },
   {
     "title": "Highway 3 Both Directions",
-    "description": "Highway 3 (Crowsnest Highway), in both directions. Vehicle incident between Kettle Valley Rail Trail and Murray St (Midway). Single lane alternating traffic. Assessment in progress. Estimated time of re-opening Sat Dec 14 at 9:00 PM PST. Next update time Sat Dec 14 at 7:00 PM PST. Last updated Sat Dec 14 at 11:32 AM PST. (DBC-71119)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71119.html",
-    "Location": "Highway 3 (Crowsnest Highway), between Kettle Valley Rail Trail and Murray St (Midway)",
-    "Description": "Vehicle incident, single lane alternating traffic. Assessment in progress.",
-    "Next update time": "Sat Dec 14 at 7:00 PM PST",
-    "Last update time": "Sat Dec 14 at 11:32 AM PST",
-    "latitude": 49.0123387,
-    "longitude": -118.797503
-  },
-  {
-    "title": "Highway 3B Both Directions",
-    "description": "Highway 3B, in both directions. Tree on road between Highway 22 Jct W and Feeney Rd for 2.5 km (Rossland). Single lane alternating traffic. Next update time Sat Dec 14 at 7:00 PM PST. Last updated Sat Dec 14 at 3:08 PM PST. (DBC-71131)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71131.html",
-    "Location": "Highway 3B, between Highway 22 Jct W and Feeney Rd, Rossland, BC",
-    "Description": "Tree on road for 2.5 km, single lane alternating traffic",
-    "Next update time": "Sat Dec 14 at 7:00 PM PST",
-    "Last update time": "Sat Dec 14 at 3:08 PM PST",
-    "latitude": 49.0781415,
-    "longitude": -117.8000037
-  },
-  {
-    "title": "Highway 99 Both Directions",
-    "description": "Highway 99, in both directions. Landslide between Lions Bay Ave and Brunswick Beach Rd (Lions Bay). Road closed. Assessment in progress. Tree on road. Debris on roadway. Expect delays. Next update time Sat Dec 14 at 5:00 PM PST. Last updated Sat Dec 14 at 2:02 PM PST. (DBC-71134)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71134.html",
-    "Location": "Highway 99, Lions Bay, BC, Canada",
-    "Description": "Landslide between Lions Bay Ave and Brunswick Beach Rd. Road closed. Assessment in progress. Tree on road. Debris on roadway. Expect delays.",
-    "Next update time": "Sat Dec 14 at 5:00 PM PST",
-    "Last update time": "Sat Dec 14 at 2:02 PM PST",
-    "latitude": 49.4636915,
-    "longitude": -123.2381314
+    "description": "Highway 3 (Crowsnest Highway), in both directions. Vehicle incident at Railway Ave (Yahk). Road closed. Watch for traffic control. DETOUR VIA RAILWAY AVE. Next update time Sun Dec 15 at 4:30 PM PST. Last updated Sun Dec 15 at 3:41 PM PST. (DBC-71147)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71147.html"
   },
   {
     "title": "Kootenay Lake Ferry Both Directions",
     "description": "Kootenay Lake Ferry, in both directions. Ferry is out of service between Balfour and Kootenay Bay. Schedule modification. Mon-Fri essential service Balfour sailings: 6:30AM, 8:10AM, 4:30PM, Kootenay Bay: 7:10AM, 9AM, 5:20PM. Sat-Sun Balfour sailings: 6:30AM, 9:40PM, Kootenay Bay: 7:10AM, 10:20PM. Essential service travelers board 1st, then general public. Emergency services accommodated. Next update time Mon Dec 16 at 9:00 AM PST. Last updated Fri Dec 13 at 8:09 AM PST. (DBC-69872)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69872.html",
-    "Location": "Kootenay Lake Ferry, in both directions",
-    "Description": "Ferry is out of service between Balfour and Kootenay Bay. Schedule modification. Mon-Fri essential service Balfour sailings: 6:30AM, 8:10AM, 4:30PM, Kootenay Bay: 7:10AM, 9AM, 5:20PM. Sat-Sun Balfour sailings: 6:30AM, 9:40PM, Kootenay Bay: 7:10AM, 10:20PM. Essential service travelers board 1st, then general public. Emergency services accommodated.",
-    "Next update time": "Mon Dec 16 at 9:00 AM PST",
-    "Last update time": "Fri Dec 13 at 8:09 AM PST",
-    "latitude": 49.57009370000001,
-    "longitude": -116.8312394
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69872.html"
   },
   {
     "title": "Other Roads",
@@ -144,7 +104,13 @@
   {
     "title": "Other Roads",
     "description": "Johnston Bridge. Travel advisory in effect at Front St. In Quesnel. Johnston Bridge. Bridge is open to vehicles with gross vehicle weight rating of 10,000 kilograms or lower. Industrial traffic and heavy commercial traffic must detour via Plywood Rd and Maple Drive. Industrial traffic is not allowed to detour through Johnston Subdivision. Next update time Wed Apr 8, 2026 at 9:00 AM PDT. Last updated Thu Oct 17 at 6:39 AM PDT. (DBC-47311)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-47311.html"
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-47311.html",
+    "Location": "Johnston Bridge at Front St. in Quesnel",
+    "Description": "Bridge is open to vehicles with gross vehicle weight rating of 10,000 kilograms or lower. Industrial traffic and heavy commercial traffic must detour via Plywood Rd and Maple Drive. Industrial traffic is not allowed to detour through Johnston Subdivision.",
+    "Next update time": "Wed Apr 8, 2026 at 9:00 AM PDT",
+    "Last update time": "Thu Oct 17 at 6:39 AM PDT",
+    "latitude": 52.9733808,
+    "longitude": -122.4965097
   },
   {
     "title": "Other Roads Both Directions",
@@ -193,12 +159,6 @@
   {
     "title": "Other Roads Both Directions",
     "description": "Pavilion Clinton Rd, in both directions. Travel advisory in effect between Clinton and Lillooet 60 km south of Lillooet. Road closed for the season. Pavilion-Clinton Rd is closed for the Winter. Next update time Fri May 16, 2025 at 10:00 AM PST. Last updated Tue Nov 12 at 9:23 AM PST. (DBC-70161)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70161.html",
-    "Location": "Pavilion Clinton Rd, between Clinton and Lillooet 60 km south of Lillooet",
-    "Description": "Road closed for the season",
-    "Next update time": "Fri May 16, 2025 at 10:00 AM PST",
-    "Last update time": "Tue Nov 12 at 9:23 AM PST",
-    "latitude": 51.0879404,
-    "longitude": -121.598893
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70161.html"
   }
 ]
