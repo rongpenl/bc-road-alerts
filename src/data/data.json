@@ -2,7 +2,13 @@
   {
     "title": "Arrow Park Ferry",
     "description": "Arrow Park Ferry. There will be required maintenance at Arrow Park. Starting Wed Dec 18 at 12:00 PM PST until Wed Dec 18 at 3:00 PM PST. Road closure planned. Next update time Wed Dec 18 at 3:00 PM PST. Last updated Wed Dec 11 at 5:19 PM PST. (DBC-71059)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71059.html"
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71059.html",
+    "Location": "Arrow Park Ferry",
+    "Description": "There will be required maintenance at Arrow Park. Road closure planned.",
+    "Next update time": "Wed Dec 18 at 3:00 PM PST",
+    "Last update time": "Wed Dec 11 at 5:19 PM PST",
+    "latitude": 50.1043426,
+    "longitude": -117.9028574
   },
   {
     "title": "Big Bar Reaction Ferry",
@@ -38,21 +44,15 @@
   },
   {
     "title": "Highway 1 Both Directions",
-    "description": "Highway 1 (TransCanada Highway), in both directions. Avalanche control work planned between Townley St and Anderson Rd for 141.4 km (Revelstoke to 1 km west of Golden). Starting Tue Dec 17 at 10:00 AM PST. Road closure planned. Detour will not be available. Watch for traffic control personnel. Estimated time of re-opening Tue Dec 17 at 2:00 PM PST. Next update time Tue Dec 17 at 1:45 PM PST. Last updated Fri Dec 13 at 8:38 AM PST. (DBC-71101)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71101.html",
-    "Location": "Highway 1 (TransCanada Highway), between Townley St and Anderson Rd for 141.4 km (Revelstoke to 1 km west of Golden)",
-    "Description": "Avalanche control work",
-    "Next update time": "Tue Dec 17 at 1:45 PM PST",
-    "Last update time": "Fri Dec 13 at 8:38 AM PST",
-    "latitude": 50.9963175,
-    "longitude": -118.1781806
+    "description": "Highway 1 (TransCanada Highway), in both directions. Weather advisory in effect between Three Valley Frtg Rd and 14th St N for 165.8 km (16 km west of Revelstoke to Golden). Until Wed Dec 18 at 5:00 PM PST. Expect deteriorating conditions/visibility. Be prepared for short notice avalanche control/deposit removal closures. Consider alternate travel plans. Next update time Wed Dec 18 at 5:00 PM PST. Last updated Mon Dec 16 at 3:29 PM PST. (DBC-71186)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71186.html"
   },
   {
     "title": "Highway 17 Both Directions",
     "description": "Highway 17 (Patricia Bay Highway), in both directions. Construction work at Exit 18: Keating Cross Rd (Central Saanich). Until Tue Jul 1, 2025. Nighttime lane closures both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed. Next update time Sat May 10, 2025 at 12:00 PM PDT. Last updated Thu Sep 26 at 12:08 PM PDT. (DBC-54341)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-54341.html",
     "Location": "Highway 17 (Patricia Bay Highway), in both directions at Exit 18: Keating Cross Rd (Central Saanich)",
-    "Description": "Construction work with nighttime lane closures in both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale, and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed.",
+    "Description": "Construction work with nighttime lane closures both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed.",
     "Next update time": "Sat May 10, 2025 at 12:00 PM PDT",
     "Last update time": "Thu Sep 26 at 12:08 PM PDT",
     "latitude": 48.5651196,
@@ -60,13 +60,36 @@
   },
   {
     "title": "Highway 3 Both Directions",
-    "description": "Highway 3 (Crowsnest Highway), in both directions. Vehicle incident at Railway Ave (Yahk). Road closed. Watch for traffic control. DETOUR VIA RAILWAY AVE. Next update time Sun Dec 15 at 4:30 PM PST. Last updated Sun Dec 15 at 3:41 PM PST. (DBC-71147)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71147.html"
+    "description": "Highway 3 (Crowsnest Highway), in both directions. Vehicle recovery planned between Johnson Rd and Yahk-Meadow Creek Rd for 1.8 km (Yahk). Starting Tue Dec 17 at 8:00 AM PST until Tue Dec 17 at 4:00 PM PST. Road closure planned. Detour planned. Watch for traffic control personnel. Next update time Tue Dec 17 at 4:00 PM PST. Last updated Mon Dec 16 at 3:09 PM PST. (DBC-71190)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71190.html",
+    "Location": "Highway 3 (Crowsnest Highway), between Johnson Rd and Yahk-Meadow Creek Rd for 1.8 km (Yahk)",
+    "Description": "Vehicle recovery planned. Road closure planned. Detour planned. Watch for traffic control personnel.",
+    "Next update time": "Tue Dec 17 at 4:00 PM PST",
+    "Last update time": "Mon Dec 16 at 3:09 PM PST",
+    "latitude": 49.0292214,
+    "longitude": -115.8729795
+  },
+  {
+    "title": "Highway 5A Both Directions",
+    "description": "Highway 5A, in both directions. Vehicle recovery planned between Exit 290: Highway 5 and Hillside Way for 90.0 km (Merritt to Kamloops). Starting Mon Dec 16 at 6:00 PM PST until Mon Dec 16 at 9:00 PM PST. Road closure planned. Detour via Highway 5. Next update time Mon Dec 16 at 9:00 PM PST. Last updated Mon Dec 16 at 4:09 PM PST. (DBC-71193)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71193.html",
+    "Location": "Highway 5A, between Exit 290: Highway 5 and Hillside Way for 90.0 km (Merritt to Kamloops)",
+    "Description": "Vehicle recovery planned. Road closure planned. Detour via Highway 5.",
+    "Next update time": "Mon Dec 16 at 9:00 PM PST",
+    "Last update time": "Mon Dec 16 at 4:09 PM PST",
+    "latitude": 50.655806,
+    "longitude": -120.369097
   },
   {
     "title": "Kootenay Lake Ferry Both Directions",
-    "description": "Kootenay Lake Ferry, in both directions. Ferry is out of service between Balfour and Kootenay Bay. Schedule modification. Mon-Fri essential service Balfour sailings: 6:30AM, 8:10AM, 4:30PM, Kootenay Bay: 7:10AM, 9AM, 5:20PM. Sat-Sun Balfour sailings: 6:30AM, 9:40PM, Kootenay Bay: 7:10AM, 10:20PM. Essential service travelers board 1st, then general public. Emergency services accommodated. Next update time Mon Dec 16 at 9:00 AM PST. Last updated Fri Dec 13 at 8:09 AM PST. (DBC-69872)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69872.html"
+    "description": "Kootenay Lake Ferry, in both directions. Ferry is out of service between Balfour and Kootenay Bay. Schedule modification. Mon-Fri essential service Balfour sailings: 6:30AM, 8:10AM, 4:30PM, Kootenay Bay: 7:10AM, 9AM, 5:20PM. Sat-Sun Balfour sailings: 6:30AM, 9:40PM, Kootenay Bay: 7:10AM, 10:20PM. Essential service travelers board 1st, then general public. Emergency services accommodated. Next update time Wed Dec 18 at 9:00 AM PST. Last updated Mon Dec 16 at 8:37 AM PST. (DBC-69872)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69872.html",
+    "Location": "Kootenay Lake Ferry, in both directions",
+    "Description": "Ferry is out of service between Balfour and Kootenay Bay. Schedule modification. Mon-Fri essential service Balfour sailings: 6:30AM, 8:10AM, 4:30PM, Kootenay Bay: 7:10AM, 9AM, 5:20PM. Sat-Sun Balfour sailings: 6:30AM, 9:40PM, Kootenay Bay: 7:10AM, 10:20PM. Essential service travelers board 1st, then general public. Emergency services accommodated.",
+    "Next update time": "Wed Dec 18 at 9:00 AM PST",
+    "Last update time": "Mon Dec 16 at 8:37 AM PST",
+    "latitude": 49.57009370000001,
+    "longitude": -116.8312394
   },
   {
     "title": "Other Roads",
