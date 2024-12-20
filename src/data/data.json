@@ -2,18 +2,29 @@
   {
     "title": "Big Bar Reaction Ferry",
     "description": "Big Bar Reaction Ferry. Travel advisory in effect at Big Bar Reaction Ferry (Big Bar Reaction Ferry). Road closed for the season. The Aerial Car is in operation for foot traffic only. Next update time Fri May 30, 2025. Last updated Tue Nov 19 at 9:13 AM PST. (DBC-70341)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70341.html"
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70341.html",
+    "Location": "Big Bar Reaction Ferry",
+    "Description": "Road closed for the season. The Aerial Car is in operation for foot traffic only.",
+    "Next update time": "Fri May 30, 2025",
+    "Last update time": "Tue Nov 19 at 9:13 AM PST",
+    "latitude": 51.2710381,
+    "longitude": -121.7255006
   },
   {
     "title": "Highway 1 Both Directions",
     "description": "Highway 1 (TransCanada Highway), in both directions. Bridge maintenance between Mt Sicker Rd and Fuller Lake Rd for 3.7 km (Chemainus). Lane closures in both directions. Construction speed zone in effect. Southbound bridge closed for repairs. All Traffic diverted onto the adjacent bridge. No overwidth protocols in effect up to 4.4m. Next update time Mon Jan 20, 2025 at 7:00 AM PST. Last updated Fri Nov 29 at 9:22 PM PST. (DBC-70685)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70685.html",
-    "Location": "Highway 1 (TransCanada Highway), between Mt Sicker Rd and Fuller Lake Rd for 3.7 km (Chemainus)",
-    "Description": "Bridge maintenance with lane closures in both directions. Construction speed zone in effect. Southbound bridge closed for repairs. All Traffic diverted onto the adjacent bridge. No overwidth protocols in effect up to 4.4m.",
-    "Next update time": "Mon Jan 20, 2025 at 7:00 AM PST",
-    "Last update time": "Fri Nov 29 at 9:22 PM PST",
-    "latitude": 48.9034496,
-    "longitude": -123.7183903
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70685.html"
+  },
+  {
+    "title": "Highway 1 Both Directions",
+    "description": "Highway 1 (TransCanada Highway), in both directions. Vehicle incident at 216th St (Langley - District). HOV lane closed. Expect Major delays due to congestion. Next update time Thu Dec 19 at 4:30 PM PST. Last updated Thu Dec 19 at 3:32 PM PST. (DBC-71295)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71295.html",
+    "Location": "Highway 1 (TransCanada Highway), at 216th St (Langley - District)",
+    "Description": "Vehicle incident. HOV lane closed. Expect Major delays due to congestion.",
+    "Next update time": "Thu Dec 19 at 4:30 PM PST",
+    "Last update time": "Thu Dec 19 at 3:32 PM PST",
+    "latitude": 49.2278567,
+    "longitude": -122.6226126
   },
   {
     "title": "Highway 1 Both Directions",
@@ -32,31 +43,9 @@
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70490.html"
   },
   {
-    "title": "Highway 1 Both Directions",
-    "description": "Highway 1 (TransCanada Highway), in both directions. Weather advisory in effect between Three Valley Frtg Rd and 14th St N for 165.8 km (16 km west of Revelstoke to Golden). Until Wed Dec 18 at 5:00 PM PST. Expect deteriorating conditions/visibility. Be prepared for short notice avalanche control/deposit removal closures. Consider alternate travel plans. Next update time Wed Dec 18 at 5:00 PM PST. Last updated Mon Dec 16 at 3:29 PM PST. (DBC-71186)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71186.html"
-  },
-  {
     "title": "Highway 17 Both Directions",
     "description": "Highway 17 (Patricia Bay Highway), in both directions. Construction work at Exit 18: Keating Cross Rd (Central Saanich). Until Tue Jul 1, 2025. Nighttime lane closures both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed. Next update time Sat May 10, 2025 at 12:00 PM PDT. Last updated Thu Sep 26 at 12:08 PM PDT. (DBC-54341)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-54341.html",
-    "Location": "Highway 17 (Patricia Bay Highway), in both directions at Exit 18: Keating Cross Rd (Central Saanich)",
-    "Description": "Construction work with nighttime lane closures both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed.",
-    "Next update time": "Sat May 10, 2025 at 12:00 PM PDT",
-    "Last update time": "Thu Sep 26 at 12:08 PM PDT",
-    "latitude": 48.5651196,
-    "longitude": -123.417242
-  },
-  {
-    "title": "Highway 97C Westbound",
-    "description": "Highway 97C (Okanagan Connector), westbound. Vehicle incident between Junction Hwy 97 and MacKinnon Rd (Peachland). Road closed. Detour in effect. Detour at Trepanier Road. Next update time Wed Dec 18 at 5:00 PM PST. Last updated Wed Dec 18 at 3:51 PM PST. (DBC-71253)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71253.html",
-    "Location": "Highway 97C (Okanagan Connector), westbound between Junction Hwy 97 and MacKinnon Rd (Peachland)",
-    "Description": "Vehicle incident. Road closed. Detour in effect. Detour at Trepanier Road.",
-    "Next update time": "Wed Dec 18 at 5:00 PM PST",
-    "Last update time": "Wed Dec 18 at 3:51 PM PST",
-    "latitude": 49.8013001,
-    "longitude": -119.7180321
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-54341.html"
   },
   {
     "title": "Kootenay Lake Ferry Both Directions",
@@ -78,8 +67,8 @@
     "title": "Other Roads Both Directions",
     "description": "Durrell Road, in both directions. Landslide at 700m from Highway 97. Road closed. Detour in effect. Detour available via Highway 97 and Dale Lake Road. Next update time Wed Apr 23, 2025 at 2:00 PM PDT. Last updated Wed Oct 23 at 1:06 PM PDT. (DBC-27390)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-27390.html",
-    "Location": "Durrell Road, in both directions at 700m from Highway 97",
-    "Description": "Landslide. Road closed. Detour available via Highway 97 and Dale Lake Road.",
+    "Location": "Durrell Road, 700m from Highway 97",
+    "Description": "Landslide, road closed. Detour available via Highway 97 and Dale Lake Road.",
     "Next update time": "Wed Apr 23, 2025 at 2:00 PM PDT",
     "Last update time": "Wed Oct 23 at 1:06 PM PDT",
     "latitude": 54.6985492,
@@ -99,13 +88,7 @@
   {
     "title": "Other Roads",
     "description": "Johnston Bridge. Travel advisory in effect at Front St. In Quesnel. Johnston Bridge. Bridge is open to vehicles with gross vehicle weight rating of 10,000 kilograms or lower. Industrial traffic and heavy commercial traffic must detour via Plywood Rd and Maple Drive. Industrial traffic is not allowed to detour through Johnston Subdivision. Next update time Wed Apr 8, 2026 at 9:00 AM PDT. Last updated Thu Oct 17 at 6:39 AM PDT. (DBC-47311)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-47311.html",
-    "Location": "Johnston Bridge at Front St. in Quesnel",
-    "Description": "Bridge is open to vehicles with gross vehicle weight rating of 10,000 kilograms or lower. Industrial traffic and heavy commercial traffic must detour via Plywood Rd and Maple Drive. Industrial traffic is not allowed to detour through Johnston Subdivision.",
-    "Next update time": "Wed Apr 8, 2026 at 9:00 AM PDT",
-    "Last update time": "Thu Oct 17 at 6:39 AM PDT",
-    "latitude": 52.9733808,
-    "longitude": -122.4965097
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-47311.html"
   },
   {
     "title": "Other Roads Both Directions",
@@ -121,13 +104,7 @@
   {
     "title": "Other Roads Both Directions",
     "description": "Canal Rd, in both directions. Construction work at Mt Norman Access Rd. From 10:00 AM to 2:00 PM PST daily. Watch for traffic control. Expect delays. Road closed. 5 ton load restriction and 1 car at a time. Single lane alternating traffic after December 20th until March 2025. Next update time Fri Dec 20 at 12:00 PM PST. Last updated Wed Dec 18 at 7:33 AM PST. (DBC-61149)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-61149.html",
-    "Location": "Canal Rd, in both directions at Mt Norman Access Rd",
-    "Description": "Construction work. Road closed with 5 ton load restriction and 1 car at a time. Single lane alternating traffic after December 20th until March 2025. Watch for traffic control. Expect delays.",
-    "Next update time": "Fri Dec 20 at 12:00 PM PST",
-    "Last update time": "Wed Dec 18 at 7:33 AM PST",
-    "latitude": 48.7591586,
-    "longitude": -123.2294164
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-61149.html"
   },
   {
     "title": "Other Roads Both Directions",
@@ -156,7 +133,7 @@
     "description": "Pavilion Clinton Rd, in both directions. Travel advisory in effect between Clinton and Lillooet 60 km south of Lillooet. Road closed for the season. Pavilion-Clinton Rd is closed for the Winter. Next update time Fri May 16, 2025 at 10:00 AM PST. Last updated Tue Nov 12 at 9:23 AM PST. (DBC-70161)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70161.html",
     "Location": "Pavilion Clinton Rd, in both directions between Clinton and Lillooet 60 km south of Lillooet",
-    "Description": "Road closed for the season. Pavilion-Clinton Rd is closed for the Winter.",
+    "Description": "Road closed for the season",
     "Next update time": "Fri May 16, 2025 at 10:00 AM PST",
     "Last update time": "Tue Nov 12 at 9:23 AM PST",
     "latitude": 51.0879404,
@@ -164,12 +141,12 @@
   },
   {
     "title": "Other Roads Both Directions",
-    "description": "Cowichan Bay Road , in both directions. Flooding between Zouhalem Road and Highway 1 near Duncan. Road closed. Detour in effect. Detour Bench Road. Next update time Thu Dec 19 at 12:15 AM PST. Last updated Wed Dec 18 at 4:04 PM PST. (DBC-71241)",
+    "description": "Cowichan Bay Road , in both directions. Flooding between Zouhalem Road and Highway 1 near Duncan. Road closed. Detour in effect. Detour Bench Road. Next update time Fri Dec 20 at 8:00 AM PST. Last updated Thu Dec 19 at 1:48 PM PST. (DBC-71241)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71241.html",
     "Location": "Cowichan Bay Road, in both directions between Zouhalem Road and Highway 1 near Duncan",
-    "Description": "Flooding. Road closed. Detour in effect. Detour Bench Road.",
-    "Next update time": "Thu Dec 19 at 12:15 AM PST",
-    "Last update time": "Wed Dec 18 at 4:04 PM PST",
+    "Description": "Flooding",
+    "Next update time": "Fri Dec 20 at 8:00 AM PST",
+    "Last update time": "Thu Dec 19 at 1:48 PM PST",
     "latitude": 48.73779099999999,
     "longitude": -123.614659
   }
