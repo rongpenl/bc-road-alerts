@@ -17,14 +17,14 @@
   },
   {
     "title": "Highway 1 Westbound",
-    "description": "Highway 1 (TransCanada Highway), westbound. Road cleared at Exit 28: Boundary Rd (Vancouver). Last updated Sun Dec 22 at 4:09 PM PST. (DBC-71387)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71387.html",
-    "Location": "Highway 1 (TransCanada Highway), westbound at Exit 28: Boundary Rd (Vancouver)",
-    "Description": "Road cleared",
-    "Next update time": "",
-    "Last update time": "Sun Dec 22 at 4:09 PM PST",
-    "latitude": 49.2844541,
-    "longitude": -123.0229965
+    "description": "Highway 1 (TransCanada Highway), westbound. Vehicle incident between Exit 73 and 248 St (Langley - District). Left lane is blocked. Expect Major delays due to congestion. Next update time Mon Dec 23 at 4:30 PM PST. Last updated Mon Dec 23 at 4:05 PM PST. (DBC-71412)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71412.html",
+    "Location": "Highway 1 (TransCanada Highway), westbound between Exit 73 and 248 St (Langley - District)",
+    "Description": "Vehicle incident. Left lane is blocked. Expect Major delays due to congestion.",
+    "Next update time": "Mon Dec 23 at 4:30 PM PST",
+    "Last update time": "Mon Dec 23 at 4:05 PM PST",
+    "latitude": 49.0036845,
+    "longitude": -122.5374355
   },
   {
     "title": "Highway 1 Both Directions",
@@ -43,57 +43,23 @@
     "longitude": -88.8349293
   },
   {
-    "title": "Highway 16 Both Directions",
-    "description": "Highway 16 (Yellowhead Highway), in both directions. Travel advisory in effect between Terrace and Kitwanga for 90.6 km (17 km west of Gitsegukla to 1 km east of Terrace). Freezing rain. Use caution if travelling. Next update time Sun Dec 22 at 5:00 PM PST. Last updated Sun Dec 22 at 4:12 PM PST. (DBC-71383)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71383.html",
-    "Location": "Highway 16 (Yellowhead Highway), in both directions between Terrace and Kitwanga for 90.6 km (17 km west of Gitsegukla to 1 km east of Terrace)",
-    "Description": "Freezing rain. Use caution if travelling.",
-    "Next update time": "Sun Dec 22 at 5:00 PM PST",
-    "Last update time": "Sun Dec 22 at 4:12 PM PST",
-    "latitude": 52.8818947,
-    "longitude": -118.4494971
-  },
-  {
     "title": "Highway 17 Both Directions",
     "description": "Highway 17 (Patricia Bay Highway), in both directions. Construction work at Exit 18: Keating Cross Rd (Central Saanich). Until Tue Jul 1, 2025. Nighttime lane closures both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed. Next update time Sat May 10, 2025 at 12:00 PM PDT. Last updated Thu Sep 26 at 12:08 PM PDT. (DBC-54341)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-54341.html",
-    "Location": "Highway 17 (Patricia Bay Highway), in both directions at Exit 18: Keating Cross Rd (Central Saanich)",
-    "Description": "Construction work with nighttime lane closures both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed.",
-    "Next update time": "Sat May 10, 2025 at 12:00 PM PDT",
-    "Last update time": "Thu Sep 26 at 12:08 PM PDT",
-    "latitude": 48.5651196,
-    "longitude": -123.417242
-  },
-  {
-    "title": "Highway 95A Both Directions",
-    "description": "Highway 95A, in both directions. Vehicle incident between Mission-Wycliffe Rd and Porteous Rd (6 km north of Cranbrook). Road closed. Assessment in progress. Next update time Sun Dec 22 at 6:00 PM MST. Last updated Sun Dec 22 at 5:04 PM MST. (DBC-71386)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71386.html",
-    "Location": "Highway 95A, between Mission-Wycliffe Rd and Porteous Rd (6 km north of Cranbrook)",
-    "Description": "Vehicle incident, road closed. Assessment in progress.",
-    "Next update time": "Sun Dec 22 at 6:00 PM MST",
-    "Last update time": "Sun Dec 22 at 5:04 PM MST",
-    "latitude": 49.6059587,
-    "longitude": -115.7972308
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-54341.html"
   },
   {
     "title": "Kootenay Lake Ferry Both Directions",
-    "description": "Kootenay Lake Ferry, in both directions. Ferry is out of service between Balfour and Kootenay Bay. Mon-Fri essential service Balfour sailings: 6:30AM, 8:10AM, 4:30PM, Kootenay Bay: 7:10AM, 9AM, 5:20PM. Sat-Sun Balfour sailings: 6:30AM, 9:40PM, Kootenay Bay: 7:10AM, 10:20PM. Essential service travelers board 1st, then general public. Emergency services accommodated. Next update time Mon Dec 23 at 9:00 AM PST. Last updated Fri Dec 20 at 8:32 AM PST. (DBC-69872)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69872.html",
-    "Location": "Kootenay Lake Ferry, in both directions",
-    "Description": "Ferry is out of service between Balfour and Kootenay Bay. Mon-Fri essential service Balfour sailings: 6:30AM, 8:10AM, 4:30PM, Kootenay Bay: 7:10AM, 9AM, 5:20PM. Sat-Sun Balfour sailings: 6:30AM, 9:40PM, Kootenay Bay: 7:10AM, 10:20PM. Essential service travelers board 1st, then general public. Emergency services accommodated.",
-    "Next update time": "Mon Dec 23 at 9:00 AM PST",
-    "Last update time": "Fri Dec 20 at 8:32 AM PST",
-    "latitude": 49.57009370000001,
-    "longitude": -116.8312394
+    "description": "Kootenay Lake Ferry, in both directions. Ferry is out of service between Balfour and Kootenay Bay. Mon-Fri essential service Balfour sailings: 6:30AM, 8:10AM, 4:30PM, Kootenay Bay: 7:10AM, 9AM, 5:20PM. Sat-Sun Balfour sailings: 6:30AM, 9:40PM, Kootenay Bay: 7:10AM, 10:20PM. Essential service travelers board 1st, then general public. Emergency services accommodated. Next update time Fri Dec 27 at 9:00 AM PST. Last updated Mon Dec 23 at 8:16 AM PST. (DBC-69872)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69872.html"
   },
   {
     "title": "Kootenay Lake Ferry",
-    "description": "Kootenay Lake Ferry. Additional service planned between Balfour and Kootenay Bay. Starting Tue Dec 24 at 6:30 AM PST until Thu Dec 26 at 11:00 PM PST. The Osprey ferry will operate on the full winter schedule for December 24th, 25th and 26th. Next update time Mon Dec 23 at 9:00 AM PST. Last updated Fri Dec 20 at 3:36 PM PST. (DBC-71350)",
+    "description": "Kootenay Lake Ferry. Additional service planned between Balfour and Kootenay Bay. Starting Tue Dec 24 at 6:30 AM PST until Thu Dec 26 at 11:00 PM PST. The Osprey ferry will operate on the full winter schedule for December 24th, 25th and 26th. Next update time Thu Dec 26 at 11:00 PM PST. Last updated Mon Dec 23 at 8:15 AM PST. (DBC-71350)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71350.html",
     "Location": "Kootenay Lake Ferry",
     "Description": "Additional service planned between Balfour and Kootenay Bay. The Osprey ferry will operate on the full winter schedule for December 24th, 25th and 26th.",
-    "Next update time": "Mon Dec 23 at 9:00 AM PST",
-    "Last update time": "Fri Dec 20 at 3:36 PM PST",
+    "Next update time": "Thu Dec 26 at 11:00 PM PST",
+    "Last update time": "Mon Dec 23 at 8:15 AM PST",
     "latitude": 49.57009370000001,
     "longitude": -116.8312394
   },
@@ -101,8 +67,8 @@
     "title": "Other Roads",
     "description": "Kersley-Dale Landing Rd. Landslide at 500 metres in from Highway 97 Intersection. Road closed. A temporary Single Lane Gravel Road for Local Traffic via Arnoldus Road. Next update time Mon Apr 14, 2025 at 9:00 AM PST. Last updated Mon Dec 9 at 5:50 PM PST. (DBC-23443)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-23443.html",
-    "Location": "Kersley-Dale Landing Rd. Landslide at 500 metres in from Highway 97 Intersection",
-    "Description": "Road closed. A temporary Single Lane Gravel Road for Local Traffic via Arnoldus Road",
+    "Location": "Kersley-Dale Landing Rd. at 500 metres in from Highway 97 Intersection",
+    "Description": "Landslide, road closed. Temporary Single Lane Gravel Road for Local Traffic via Arnoldus Road.",
     "Next update time": "Mon Apr 14, 2025 at 9:00 AM PST",
     "Last update time": "Mon Dec 9 at 5:50 PM PST",
     "latitude": 54.6985492,
@@ -154,17 +120,6 @@
   },
   {
     "title": "Other Roads Both Directions",
-    "description": "Canal Rd, in both directions. Construction work at Mt Norman Access Rd. From 10:00 AM to 2:00 PM PST daily. Watch for traffic control. Expect delays. Road closed. 5 ton load restriction and 1 car at a time. Single lane alternating traffic until March 2025. Next update time Mon Mar 3, 2025 at 12:00 PM PST. Last updated Fri Dec 20 at 12:12 PM PST. (DBC-61149)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-61149.html",
-    "Location": "Canal Rd, in both directions at Mt Norman Access Rd",
-    "Description": "Construction work. Road closed with 5 ton load restriction and 1 car at a time. Single lane alternating traffic. Expect delays.",
-    "Next update time": "Mon Mar 3, 2025 at 12:00 PM PST",
-    "Last update time": "Fri Dec 20 at 12:12 PM PST",
-    "latitude": 48.7591586,
-    "longitude": -123.2294164
-  },
-  {
-    "title": "Other Roads Both Directions",
     "description": "Cave Road, in both directions. Landslide at Quesnel-Hixon Road. Road closed. Landslide on Cave Road. Next update time Tue Apr 1, 2025 at 10:00 AM PDT. Last updated Wed Oct 9 at 10:17 AM PDT. (DBC-67913)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-67913.html",
     "Location": "Cave Road, in both directions at Quesnel-Hixon Road",
@@ -173,17 +128,6 @@
     "Last update time": "Wed Oct 9 at 10:17 AM PDT",
     "latitude": 53.0738772,
     "longitude": -122.5100618
-  },
-  {
-    "title": "Other Roads",
-    "description": "Red Bridge. Bridge closed between Athabasca Street and Lorne Street 1 km north of Kamloops. Bridge damaged. Detour in effect. Detour via Highway 5. Next update time Tue Dec 31 at 12:00 PM PDT. Last updated Fri Oct 25 at 7:55 AM PDT. (DBC-68412)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-68412.html",
-    "Location": "Red Bridge, 1 km north of Kamloops",
-    "Description": "Bridge closed between Athabasca Street and Lorne Street due to bridge damage. Detour in effect via Highway 5.",
-    "Next update time": "Tue Dec 31 at 12:00 PM PDT",
-    "Last update time": "Fri Oct 25 at 7:55 AM PDT",
-    "latitude": 50.6796374,
-    "longitude": -120.3250075
   },
   {
     "title": "Other Roads Both Directions",
@@ -195,27 +139,5 @@
     "Last update time": "Tue Nov 12 at 9:23 AM PST",
     "latitude": 51.0879404,
     "longitude": -121.598893
-  },
-  {
-    "title": "Other Roads Both Directions",
-    "description": "Cowichan Bay Road , in both directions. Flooding between Zouhalem Road and Highway 1 near Duncan. Road closed. Detour in effect. Detour Bench Road. Next update time Mon Dec 23 at 12:00 PM PST. Last updated Fri Dec 20 at 12:21 PM PST. (DBC-71241)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71241.html",
-    "Location": "Cowichan Bay Road, in both directions between Zouhalem Road and Highway 1 near Duncan",
-    "Description": "Flooding. Road closed. Detour in effect. Detour Bench Road.",
-    "Next update time": "Mon Dec 23 at 12:00 PM PST",
-    "Last update time": "Fri Dec 20 at 12:21 PM PST",
-    "latitude": 48.73779099999999,
-    "longitude": -123.614659
-  },
-  {
-    "title": "Other Roads Northbound",
-    "description": "Knight Street, northbound. Stalled vehicle at Knight Street Bridge. Right lane is blocked. Next update time Sun Dec 22 at 5:00 PM PST. Last updated Sun Dec 22 at 4:13 PM PST. (DBC-71388)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71388.html",
-    "Location": "Knight Street, northbound",
-    "Description": "Stalled vehicle at Knight Street Bridge. Right lane is blocked.",
-    "Next update time": "Sun Dec 22 at 5:00 PM PST",
-    "Last update time": "Sun Dec 22 at 4:13 PM PST",
-    "latitude": 49.2141986,
-    "longitude": -123.0771115
   }
 ]
