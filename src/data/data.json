@@ -16,20 +16,15 @@
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70685.html"
   },
   {
-    "title": "Highway 1 Westbound",
-    "description": "Highway 1 (TransCanada Highway), westbound. Vehicle incident between Exit 73 and 248 St (Langley - District). Left lane is blocked. Expect Major delays due to congestion. Next update time Mon Dec 23 at 4:30 PM PST. Last updated Mon Dec 23 at 4:05 PM PST. (DBC-71412)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71412.html",
-    "Location": "Highway 1 (TransCanada Highway), westbound between Exit 73 and 248 St (Langley - District)",
-    "Description": "Vehicle incident. Left lane is blocked. Expect Major delays due to congestion.",
-    "Next update time": "Mon Dec 23 at 4:30 PM PST",
-    "Last update time": "Mon Dec 23 at 4:05 PM PST",
-    "latitude": 49.0036845,
-    "longitude": -122.5374355
-  },
-  {
     "title": "Highway 1 Both Directions",
     "description": "Highway 1 (TransCanada Highway), in both directions. Construction work between Coburn St and Shuswap Ave for 0.7 km (Chase). From 7:00 AM to 5:00 PM PST on weekdays and Saturday. Blasting. Road closed intermittently. Watch for traffic control. Seasonal shutdown between December 21 and January 14. 80km/hr speed limit. Construction resuming Jan 15, 2025. Next update time Wed Jan 15, 2025 at 7:00 AM PST. Last updated Fri Dec 20 at 7:34 AM PST. (DBC-64961)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-64961.html"
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-64961.html",
+    "Location": "Highway 1 (TransCanada Highway), between Coburn St and Shuswap Ave for 0.7 km (Chase)",
+    "Description": "Construction work, blasting. Road closed intermittently. Watch for traffic control. Seasonal shutdown between December 21 and January 14. 80km/hr speed limit.",
+    "Next update time": "Wed Jan 15, 2025 at 7:00 AM PST",
+    "Last update time": "Fri Dec 20 at 7:34 AM PST",
+    "latitude": 50.820462,
+    "longitude": -119.686908
   },
   {
     "title": "Highway 1 Both Directions",
@@ -48,16 +43,32 @@
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-54341.html"
   },
   {
+    "title": "Highway 3",
+    "description": "Highway 3 (Crowsnest Highway). Avalanche control work between West Avalanche Gate and East Avalanche Gate for 18.0 km (Kootenay Pass). Until Tue Dec 24 at 5:00 PM PST. Road closed. Alternate route available from Nelson to Creston; Highway 3A, Kootenay Lake Ferry, estimated travel time 2.5 hours. Next update time Tue Dec 24 at 5:00 PM PST. Last updated Tue Dec 24 at 8:23 AM PST. (DBC-71426)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71426.html"
+  },
+  {
+    "title": "Highway 9 Both Directions",
+    "description": "Highway 9, in both directions. Vehicle incident between McCallum Rd and Golf Rd for 1.6 km (Kent). Road closed. Detour in effect. Next update time Tue Dec 24 at 4:30 PM PST. Last updated Tue Dec 24 at 3:39 PM PST. (DBC-71435)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71435.html",
+    "Location": "Highway 9, between McCallum Rd and Golf Rd, Kent, BC",
+    "Description": "Vehicle incident for 1.6 km. Road closed. Detour in effect.",
+    "Next update time": "Tue Dec 24 at 4:30 PM PST",
+    "Last update time": "Tue Dec 24 at 3:39 PM PST",
+    "latitude": 49.2683432,
+    "longitude": -121.7943461
+  },
+  {
     "title": "Kootenay Lake Ferry Both Directions",
     "description": "Kootenay Lake Ferry, in both directions. Ferry is out of service between Balfour and Kootenay Bay. Mon-Fri essential service Balfour sailings: 6:30AM, 8:10AM, 4:30PM, Kootenay Bay: 7:10AM, 9AM, 5:20PM. Sat-Sun Balfour sailings: 6:30AM, 9:40PM, Kootenay Bay: 7:10AM, 10:20PM. Essential service travelers board 1st, then general public. Emergency services accommodated. Next update time Fri Dec 27 at 9:00 AM PST. Last updated Mon Dec 23 at 8:16 AM PST. (DBC-69872)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69872.html"
   },
   {
     "title": "Kootenay Lake Ferry",
-    "description": "Kootenay Lake Ferry. Additional service planned between Balfour and Kootenay Bay. Starting Tue Dec 24 at 6:30 AM PST until Thu Dec 26 at 11:00 PM PST. The Osprey ferry will operate on the full winter schedule for December 24th, 25th and 26th. Next update time Thu Dec 26 at 11:00 PM PST. Last updated Mon Dec 23 at 8:15 AM PST. (DBC-71350)",
+    "description": "Kootenay Lake Ferry. Additional service available between Balfour and Kootenay Bay. Until Thu Dec 26 at 11:00 PM PST. The Osprey ferry will operate on the full winter schedule for December 24th, 25th and 26th. Next update time Thu Dec 26 at 11:00 PM PST. Last updated Mon Dec 23 at 8:15 AM PST. (DBC-71350)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71350.html",
     "Location": "Kootenay Lake Ferry",
-    "Description": "Additional service planned between Balfour and Kootenay Bay. The Osprey ferry will operate on the full winter schedule for December 24th, 25th and 26th.",
+    "Description": "Additional service available between Balfour and Kootenay Bay. The Osprey ferry will operate on the full winter schedule for December 24th, 25th and 26th.",
     "Next update time": "Thu Dec 26 at 11:00 PM PST",
     "Last update time": "Mon Dec 23 at 8:15 AM PST",
     "latitude": 49.57009370000001,
@@ -99,13 +110,7 @@
   {
     "title": "Other Roads",
     "description": "Johnston Bridge. Travel advisory in effect at Front St. In Quesnel. Johnston Bridge. Bridge is open to vehicles with gross vehicle weight rating of 10,000 kilograms or lower. Industrial traffic and heavy commercial traffic must detour via Plywood Rd and Maple Drive. Industrial traffic is not allowed to detour through Johnston Subdivision. Next update time Wed Apr 8, 2026 at 9:00 AM PDT. Last updated Thu Oct 17 at 6:39 AM PDT. (DBC-47311)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-47311.html",
-    "Location": "Johnston Bridge at Front St. in Quesnel",
-    "Description": "Bridge is open to vehicles with gross vehicle weight rating of 10,000 kilograms or lower. Industrial traffic and heavy commercial traffic must detour via Plywood Rd and Maple Drive. Industrial traffic is not allowed to detour through Johnston Subdivision.",
-    "Next update time": "Wed Apr 8, 2026 at 9:00 AM PDT",
-    "Last update time": "Thu Oct 17 at 6:39 AM PDT",
-    "latitude": 52.9733808,
-    "longitude": -122.4965097
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-47311.html"
   },
   {
     "title": "Other Roads Both Directions",
@@ -122,22 +127,44 @@
     "title": "Other Roads Both Directions",
     "description": "Cave Road, in both directions. Landslide at Quesnel-Hixon Road. Road closed. Landslide on Cave Road. Next update time Tue Apr 1, 2025 at 10:00 AM PDT. Last updated Wed Oct 9 at 10:17 AM PDT. (DBC-67913)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-67913.html",
-    "Location": "Cave Road, in both directions at Quesnel-Hixon Road",
+    "Location": "Cave Road, at Quesnel-Hixon Road",
     "Description": "Landslide on Cave Road. Road closed.",
     "Next update time": "Tue Apr 1, 2025 at 10:00 AM PDT",
     "Last update time": "Wed Oct 9 at 10:17 AM PDT",
-    "latitude": 53.0738772,
-    "longitude": -122.5100618
+    "latitude": 53.0775888,
+    "longitude": -122.50509
   },
   {
     "title": "Other Roads Both Directions",
     "description": "Pavilion Clinton Rd, in both directions. Travel advisory in effect between Clinton and Lillooet 60 km south of Lillooet. Road closed for the season. Pavilion-Clinton Rd is closed for the Winter. Next update time Fri May 16, 2025 at 10:00 AM PST. Last updated Tue Nov 12 at 9:23 AM PST. (DBC-70161)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70161.html",
     "Location": "Pavilion Clinton Rd, in both directions between Clinton and Lillooet 60 km south of Lillooet",
-    "Description": "Road closed for the season",
+    "Description": "Road closed for the season. Pavilion-Clinton Rd is closed for the Winter.",
     "Next update time": "Fri May 16, 2025 at 10:00 AM PST",
     "Last update time": "Tue Nov 12 at 9:23 AM PST",
     "latitude": 51.0879404,
     "longitude": -121.598893
+  },
+  {
+    "title": "Other Roads Both Directions",
+    "description": "Hanbury Road, in both directions. Tree on road between Lockyer Road and Crystal Road. Downed hydro lines. Single lane alternating traffic. Estimated time of re-opening Tue Dec 24 at 5:30 PM PST. Next update time Tue Dec 24 at 4:30 PM PST. Last updated Tue Dec 24 at 3:36 PM PST. (DBC-71428)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71428.html",
+    "Location": "Hanbury Road, in both directions between Lockyer Road and Crystal Road",
+    "Description": "Tree on road with downed hydro lines. Single lane alternating traffic.",
+    "Next update time": "Tue Dec 24 at 4:30 PM PST",
+    "Last update time": "Tue Dec 24 at 3:36 PM PST",
+    "latitude": 49.4494844,
+    "longitude": -123.6418268
+  },
+  {
+    "title": "Upper Arrow Lake Ferry Both Directions",
+    "description": "Upper Arrow Lake Ferry, in both directions. There are crewing issues between the start of Upper Arrow Lake Ferry and Upper Arrow Lake Ferry (Upper Arrow Lake). Columbia Ferry - Arrow Lake - 22:00 [10PM] last sailing from Shelter Bay from Galena Bay at 22:30 [1030PM] due to staffing. Next update time Wed Dec 25 at 5:00 AM PST. Last updated Tue Dec 24 at 1:32 PM PST. (DBC-71432)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71432.html",
+    "Location": "Upper Arrow Lake Ferry, in both directions",
+    "Description": "There are crewing issues between the start of Upper Arrow Lake Ferry and Upper Arrow Lake Ferry (Upper Arrow Lake)",
+    "Next update time": "Wed Dec 25 at 5:00 AM PST",
+    "Last update time": "Tue Dec 24 at 1:32 PM PST",
+    "latitude": 50.6288821,
+    "longitude": -117.9007844
   }
 ]
