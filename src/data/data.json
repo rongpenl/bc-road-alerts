@@ -19,8 +19,8 @@
     "title": "Highway 1 Both Directions",
     "description": "Highway 1 (TransCanada Highway), in both directions. Construction work between Coburn St and Shuswap Ave for 0.7 km (Chase). From 7:00 AM to 5:00 PM PST on weekdays and Saturday. Blasting. Road closed intermittently. Watch for traffic control. Seasonal shutdown between December 21 and January 14. 80km/hr speed limit. Construction resuming Jan 15, 2025. Next update time Wed Jan 15, 2025 at 7:00 AM PST. Last updated Fri Dec 20 at 7:34 AM PST. (DBC-64961)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-64961.html",
-    "Location": "Highway 1 (TransCanada Highway), between Coburn St and Shuswap Ave for 0.7 km (Chase)",
-    "Description": "Construction work, blasting. Road closed intermittently. Watch for traffic control. Seasonal shutdown between December 21 and January 14. 80km/hr speed limit.",
+    "Location": "Highway 1 (TransCanada Highway), between Coburn St and Shuswap Ave, Chase, BC",
+    "Description": "Construction work for 0.7 km. Blasting. Road closed intermittently. Watch for traffic control. Seasonal shutdown between December 21 and January 14. 80km/hr speed limit. Construction resuming Jan 15, 2025.",
     "Next update time": "Wed Jan 15, 2025 at 7:00 AM PST",
     "Last update time": "Fri Dec 20 at 7:34 AM PST",
     "latitude": 50.820462,
@@ -43,20 +43,15 @@
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-54341.html"
   },
   {
-    "title": "Highway 3",
-    "description": "Highway 3 (Crowsnest Highway). Avalanche control work between West Avalanche Gate and East Avalanche Gate for 18.0 km (Kootenay Pass). Until Tue Dec 24 at 5:00 PM PST. Road closed. Alternate route available from Nelson to Creston; Highway 3A, Kootenay Lake Ferry, estimated travel time 2.5 hours. Next update time Tue Dec 24 at 5:00 PM PST. Last updated Tue Dec 24 at 8:23 AM PST. (DBC-71426)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71426.html"
-  },
-  {
-    "title": "Highway 9 Both Directions",
-    "description": "Highway 9, in both directions. Vehicle incident between McCallum Rd and Golf Rd for 1.6 km (Kent). Road closed. Detour in effect. Next update time Tue Dec 24 at 4:30 PM PST. Last updated Tue Dec 24 at 3:39 PM PST. (DBC-71435)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71435.html",
-    "Location": "Highway 9, between McCallum Rd and Golf Rd, Kent, BC",
-    "Description": "Vehicle incident for 1.6 km. Road closed. Detour in effect.",
-    "Next update time": "Tue Dec 24 at 4:30 PM PST",
-    "Last update time": "Tue Dec 24 at 3:39 PM PST",
-    "latitude": 49.2683432,
-    "longitude": -121.7943461
+    "title": "Highway 1A Eastbound",
+    "description": "Highway 1A, eastbound. Vehicle incident at Pattullo Bridge (New Westminster). Bridge damaged. Right lane closed for repairs. Southbound sidewalk closed. Next update time Wed Dec 25 at 5:00 PM PST. Last updated Wed Dec 25 at 3:03 PM PST. (DBC-71448)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71448.html",
+    "Location": "Highway 1A, eastbound at Pattullo Bridge (New Westminster)",
+    "Description": "Vehicle incident causing bridge damage. Right lane closed for repairs. Southbound sidewalk closed.",
+    "Next update time": "Wed Dec 25 at 5:00 PM PST",
+    "Last update time": "Wed Dec 25 at 3:03 PM PST",
+    "latitude": 49.2066349,
+    "longitude": -122.8914409
   },
   {
     "title": "Kootenay Lake Ferry Both Directions",
@@ -127,44 +122,16 @@
     "title": "Other Roads Both Directions",
     "description": "Cave Road, in both directions. Landslide at Quesnel-Hixon Road. Road closed. Landslide on Cave Road. Next update time Tue Apr 1, 2025 at 10:00 AM PDT. Last updated Wed Oct 9 at 10:17 AM PDT. (DBC-67913)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-67913.html",
-    "Location": "Cave Road, at Quesnel-Hixon Road",
+    "Location": "Cave Road, in both directions at Quesnel-Hixon Road",
     "Description": "Landslide on Cave Road. Road closed.",
     "Next update time": "Tue Apr 1, 2025 at 10:00 AM PDT",
     "Last update time": "Wed Oct 9 at 10:17 AM PDT",
-    "latitude": 53.0775888,
-    "longitude": -122.50509
+    "latitude": 53.0738772,
+    "longitude": -122.5100618
   },
   {
     "title": "Other Roads Both Directions",
     "description": "Pavilion Clinton Rd, in both directions. Travel advisory in effect between Clinton and Lillooet 60 km south of Lillooet. Road closed for the season. Pavilion-Clinton Rd is closed for the Winter. Next update time Fri May 16, 2025 at 10:00 AM PST. Last updated Tue Nov 12 at 9:23 AM PST. (DBC-70161)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70161.html",
-    "Location": "Pavilion Clinton Rd, in both directions between Clinton and Lillooet 60 km south of Lillooet",
-    "Description": "Road closed for the season. Pavilion-Clinton Rd is closed for the Winter.",
-    "Next update time": "Fri May 16, 2025 at 10:00 AM PST",
-    "Last update time": "Tue Nov 12 at 9:23 AM PST",
-    "latitude": 51.0879404,
-    "longitude": -121.598893
-  },
-  {
-    "title": "Other Roads Both Directions",
-    "description": "Hanbury Road, in both directions. Tree on road between Lockyer Road and Crystal Road. Downed hydro lines. Single lane alternating traffic. Estimated time of re-opening Tue Dec 24 at 5:30 PM PST. Next update time Tue Dec 24 at 4:30 PM PST. Last updated Tue Dec 24 at 3:36 PM PST. (DBC-71428)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71428.html",
-    "Location": "Hanbury Road, in both directions between Lockyer Road and Crystal Road",
-    "Description": "Tree on road with downed hydro lines. Single lane alternating traffic.",
-    "Next update time": "Tue Dec 24 at 4:30 PM PST",
-    "Last update time": "Tue Dec 24 at 3:36 PM PST",
-    "latitude": 49.4494844,
-    "longitude": -123.6418268
-  },
-  {
-    "title": "Upper Arrow Lake Ferry Both Directions",
-    "description": "Upper Arrow Lake Ferry, in both directions. There are crewing issues between the start of Upper Arrow Lake Ferry and Upper Arrow Lake Ferry (Upper Arrow Lake). Columbia Ferry - Arrow Lake - 22:00 [10PM] last sailing from Shelter Bay from Galena Bay at 22:30 [1030PM] due to staffing. Next update time Wed Dec 25 at 5:00 AM PST. Last updated Tue Dec 24 at 1:32 PM PST. (DBC-71432)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71432.html",
-    "Location": "Upper Arrow Lake Ferry, in both directions",
-    "Description": "There are crewing issues between the start of Upper Arrow Lake Ferry and Upper Arrow Lake Ferry (Upper Arrow Lake)",
-    "Next update time": "Wed Dec 25 at 5:00 AM PST",
-    "Last update time": "Tue Dec 24 at 1:32 PM PST",
-    "latitude": 50.6288821,
-    "longitude": -117.9007844
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70161.html"
   }
 ]
