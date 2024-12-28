@@ -25,8 +25,8 @@
     "title": "Highway 1 Both Directions",
     "description": "Highway 1 (TransCanada Highway), in both directions. Construction work between Coburn St and Shuswap Ave for 0.7 km (Chase). From 7:00 AM to 5:00 PM PST on weekdays and Saturday. Blasting. Road closed intermittently. Watch for traffic control. Seasonal shutdown between December 21 and January 14. 80km/hr speed limit. Construction resuming Jan 15, 2025. Next update time Wed Jan 15, 2025 at 7:00 AM PST. Last updated Fri Dec 20 at 7:34 AM PST. (DBC-64961)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-64961.html",
-    "Location": "Highway 1 (TransCanada Highway), between Coburn St and Shuswap Ave for 0.7 km (Chase)",
-    "Description": "Construction work, blasting. Road closed intermittently. Watch for traffic control. Seasonal shutdown between December 21 and January 14. 80km/hr speed limit.",
+    "Location": "Highway 1 (TransCanada Highway), between Coburn St and Shuswap Ave, Chase, BC",
+    "Description": "Construction work for 0.7 km. Blasting. Road closed intermittently. Watch for traffic control. Seasonal shutdown between December 21 and January 14. 80km/hr speed limit. Construction resuming Jan 15, 2025.",
     "Next update time": "Wed Jan 15, 2025 at 7:00 AM PST",
     "Last update time": "Fri Dec 20 at 7:34 AM PST",
     "latitude": 50.820462,
@@ -48,32 +48,37 @@
     "description": "Highway 17 (Patricia Bay Highway), in both directions. Construction work at Exit 18: Keating Cross Rd (Central Saanich). Until Tue Jul 1, 2025. Nighttime lane closures both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed. Next update time Sat May 10, 2025 at 12:00 PM PDT. Last updated Thu Sep 26 at 12:08 PM PDT. (DBC-54341)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-54341.html",
     "Location": "Highway 17 (Patricia Bay Highway), in both directions at Exit 18: Keating Cross Rd (Central Saanich)",
-    "Description": "Construction work at Exit 18: Keating Cross Rd (Central Saanich). Nighttime lane closures both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed.",
+    "Description": "Construction work with nighttime lane closures both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale, and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed.",
     "Next update time": "Sat May 10, 2025 at 12:00 PM PDT",
     "Last update time": "Thu Sep 26 at 12:08 PM PDT",
     "latitude": 48.5651196,
     "longitude": -123.417242
   },
   {
-    "title": "Highway 7 Both Directions",
-    "description": "Highway 7 (Lougheed Highway), in both directions. Vehicle incident between Nelson St and Wren St for 1.8 km (Mission). Road closed. Assessment in progress. Expect delays. Next update time Thu Dec 26 at 6:00 PM PST. Last updated Thu Dec 26 at 3:52 PM PST. (DBC-71462)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71462.html",
-    "Location": "Highway 7 (Lougheed Highway), in both directions between Nelson St and Wren St for 1.8 km (Mission)",
-    "Description": "Road closed due to a vehicle incident. Assessment in progress. Expect delays.",
-    "Next update time": "Thu Dec 26 at 6:00 PM PST",
-    "Last update time": "Thu Dec 26 at 3:52 PM PST",
-    "latitude": 49.1406535,
-    "longitude": -122.3383994
+    "title": "Highway 37 Both Directions",
+    "description": "Highway 37, in both directions. Avalanche control work planned between Bell 2 Bridge and Bob Quinn Camp for 47.8 km (Bell II to Bob Quinn). Starting Sat Dec 28 at 11:30 AM PST until Sat Dec 28 at 2:00 PM PST. There will be delays up to 40 minutes. Next update time Sat Dec 28 at 2:00 PM PST. Last updated Fri Dec 27 at 1:22 PM PST. (DBC-71483)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71483.html"
+  },
+  {
+    "title": "Highway 99 Northbound",
+    "description": "Highway 99, northbound. Vehicle incident at Lions Gate Bridge (West Vancouver). Both directions reduced to a single lane. Next update time Fri Dec 27 at 4:45 PM PST. Last updated Fri Dec 27 at 4:08 PM PST. (DBC-71487)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71487.html",
+    "Location": "Highway 99, northbound at Lions Gate Bridge (West Vancouver)",
+    "Description": "Both directions reduced to a single lane due to a vehicle incident",
+    "Next update time": "Fri Dec 27 at 4:45 PM PST",
+    "Last update time": "Fri Dec 27 at 4:08 PM PST",
+    "latitude": 49.315048,
+    "longitude": -123.1390072
   },
   {
     "title": "Kootenay Lake Ferry Both Directions",
-    "description": "Kootenay Lake Ferry, in both directions. Ferry is out of service between Balfour and Kootenay Bay. Mon-Fri essential service Balfour sailings: 6:30AM, 8:10AM, 4:30PM, Kootenay Bay: 7:10AM, 9AM, 5:20PM. Sat-Sun Balfour sailings: 6:30AM, 9:40PM, Kootenay Bay: 7:10AM, 10:20PM. Essential service travelers board 1st, then general public. Emergency services accommodated. Next update time Fri Dec 27 at 9:00 AM PST. Last updated Mon Dec 23 at 8:16 AM PST. (DBC-69872)",
+    "description": "Kootenay Lake Ferry, in both directions. Ferry is out of service between Balfour and Kootenay Bay. Mon-Fri essential service Balfour sailings: 6:30AM, 8:10AM, 4:30PM, Kootenay Bay: 7:10AM, 9AM, 5:20PM. Sat-Sun Balfour sailings: 6:30AM, 9:40PM, Kootenay Bay: 7:10AM, 10:20PM. Essential service travelers board 1st, then general public. Emergency services accommodated. Next update time Mon Dec 30 at 9:00 AM PST. Last updated Fri Dec 27 at 8:12 AM PST. (DBC-69872)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69872.html"
   },
   {
     "title": "Kootenay Lake Ferry",
-    "description": "Kootenay Lake Ferry. Additional service available between Balfour and Kootenay Bay. Until Thu Dec 26 at 11:00 PM PST. The Osprey ferry will operate on the full winter schedule for December 24th, 25th and 26th. Next update time Thu Dec 26 at 11:00 PM PST. Last updated Mon Dec 23 at 8:15 AM PST. (DBC-71350)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71350.html"
+    "description": "Kootenay Lake Ferry. Additional service planned between Balfour and Kootenay Bay. Starting Tue Dec 31 at 6:00 AM PST until Wed Jan 1, 2025 at 11:00 PM PST. The Osprey ferry will run on the full winter schedule for December 30th and January 1st. Next update time Wed Jan 1, 2025 at 11:00 PM PST. Last updated Fri Dec 27 at 8:19 AM PST. (DBC-71475)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71475.html"
   },
   {
     "title": "Other Roads",
@@ -111,13 +116,7 @@
   {
     "title": "Other Roads",
     "description": "Johnston Bridge. Travel advisory in effect at Front St. In Quesnel. Johnston Bridge. Bridge is open to vehicles with gross vehicle weight rating of 10,000 kilograms or lower. Industrial traffic and heavy commercial traffic must detour via Plywood Rd and Maple Drive. Industrial traffic is not allowed to detour through Johnston Subdivision. Next update time Wed Apr 8, 2026 at 9:00 AM PDT. Last updated Thu Oct 17 at 6:39 AM PDT. (DBC-47311)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-47311.html",
-    "Location": "Johnston Bridge at Front St. in Quesnel",
-    "Description": "Bridge is open to vehicles with gross vehicle weight rating of 10,000 kilograms or lower. Industrial traffic and heavy commercial traffic must detour via Plywood Rd and Maple Drive. Industrial traffic is not allowed to detour through Johnston Subdivision.",
-    "Next update time": "Wed Apr 8, 2026 at 9:00 AM PDT",
-    "Last update time": "Thu Oct 17 at 6:39 AM PDT",
-    "latitude": 52.9733808,
-    "longitude": -122.4965097
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-47311.html"
   },
   {
     "title": "Other Roads Both Directions",
@@ -154,13 +153,13 @@
   },
   {
     "title": "Other Roads",
-    "description": "COWICHAN BAY RD. Flooding between HIGHWAY 1 and TZUHALEM RD. Road closed. Next update time Fri Dec 27. Last updated Thu Dec 26 at 2:31 PM PST. (DBC-71466)",
+    "description": "Cowichan Bay Road. Flooding between Highway 1 and Tzuhalem Road. Road closed. Next update time Sat Dec 28 at 12:00 PM PST. Last updated Fri Dec 27 at 11:49 AM PST. (DBC-71466)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71466.html",
-    "Location": "COWICHAN BAY RD. between HIGHWAY 1 and TZUHALEM RD",
-    "Description": "Flooding",
-    "Next update time": "Fri Dec 27",
-    "Last update time": "Thu Dec 26 at 2:31 PM PST",
-    "latitude": 48.7605236,
-    "longitude": -123.6523322
+    "Location": "Cowichan Bay Road",
+    "Description": "Flooding between Highway 1 and Tzuhalem Road. Road closed.",
+    "Next update time": "Sat Dec 28 at 12:00 PM PST",
+    "Last update time": "Fri Dec 27 at 11:49 AM PST",
+    "latitude": 48.7432273,
+    "longitude": -123.6340636
   }
 ]
