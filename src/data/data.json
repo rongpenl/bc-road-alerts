@@ -16,6 +16,17 @@
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70685.html"
   },
   {
+    "title": "Highway 1 Eastbound",
+    "description": "Highway 1 (TransCanada Highway), eastbound. Vehicle incident between Exit 10: Orchard Way and Exit 10: 21st St (West Vancouver). Left lane is blocked. Expect delays. Next update time Sun Dec 29 at 4:45 PM PST. Last updated Sun Dec 29 at 4:04 PM PST. (DBC-71519)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71519.html",
+    "Location": "Highway 1 (TransCanada Highway), eastbound between Exit 10: Orchard Way and Exit 10: 21st St (West Vancouver)",
+    "Description": "Vehicle incident. Left lane is blocked. Expect delays.",
+    "Next update time": "Sun Dec 29 at 4:45 PM PST",
+    "Last update time": "Sun Dec 29 at 4:04 PM PST",
+    "latitude": 49.3361868,
+    "longitude": -123.1680491
+  },
+  {
     "title": "Highway 1 Both Directions",
     "description": "Highway 1 (TransCanada Highway), in both directions. Construction work between Coburn St and Shuswap Ave for 0.7 km (Chase). From 7:00 AM to 5:00 PM PST on weekdays and Saturday. Blasting. Road closed intermittently. Watch for traffic control. Seasonal shutdown between December 21 and January 14. 80km/hr speed limit. Construction resuming Jan 15, 2025. Next update time Wed Jan 15, 2025 at 7:00 AM PST. Last updated Fri Dec 20 at 7:34 AM PST. (DBC-64961)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-64961.html",
@@ -31,7 +42,7 @@
     "description": "Highway 1 (TransCanada Highway), in both directions. Construction work planned between Old Sicamous Rd and Solsqua-Sicamous Rd for 2.0 km (Sicamous). Starting Tue Jan 7, 2025. From 9:00 AM to 3:00 PM PST on weekdays and Saturday. Full closure January 7 9am-3pm, single lane alternating traffic 8pm-6am. Next update time Tue Jan 7, 2025 at 5:00 PM PST. Last updated Sat Dec 21 at 10:42 AM PST. (DBC-70490)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70490.html",
     "Location": "Highway 1 (TransCanada Highway), in both directions between Old Sicamous Rd and Solsqua-Sicamous Rd for 2.0 km (Sicamous)",
-    "Description": "Construction work planned",
+    "Description": "Construction work",
     "Next update time": "Tue Jan 7, 2025 at 5:00 PM PST",
     "Last update time": "Sat Dec 21 at 10:42 AM PST",
     "latitude": 48.5693141,
@@ -42,11 +53,22 @@
     "description": "Highway 17 (Patricia Bay Highway), in both directions. Construction work at Exit 18: Keating Cross Rd (Central Saanich). Until Tue Jul 1, 2025. Nighttime lane closures both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed. Next update time Sat May 10, 2025 at 12:00 PM PDT. Last updated Thu Sep 26 at 12:08 PM PDT. (DBC-54341)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-54341.html",
     "Location": "Highway 17 (Patricia Bay Highway), in both directions at Exit 18: Keating Cross Rd (Central Saanich)",
-    "Description": "Construction work with nighttime lane closures both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale, and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed.",
+    "Description": "Construction work with nighttime lane closures both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed.",
     "Next update time": "Sat May 10, 2025 at 12:00 PM PDT",
     "Last update time": "Thu Sep 26 at 12:08 PM PDT",
     "latitude": 48.5651196,
     "longitude": -123.417242
+  },
+  {
+    "title": "Highway 3 Both Directions",
+    "description": "Highway 3 (Crowsnest Highway), in both directions. Snow deposit removal planned between West Avalanche Gate and East Avalanche Gate for 18.0 km (Kootenay Pass). Starting Sun Dec 29 at 5:00 PM PST until Sun Dec 29 at 11:00 PM PST. Intermittent closures of up to 30 minutes. Watch for traffic control. Next update time Sun Dec 29 at 11:00 PM PST. Last updated Sun Dec 29 at 3:07 PM PST. (DBC-71518)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71518.html",
+    "Location": "Highway 3 (Crowsnest Highway), between West Avalanche Gate and East Avalanche Gate for 18.0 km (Kootenay Pass)",
+    "Description": "Snow deposit removal",
+    "Next update time": "Sun Dec 29 at 11:00 PM PST",
+    "Last update time": "Sun Dec 29 at 3:07 PM PST",
+    "latitude": 49.6324319,
+    "longitude": -114.6919226
   },
   {
     "title": "Kootenay Lake Ferry Both Directions",
@@ -100,13 +122,7 @@
   {
     "title": "Other Roads",
     "description": "Johnston Bridge. Travel advisory in effect at Front St. In Quesnel. Johnston Bridge. Bridge is open to vehicles with gross vehicle weight rating of 10,000 kilograms or lower. Industrial traffic and heavy commercial traffic must detour via Plywood Rd and Maple Drive. Industrial traffic is not allowed to detour through Johnston Subdivision. Next update time Wed Apr 8, 2026 at 9:00 AM PDT. Last updated Thu Oct 17 at 6:39 AM PDT. (DBC-47311)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-47311.html",
-    "Location": "Johnston Bridge at Front St. in Quesnel",
-    "Description": "Bridge is open to vehicles with gross vehicle weight rating of 10,000 kilograms or lower. Industrial traffic and heavy commercial traffic must detour via Plywood Rd and Maple Drive. Industrial traffic is not allowed to detour through Johnston Subdivision.",
-    "Next update time": "Wed Apr 8, 2026 at 9:00 AM PDT",
-    "Last update time": "Thu Oct 17 at 6:39 AM PDT",
-    "latitude": 52.9733808,
-    "longitude": -122.4965097
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-47311.html"
   },
   {
     "title": "Other Roads Both Directions",
@@ -133,16 +149,22 @@
   {
     "title": "Other Roads Both Directions",
     "description": "Pavilion Clinton Rd, in both directions. Travel advisory in effect between Clinton and Lillooet 60 km south of Lillooet. Road closed for the season. Pavilion-Clinton Rd is closed for the Winter. Next update time Fri May 16, 2025 at 10:00 AM PST. Last updated Tue Nov 12 at 9:23 AM PST. (DBC-70161)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70161.html"
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70161.html",
+    "Location": "Pavilion Clinton Rd, in both directions between Clinton and Lillooet 60 km south of Lillooet",
+    "Description": "Road closed for the season",
+    "Next update time": "Fri May 16, 2025 at 10:00 AM PST",
+    "Last update time": "Tue Nov 12 at 9:23 AM PST",
+    "latitude": 51.0879404,
+    "longitude": -121.598893
   },
   {
     "title": "Other Roads",
-    "description": "Cowichan Bay Road. Flooding between Highway 1 and Tzuhalem Road. Road closed. Next update time Sun Dec 29 at 12:00 PM PST. Last updated Sat Dec 28 at 11:56 AM PST. (DBC-71466)",
+    "description": "Cowichan Bay Road. Flooding between Highway 1 and Tzuhalem Road. Road closed. Next update time Sun Dec 29 at 6:00 PM PST. Last updated Sun Dec 29 at 11:50 AM PST. (DBC-71466)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71466.html",
     "Location": "Cowichan Bay Road",
     "Description": "Flooding between Highway 1 and Tzuhalem Road. Road closed.",
-    "Next update time": "Sun Dec 29 at 12:00 PM PST",
-    "Last update time": "Sat Dec 28 at 11:56 AM PST",
+    "Next update time": "Sun Dec 29 at 6:00 PM PST",
+    "Last update time": "Sun Dec 29 at 11:50 AM PST",
     "latitude": 48.7432273,
     "longitude": -123.6340636
   }
