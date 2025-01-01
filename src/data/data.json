@@ -19,8 +19,8 @@
     "title": "Highway 1 Both Directions",
     "description": "Highway 1 (TransCanada Highway), in both directions. Construction work between Coburn St and Shuswap Ave for 0.7 km (Chase). From 7:00 AM to 5:00 PM PST on weekdays and Saturday. Blasting. Road closed intermittently. Watch for traffic control. Seasonal shutdown between December 21 and January 14. 80km/hr speed limit. Construction resuming Jan 15, 2025. Next update time Wed Jan 15, 2025 at 7:00 AM PST. Last updated Fri Dec 20 at 7:34 AM PST. (DBC-64961)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-64961.html",
-    "Location": "Highway 1 (TransCanada Highway), between Coburn St and Shuswap Ave, Chase, BC",
-    "Description": "Construction work for 0.7 km. Blasting. Road closed intermittently. Watch for traffic control. Seasonal shutdown between December 21 and January 14. 80km/hr speed limit. Construction resuming Jan 15, 2025.",
+    "Location": "Highway 1 (TransCanada Highway), between Coburn St and Shuswap Ave for 0.7 km (Chase)",
+    "Description": "Construction work. Blasting. Road closed intermittently. Watch for traffic control. Seasonal shutdown between December 21 and January 14. 80km/hr speed limit. Construction resuming Jan 15, 2025.",
     "Next update time": "Wed Jan 15, 2025 at 7:00 AM PST",
     "Last update time": "Fri Dec 20 at 7:34 AM PST",
     "latitude": 50.820462,
@@ -43,24 +43,13 @@
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-54341.html"
   },
   {
-    "title": "Highway 37 Both Directions",
-    "description": "Highway 37, in both directions. Avalanche control work planned between Bell 2 Bridge and Bob Quinn Camp for 47.8 km (Bell II to Bob Quinn). Starting Tue Dec 31 at 11:30 AM PST until Tue Dec 31 at 2:00 PM PST. Expect delays of up to 40 minutes. Next update time Tue Dec 31 at 2:00 PM PST. Last updated Mon Dec 30 at 2:21 PM PST. (DBC-71537)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71537.html",
-    "Location": "Highway 37, between Bell 2 Bridge and Bob Quinn Camp for 47.8 km (Bell II to Bob Quinn)",
-    "Description": "Avalanche control work",
-    "Next update time": "Tue Dec 31 at 2:00 PM PST",
-    "Last update time": "Mon Dec 30 at 2:21 PM PST",
-    "latitude": 56.9787192,
-    "longitude": -130.2505014
-  },
-  {
     "title": "Kootenay Lake Ferry Both Directions",
     "description": "Kootenay Lake Ferry, in both directions. Ferry is out of service between Balfour and Kootenay Bay. Mon-Fri essential service Balfour sailings: 6:30AM, 8:10AM, 4:30PM, Kootenay Bay: 7:10AM, 9AM, 5:20PM. Sat-Sun Balfour sailings: 6:30AM, 9:40PM, Kootenay Bay: 7:10AM, 10:20PM. Essential service travelers board 1st, then general public. Emergency services accommodated. Next update time Thu Jan 2, 2025 at 9:00 AM PST. Last updated Mon Dec 30 at 8:26 AM PST. (DBC-69872)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69872.html"
   },
   {
     "title": "Kootenay Lake Ferry",
-    "description": "Kootenay Lake Ferry. Additional service planned between Balfour and Kootenay Bay. Starting Tue Dec 31 at 6:00 AM PST until Wed Jan 1, 2025 at 11:00 PM PST. The Osprey ferry will run on the full winter schedule for December 31st and January 1st. Next update time Wed Jan 1, 2025 at 11:00 PM PST. Last updated Mon Dec 30 at 3:07 PM PST. (DBC-71475)",
+    "description": "Kootenay Lake Ferry. Additional service available between Balfour and Kootenay Bay. Until Wed Jan 1, 2025 at 11:00 PM PST. The Osprey ferry will run on the full winter schedule for December 31st and January 1st. Next update time Wed Jan 1, 2025 at 11:00 PM PST. Last updated Mon Dec 30 at 3:07 PM PST. (DBC-71475)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71475.html"
   },
   {
@@ -78,8 +67,8 @@
     "title": "Other Roads Both Directions",
     "description": "Durrell Road, in both directions. Landslide at 700m from Highway 97. Road closed. Detour in effect. Detour available via Highway 97 and Dale Lake Road. Next update time Wed Apr 23, 2025 at 2:00 PM PDT. Last updated Wed Oct 23 at 1:06 PM PDT. (DBC-27390)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-27390.html",
-    "Location": "Durrell Road, in both directions at 700m from Highway 97",
-    "Description": "Landslide. Road closed. Detour available via Highway 97 and Dale Lake Road.",
+    "Location": "Durrell Road, 700m from Highway 97",
+    "Description": "Landslide, road closed. Detour available via Highway 97 and Dale Lake Road.",
     "Next update time": "Wed Apr 23, 2025 at 2:00 PM PDT",
     "Last update time": "Wed Oct 23 at 1:06 PM PDT",
     "latitude": 54.6985492,
@@ -99,13 +88,7 @@
   {
     "title": "Other Roads",
     "description": "Johnston Bridge. Travel advisory in effect at Front St. In Quesnel. Johnston Bridge. Bridge is open to vehicles with gross vehicle weight rating of 10,000 kilograms or lower. Industrial traffic and heavy commercial traffic must detour via Plywood Rd and Maple Drive. Industrial traffic is not allowed to detour through Johnston Subdivision. Next update time Wed Apr 8, 2026 at 9:00 AM PDT. Last updated Thu Oct 17 at 6:39 AM PDT. (DBC-47311)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-47311.html",
-    "Location": "Johnston Bridge at Front St. in Quesnel",
-    "Description": "Bridge is open to vehicles with gross vehicle weight rating of 10,000 kilograms or lower. Industrial traffic and heavy commercial traffic must detour via Plywood Rd and Maple Drive. Industrial traffic is not allowed to detour through Johnston Subdivision.",
-    "Next update time": "Wed Apr 8, 2026 at 9:00 AM PDT",
-    "Last update time": "Thu Oct 17 at 6:39 AM PDT",
-    "latitude": 52.9733808,
-    "longitude": -122.4965097
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-47311.html"
   },
   {
     "title": "Other Roads Both Directions",
@@ -133,7 +116,7 @@
     "title": "Other Roads Both Directions",
     "description": "Pavilion Clinton Rd, in both directions. Travel advisory in effect between Clinton and Lillooet 60 km south of Lillooet. Road closed for the season. Pavilion-Clinton Rd is closed for the Winter. Next update time Fri May 16, 2025 at 10:00 AM PST. Last updated Tue Nov 12 at 9:23 AM PST. (DBC-70161)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70161.html",
-    "Location": "Pavilion Clinton Rd, between Clinton and Lillooet 60 km south of Lillooet",
+    "Location": "Pavilion Clinton Rd, in both directions between Clinton and Lillooet 60 km south of Lillooet",
     "Description": "Road closed for the season",
     "Next update time": "Fri May 16, 2025 at 10:00 AM PST",
     "Last update time": "Tue Nov 12 at 9:23 AM PST",
