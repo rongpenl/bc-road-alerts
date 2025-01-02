@@ -19,8 +19,8 @@
     "title": "Highway 1 Both Directions",
     "description": "Highway 1 (TransCanada Highway), in both directions. Construction work between Coburn St and Shuswap Ave for 0.7 km (Chase). From 7:00 AM to 5:00 PM PST on weekdays and Saturday. Blasting. Road closed intermittently. Watch for traffic control. Seasonal shutdown between December 21 and January 14. 80km/hr speed limit. Construction resuming Jan 15, 2025. Next update time Wed Jan 15, 2025 at 7:00 AM PST. Last updated Fri Dec 20 at 7:34 AM PST. (DBC-64961)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-64961.html",
-    "Location": "Highway 1 (TransCanada Highway), between Coburn St and Shuswap Ave for 0.7 km (Chase)",
-    "Description": "Construction work. Blasting. Road closed intermittently. Watch for traffic control. Seasonal shutdown between December 21 and January 14. 80km/hr speed limit. Construction resuming Jan 15, 2025.",
+    "Location": "Highway 1 (TransCanada Highway), between Coburn St and Shuswap Ave, Chase, BC",
+    "Description": "Construction work for 0.7 km. Blasting. Road closed intermittently. Watch for traffic control. Seasonal shutdown between December 21 and January 14. 80km/hr speed limit. Construction resuming Jan 15, 2025.",
     "Next update time": "Wed Jan 15, 2025 at 7:00 AM PST",
     "Last update time": "Fri Dec 20 at 7:34 AM PST",
     "latitude": 50.820462,
@@ -31,7 +31,7 @@
     "description": "Highway 1 (TransCanada Highway), in both directions. Construction work planned between Old Sicamous Rd and Solsqua-Sicamous Rd for 2.0 km (Sicamous). Starting Tue Jan 7, 2025. From 9:00 AM to 3:00 PM PST on weekdays and Saturday. Full closure January 7 9am-3pm, single lane alternating traffic 8pm-6am. Next update time Tue Jan 7, 2025 at 5:00 PM PST. Last updated Sat Dec 21 at 10:42 AM PST. (DBC-70490)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70490.html",
     "Location": "Highway 1 (TransCanada Highway), in both directions between Old Sicamous Rd and Solsqua-Sicamous Rd for 2.0 km (Sicamous)",
-    "Description": "Construction work planned",
+    "Description": "Construction work",
     "Next update time": "Tue Jan 7, 2025 at 5:00 PM PST",
     "Last update time": "Sat Dec 21 at 10:42 AM PST",
     "latitude": 48.5693141,
@@ -88,7 +88,13 @@
   {
     "title": "Other Roads",
     "description": "Johnston Bridge. Travel advisory in effect at Front St. In Quesnel. Johnston Bridge. Bridge is open to vehicles with gross vehicle weight rating of 10,000 kilograms or lower. Industrial traffic and heavy commercial traffic must detour via Plywood Rd and Maple Drive. Industrial traffic is not allowed to detour through Johnston Subdivision. Next update time Wed Apr 8, 2026 at 9:00 AM PDT. Last updated Thu Oct 17 at 6:39 AM PDT. (DBC-47311)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-47311.html"
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-47311.html",
+    "Location": "Johnston Bridge at Front St. in Quesnel",
+    "Description": "Bridge is open to vehicles with gross vehicle weight rating of 10,000 kilograms or lower. Industrial traffic and heavy commercial traffic must detour via Plywood Rd and Maple Drive. Industrial traffic is not allowed to detour through Johnston Subdivision.",
+    "Next update time": "Wed Apr 8, 2026 at 9:00 AM PDT",
+    "Last update time": "Thu Oct 17 at 6:39 AM PDT",
+    "latitude": 52.9733808,
+    "longitude": -122.4965097
   },
   {
     "title": "Other Roads Both Directions",
