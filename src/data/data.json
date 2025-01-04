@@ -23,19 +23,14 @@
   },
   {
     "title": "Highway 1 Both Directions",
-    "description": "Highway 1 (TransCanada Highway), in both directions. There is a multi-vehicle incident between Tunkwa Lake Rd and Holloway Dr for 10.0 km (20 to 30 km west of Kamloops). Road closed. Local detour for passenger vehicles only. Next update time Thu Jan 2 at 6:00 PM PST. Last updated Thu Jan 2 at 1:45 PM PST. (DBC-71577)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71577.html",
-    "Location": "Highway 1 (TransCanada Highway), in both directions between Tunkwa Lake Rd and Holloway Dr (20 to 30 km west of Kamloops)",
-    "Description": "There is a multi-vehicle incident for 10.0 km. Road closed. Local detour for passenger vehicles only.",
-    "Next update time": "Thu Jan 2 at 6:00 PM PST",
-    "Last update time": "Thu Jan 2 at 1:45 PM PST",
-    "latitude": 50.6451101,
-    "longitude": -119.907647
-  },
-  {
-    "title": "Highway 1 Both Directions",
     "description": "Highway 1 (TransCanada Highway), in both directions. Construction work between Coburn St and Shuswap Ave for 0.7 km (Chase). From 7:00 AM to 5:00 PM PST on weekdays and Saturday. Blasting. Road closed intermittently. Watch for traffic control. Seasonal shutdown between December 21 and January 14. 80km/hr speed limit. Construction resuming Jan 15, 2025. Next update time Wed Jan 15, 2025 at 7:00 AM PST. Last updated Fri Dec 20 at 7:34 AM PST. (DBC-64961)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-64961.html"
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-64961.html",
+    "Location": "Highway 1 (TransCanada Highway), between Coburn St and Shuswap Ave for 0.7 km (Chase)",
+    "Description": "Construction work, blasting. Road closed intermittently. Watch for traffic control. Seasonal shutdown between December 21 and January 14. 80km/hr speed limit.",
+    "Next update time": "Wed Jan 15, 2025 at 7:00 AM PST",
+    "Last update time": "Fri Dec 20 at 7:34 AM PST",
+    "latitude": 50.820462,
+    "longitude": -119.686908
   },
   {
     "title": "Highway 1 Both Directions",
@@ -56,18 +51,18 @@
   {
     "title": "Kootenay Lake Ferry Both Directions",
     "description": "Kootenay Lake Ferry, in both directions. Ferry is out of service between Balfour and Kootenay Bay. Mon-Fri essential service Balfour sailings: 6:30AM, 8:10AM, 4:30PM, Kootenay Bay: 7:10AM, 9AM, 5:20PM. Sat-Sun Balfour sailings: 6:30AM, 9:40PM, Kootenay Bay: 7:10AM, 10:20PM. Essential service travelers board 1st, then general public. Emergency services accommodated. Next update time Mon Jan 6 at 9:00 AM PST. Last updated Thu Jan 2 at 6:43 AM PST. (DBC-69872)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69872.html"
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69872.html",
+    "Location": "Kootenay Lake Ferry, in both directions",
+    "Description": "Ferry is out of service between Balfour and Kootenay Bay",
+    "Next update time": "Mon Jan 6 at 9:00 AM PST",
+    "Last update time": "Thu Jan 2 at 6:43 AM PST",
+    "latitude": 49.57009370000001,
+    "longitude": -116.8312394
   },
   {
     "title": "Other Roads",
     "description": "Kersley-Dale Landing Rd. Landslide at 500 metres in from Highway 97 Intersection. Road closed. A temporary Single Lane Gravel Road for Local Traffic via Arnoldus Road. Next update time Mon Apr 14, 2025 at 9:00 AM PST. Last updated Mon Dec 9 at 5:50 PM PST. (DBC-23443)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-23443.html",
-    "Location": "Kersley-Dale Landing Rd. at 500 metres in from Highway 97 Intersection",
-    "Description": "Landslide, road closed. Temporary Single Lane Gravel Road for Local Traffic via Arnoldus Road.",
-    "Next update time": "Mon Apr 14, 2025 at 9:00 AM PST",
-    "Last update time": "Mon Dec 9 at 5:50 PM PST",
-    "latitude": 54.6985492,
-    "longitude": -122.7918979
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-23443.html"
   },
   {
     "title": "Other Roads Both Directions",
@@ -129,7 +124,7 @@
     "description": "Pavilion Clinton Rd, in both directions. Travel advisory in effect between Clinton and Lillooet 60 km south of Lillooet. Road closed for the season. Pavilion-Clinton Rd is closed for the Winter. Next update time Fri May 16, 2025 at 10:00 AM PST. Last updated Tue Nov 12 at 9:23 AM PST. (DBC-70161)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70161.html",
     "Location": "Pavilion Clinton Rd, in both directions between Clinton and Lillooet 60 km south of Lillooet",
-    "Description": "Road closed for the season",
+    "Description": "Road closed for the season. Pavilion-Clinton Rd is closed for the Winter.",
     "Next update time": "Fri May 16, 2025 at 10:00 AM PST",
     "Last update time": "Tue Nov 12 at 9:23 AM PST",
     "latitude": 51.0879404,
