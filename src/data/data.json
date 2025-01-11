@@ -16,40 +16,73 @@
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70685.html"
   },
   {
-    "title": "Highway 1 Both Directions",
-    "description": "Highway 1 (TransCanada Highway), in both directions. Construction work between Coburn St and Shuswap Ave for 0.7 km (Chase). From 7:00 AM to 5:00 PM PST on weekdays and Saturday. Blasting. Road closed intermittently. Watch for traffic control. Seasonal shutdown until January 14. 80km/hr speed limit. Construction resuming January 15, 2025. Next update time Wed Jan 15 at 7:00 AM PST. Last updated Mon Jan 6 at 10:28 AM PST. (DBC-64961)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-64961.html"
+    "title": "Highway 1 Eastbound",
+    "description": "Highway 1 (TransCanada Highway), eastbound. Vehicle incident between Gilmore Ave Diversion and Exit 29: Willingdon Ave (Burnaby). Centre lane blocked. Expect delays. Next update time Fri Jan 10 at 4:45 PM PST. Last updated Fri Jan 10 at 3:57 PM PST. (DBC-71846)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71846.html",
+    "Location": "Highway 1 (TransCanada Highway), eastbound between Gilmore Ave Diversion and Exit 29: Willingdon Ave (Burnaby)",
+    "Description": "Vehicle incident. Centre lane blocked. Expect delays.",
+    "Next update time": "Fri Jan 10 at 4:45 PM PST",
+    "Last update time": "Fri Jan 10 at 3:57 PM PST",
+    "latitude": 49.284161,
+    "longitude": -123.0030771
   },
   {
     "title": "Highway 1 Both Directions",
-    "description": "Highway 1 (TransCanada Highway), in both directions. Construction work between Old Sicamous Rd and Solsqua-Sicamous Rd for 2.0 km (Sicamous). From 9:00 AM to 3:00 PM PST on weekdays and Saturday. Single lane alternating traffic nightly 8pm to 6am January 8 to January 11. Next update time Sun Jan 12 at 5:00 PM PST. Last updated Thu Jan 9 at 12:29 AM PST. (DBC-70490)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70490.html",
-    "Location": "Highway 1 (TransCanada Highway), in both directions between Old Sicamous Rd and Solsqua-Sicamous Rd for 2.0 km (Sicamous)",
-    "Description": "Construction work",
-    "Next update time": "Sun Jan 12 at 5:00 PM PST",
-    "Last update time": "Thu Jan 9 at 12:29 AM PST",
-    "latitude": 48.5693141,
-    "longitude": -88.8349293
+    "description": "Highway 1 (TransCanada Highway), in both directions. Construction work between Coburn St and Shuswap Ave for 0.7 km (Chase). From 7:00 AM to 5:00 PM PST on weekdays and Saturday. Blasting. Road closed intermittently. Watch for traffic control. Seasonal shutdown until January 14. 80km/hr speed limit. Construction resuming January 15, 2025. Next update time Wed Jan 15 at 7:00 AM PST. Last updated Mon Jan 6 at 10:28 AM PST. (DBC-64961)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-64961.html",
+    "Location": "Highway 1 (TransCanada Highway), between Coburn St and Shuswap Ave for 0.7 km (Chase)",
+    "Description": "Construction work, blasting. Road closed intermittently. Watch for traffic control. Seasonal shutdown until January 14. 80km/hr speed limit.",
+    "Next update time": "Wed Jan 15 at 7:00 AM PST",
+    "Last update time": "Mon Jan 6 at 10:28 AM PST",
+    "latitude": 50.820462,
+    "longitude": -119.686908
+  },
+  {
+    "title": "Highway 1 Both Directions",
+    "description": "Highway 1 (TransCanada Highway), in both directions. Vehicle incident between Canoe Beach Dr NE and Bernie Rd for 11.0 km (8 km west of Sicamous to Salmon Arm). Road closed. Assessment in progress. Detour - HWY 97A & HWY 97B. Next update time Fri Jan 10 at 4:30 PM PST. Last updated Fri Jan 10 at 3:27 PM PST. (DBC-71832)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71832.html",
+    "Location": "Highway 1 (TransCanada Highway), in both directions between Canoe Beach Dr NE and Bernie Rd for 11.0 km (8 km west of Sicamous to Salmon Arm)",
+    "Description": "Vehicle incident. Road closed. Assessment in progress. Detour - HWY 97A & HWY 97B.",
+    "Next update time": "Fri Jan 10 at 4:30 PM PST",
+    "Last update time": "Fri Jan 10 at 3:27 PM PST",
+    "latitude": 51.0398985,
+    "longitude": -117.9944622
+  },
+  {
+    "title": "Highway 1 Both Directions",
+    "description": "Highway 1 (TransCanada Highway), in both directions. Construction work between Old Sicamous Rd and Solsqua-Sicamous Rd for 2.0 km (Sicamous). From 9:00 AM to 3:00 PM PST on weekdays and Saturday. Bridge is closed. Single lane alternating traffic nightly 8pm to 6am January 8 to January 11. Next update time Sun Jan 12 at 5:00 PM PST. Last updated Fri Jan 10 at 9:25 AM PST. (DBC-70490)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70490.html"
+  },
+  {
+    "title": "Highway 10 Both Directions",
+    "description": "Highway 10, in both directions. Vehicle incident between 160 St and 168 St (Surrey). All eastbound lanes blocked. Left westbound lane blocked. Expect major delays. Next update time Fri Jan 10 at 5:00 PM PST. Last updated Fri Jan 10 at 4:09 PM PST. (DBC-71847)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71847.html"
   },
   {
     "title": "Highway 17 Both Directions",
     "description": "Highway 17 (Patricia Bay Highway), in both directions. Construction work at Exit 18: Keating Cross Rd (Central Saanich). Until Tue Jul 1, 2025. Nighttime lane closures both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed. Next update time Sat May 10, 2025 at 12:00 PM PDT. Last updated Thu Sep 26 at 12:08 PM PDT. (DBC-54341)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-54341.html"
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-54341.html",
+    "Location": "Highway 17 (Patricia Bay Highway), in both directions at Exit 18: Keating Cross Rd (Central Saanich)",
+    "Description": "Construction work with nighttime lane closures both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed.",
+    "Next update time": "Sat May 10, 2025 at 12:00 PM PDT",
+    "Last update time": "Thu Sep 26 at 12:08 PM PDT",
+    "latitude": 48.5651196,
+    "longitude": -123.417242
   },
   {
-    "title": "Highway 91 Westbound",
-    "description": "Highway 91, westbound. Vehicle incident between Exit 11: Westminster Hwy and Exit 15 (Richmond). Left lane is blocked. Expect delays. Next update time Thu Jan 9 at 4:45 PM PST. Last updated Thu Jan 9 at 4:11 PM PST. (DBC-71815)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71815.html",
-    "Location": "Highway 91, westbound",
-    "Description": "Vehicle incident between Exit 11: Westminster Hwy and Exit 15 (Richmond). Left lane is blocked. Expect delays.",
-    "Next update time": "Thu Jan 9 at 4:45 PM PST",
-    "Last update time": "Thu Jan 9 at 4:11 PM PST",
-    "latitude": 49.1354615,
-    "longitude": -122.9297223
+    "title": "Highway 3 Both Directions",
+    "description": "Highway 3 (Crowsnest Highway), in both directions. Vehicle incident between Moyie River Yahk Bridge and Yahk-Meadow Creek Rd (Yahk). Road closed. Detour not available. Next update time Fri Jan 10 at 5:30 PM MST. Last updated Fri Jan 10 at 4:31 PM MST. (DBC-71841)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71841.html",
+    "Location": "Highway 3 (Crowsnest Highway), between Moyie River Yahk Bridge and Yahk-Meadow Creek Rd (Yahk)",
+    "Description": "Vehicle incident. Road closed. Detour not available.",
+    "Next update time": "Fri Jan 10 at 5:30 PM MST",
+    "Last update time": "Fri Jan 10 at 4:31 PM MST",
+    "latitude": 49.0292214,
+    "longitude": -115.8729795
   },
   {
     "title": "Kootenay Lake Ferry Both Directions",
-    "description": "Kootenay Lake Ferry, in both directions. Ferry is out of service between Balfour and Kootenay Bay. Mon-Fri essential service Balfour sailings: 6:30AM, 8:10AM, 4:30PM, Kootenay Bay: 7:10AM, 9AM, 5:20PM. Sat-Sun Balfour sailings: 6:30AM, 9:40PM, Kootenay Bay: 7:10AM, 10:20PM. Essential service travelers board 1st, then general public. Emergency services accommodated. Next update time Fri Jan 10 at 9:00 AM PST. Last updated Wed Jan 8 at 8:40 AM PST. (DBC-69872)",
+    "description": "Kootenay Lake Ferry, in both directions. Ferry is out of service between Balfour and Kootenay Bay. Mon-Fri essential service Balfour sailings: 6:30AM, 8:10AM, 4:30PM, Kootenay Bay: 7:10AM, 9AM, 5:20PM. Sat-Sun Balfour sailings: 6:30AM, 9:40PM, Kootenay Bay: 7:10AM, 10:20PM. Essential service travelers board 1st, then general public. Emergency services accommodated. Next update time Mon Jan 13 at 9:00 AM PST. Last updated Fri Jan 10 at 8:09 AM PST. (DBC-69872)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69872.html"
   },
   {
@@ -110,13 +143,7 @@
   {
     "title": "Other Roads",
     "description": "Johnston Bridge. Travel advisory in effect at Front St. In Quesnel. Johnston Bridge. Bridge is open to vehicles with gross vehicle weight rating of 10,000 kilograms or lower. Industrial traffic and heavy commercial traffic must detour via Plywood Rd and Maple Drive. Industrial traffic is not allowed to detour through Johnston Subdivision. Next update time Wed Apr 8, 2026 at 9:00 AM PDT. Last updated Thu Oct 17 at 6:39 AM PDT. (DBC-47311)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-47311.html",
-    "Location": "Johnston Bridge at Front St. in Quesnel",
-    "Description": "Bridge is open to vehicles with gross vehicle weight rating of 10,000 kilograms or lower. Industrial traffic and heavy commercial traffic must detour via Plywood Rd and Maple Drive. Industrial traffic is not allowed to detour through Johnston Subdivision.",
-    "Next update time": "Wed Apr 8, 2026 at 9:00 AM PDT",
-    "Last update time": "Thu Oct 17 at 6:39 AM PDT",
-    "latitude": 52.9733808,
-    "longitude": -122.4965097
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-47311.html"
   },
   {
     "title": "Other Roads Both Directions",
@@ -133,23 +160,17 @@
     "title": "Other Roads Both Directions",
     "description": "Cave Road, in both directions. Landslide at Quesnel-Hixon Road. Road closed. Landslide on Cave Road. Next update time Tue Apr 1, 2025 at 10:00 AM PDT. Last updated Wed Oct 9 at 10:17 AM PDT. (DBC-67913)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-67913.html",
-    "Location": "Cave Road, at Quesnel-Hixon Road",
+    "Location": "Cave Road, in both directions at Quesnel-Hixon Road",
     "Description": "Landslide on Cave Road. Road closed.",
     "Next update time": "Tue Apr 1, 2025 at 10:00 AM PDT",
     "Last update time": "Wed Oct 9 at 10:17 AM PDT",
-    "latitude": 53.0775888,
-    "longitude": -122.50509
+    "latitude": 53.0738772,
+    "longitude": -122.5100618
   },
   {
     "title": "Other Roads Both Directions",
     "description": "Pavilion Clinton Rd, in both directions. Travel advisory in effect between Clinton and Lillooet 60 km south of Lillooet. Road closed for the season. Pavilion-Clinton Rd is closed for the Winter. Next update time Fri May 16, 2025 at 10:00 AM PST. Last updated Tue Nov 12 at 9:23 AM PST. (DBC-70161)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70161.html",
-    "Location": "Pavilion Clinton Rd, in both directions between Clinton and Lillooet 60 km south of Lillooet",
-    "Description": "Road closed for the season",
-    "Next update time": "Fri May 16, 2025 at 10:00 AM PST",
-    "Last update time": "Tue Nov 12 at 9:23 AM PST",
-    "latitude": 51.0879404,
-    "longitude": -121.598893
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70161.html"
   },
   {
     "title": "Upper Arrow Lake Ferry",
