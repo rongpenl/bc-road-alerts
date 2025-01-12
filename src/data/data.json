@@ -16,47 +16,14 @@
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70685.html"
   },
   {
-    "title": "Highway 1 Eastbound",
-    "description": "Highway 1 (TransCanada Highway), eastbound. Vehicle incident between Gilmore Ave Diversion and Exit 29: Willingdon Ave (Burnaby). Centre lane blocked. Expect delays. Next update time Fri Jan 10 at 4:45 PM PST. Last updated Fri Jan 10 at 3:57 PM PST. (DBC-71846)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71846.html",
-    "Location": "Highway 1 (TransCanada Highway), eastbound between Gilmore Ave Diversion and Exit 29: Willingdon Ave (Burnaby)",
-    "Description": "Vehicle incident. Centre lane blocked. Expect delays.",
-    "Next update time": "Fri Jan 10 at 4:45 PM PST",
-    "Last update time": "Fri Jan 10 at 3:57 PM PST",
-    "latitude": 49.284161,
-    "longitude": -123.0030771
-  },
-  {
     "title": "Highway 1 Both Directions",
     "description": "Highway 1 (TransCanada Highway), in both directions. Construction work between Coburn St and Shuswap Ave for 0.7 km (Chase). From 7:00 AM to 5:00 PM PST on weekdays and Saturday. Blasting. Road closed intermittently. Watch for traffic control. Seasonal shutdown until January 14. 80km/hr speed limit. Construction resuming January 15, 2025. Next update time Wed Jan 15 at 7:00 AM PST. Last updated Mon Jan 6 at 10:28 AM PST. (DBC-64961)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-64961.html",
-    "Location": "Highway 1 (TransCanada Highway), between Coburn St and Shuswap Ave for 0.7 km (Chase)",
-    "Description": "Construction work, blasting. Road closed intermittently. Watch for traffic control. Seasonal shutdown until January 14. 80km/hr speed limit.",
-    "Next update time": "Wed Jan 15 at 7:00 AM PST",
-    "Last update time": "Mon Jan 6 at 10:28 AM PST",
-    "latitude": 50.820462,
-    "longitude": -119.686908
-  },
-  {
-    "title": "Highway 1 Both Directions",
-    "description": "Highway 1 (TransCanada Highway), in both directions. Vehicle incident between Canoe Beach Dr NE and Bernie Rd for 11.0 km (8 km west of Sicamous to Salmon Arm). Road closed. Assessment in progress. Detour - HWY 97A & HWY 97B. Next update time Fri Jan 10 at 4:30 PM PST. Last updated Fri Jan 10 at 3:27 PM PST. (DBC-71832)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71832.html",
-    "Location": "Highway 1 (TransCanada Highway), in both directions between Canoe Beach Dr NE and Bernie Rd for 11.0 km (8 km west of Sicamous to Salmon Arm)",
-    "Description": "Vehicle incident. Road closed. Assessment in progress. Detour - HWY 97A & HWY 97B.",
-    "Next update time": "Fri Jan 10 at 4:30 PM PST",
-    "Last update time": "Fri Jan 10 at 3:27 PM PST",
-    "latitude": 51.0398985,
-    "longitude": -117.9944622
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-64961.html"
   },
   {
     "title": "Highway 1 Both Directions",
     "description": "Highway 1 (TransCanada Highway), in both directions. Construction work between Old Sicamous Rd and Solsqua-Sicamous Rd for 2.0 km (Sicamous). From 9:00 AM to 3:00 PM PST on weekdays and Saturday. Bridge is closed. Single lane alternating traffic nightly 8pm to 6am January 8 to January 11. Next update time Sun Jan 12 at 5:00 PM PST. Last updated Fri Jan 10 at 9:25 AM PST. (DBC-70490)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70490.html"
-  },
-  {
-    "title": "Highway 10 Both Directions",
-    "description": "Highway 10, in both directions. Vehicle incident between 160 St and 168 St (Surrey). All eastbound lanes blocked. Left westbound lane blocked. Expect major delays. Next update time Fri Jan 10 at 5:00 PM PST. Last updated Fri Jan 10 at 4:09 PM PST. (DBC-71847)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71847.html"
   },
   {
     "title": "Highway 17 Both Directions",
@@ -68,17 +35,6 @@
     "Last update time": "Thu Sep 26 at 12:08 PM PDT",
     "latitude": 48.5651196,
     "longitude": -123.417242
-  },
-  {
-    "title": "Highway 3 Both Directions",
-    "description": "Highway 3 (Crowsnest Highway), in both directions. Vehicle incident between Moyie River Yahk Bridge and Yahk-Meadow Creek Rd (Yahk). Road closed. Detour not available. Next update time Fri Jan 10 at 5:30 PM MST. Last updated Fri Jan 10 at 4:31 PM MST. (DBC-71841)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71841.html",
-    "Location": "Highway 3 (Crowsnest Highway), between Moyie River Yahk Bridge and Yahk-Meadow Creek Rd (Yahk)",
-    "Description": "Vehicle incident. Road closed. Detour not available.",
-    "Next update time": "Fri Jan 10 at 5:30 PM MST",
-    "Last update time": "Fri Jan 10 at 4:31 PM MST",
-    "latitude": 49.0292214,
-    "longitude": -115.8729795
   },
   {
     "title": "Kootenay Lake Ferry Both Directions",
@@ -170,7 +126,13 @@
   {
     "title": "Other Roads Both Directions",
     "description": "Pavilion Clinton Rd, in both directions. Travel advisory in effect between Clinton and Lillooet 60 km south of Lillooet. Road closed for the season. Pavilion-Clinton Rd is closed for the Winter. Next update time Fri May 16, 2025 at 10:00 AM PST. Last updated Tue Nov 12 at 9:23 AM PST. (DBC-70161)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70161.html"
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70161.html",
+    "Location": "Pavilion Clinton Rd, in both directions between Clinton and Lillooet 60 km south of Lillooet",
+    "Description": "Road closed for the season",
+    "Next update time": "Fri May 16, 2025 at 10:00 AM PST",
+    "Last update time": "Tue Nov 12 at 9:23 AM PST",
+    "latitude": 51.0879404,
+    "longitude": -121.598893
   },
   {
     "title": "Upper Arrow Lake Ferry",
