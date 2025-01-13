@@ -22,19 +22,13 @@
   },
   {
     "title": "Highway 1 Both Directions",
-    "description": "Highway 1 (TransCanada Highway), in both directions. Construction work between Old Sicamous Rd and Solsqua-Sicamous Rd for 2.0 km (Sicamous). From 9:00 AM to 3:00 PM PST on weekdays and Saturday. Bridge is closed. Single lane alternating traffic nightly 8pm to 6am January 8 to January 11. Next update time Sun Jan 12 at 5:00 PM PST. Last updated Fri Jan 10 at 9:25 AM PST. (DBC-70490)",
+    "description": "Highway 1 (TransCanada Highway), in both directions. Construction work between Old Sicamous Rd and Solsqua-Sicamous Rd for 2.0 km (Sicamous). From 9:00 AM to 3:00 PM PST on weekdays and Saturday. Bridge is closed. Single lane alternating traffic nightly 8pm to 6am January 13 to January 18. Next update time Sun Jan 19 at 5:00 PM PST. Last updated Sun Jan 12 at 8:30 AM PST. (DBC-70490)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70490.html"
   },
   {
     "title": "Highway 17 Both Directions",
     "description": "Highway 17 (Patricia Bay Highway), in both directions. Construction work at Exit 18: Keating Cross Rd (Central Saanich). Until Tue Jul 1, 2025. Nighttime lane closures both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed. Next update time Sat May 10, 2025 at 12:00 PM PDT. Last updated Thu Sep 26 at 12:08 PM PDT. (DBC-54341)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-54341.html",
-    "Location": "Highway 17 (Patricia Bay Highway), in both directions at Exit 18: Keating Cross Rd (Central Saanich)",
-    "Description": "Construction work with nighttime lane closures both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed.",
-    "Next update time": "Sat May 10, 2025 at 12:00 PM PDT",
-    "Last update time": "Thu Sep 26 at 12:08 PM PDT",
-    "latitude": 48.5651196,
-    "longitude": -123.417242
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-54341.html"
   },
   {
     "title": "Kootenay Lake Ferry Both Directions",
@@ -51,17 +45,6 @@
     "Last update time": "Wed Jan 8 at 11:33 AM PST",
     "latitude": 51.0409386,
     "longitude": -120.2401904
-  },
-  {
-    "title": "Needles Ferry",
-    "description": "Needles Ferry. There will be required maintenance between Needles and Fauquier. Starting Sun Jan 12 at 7:00 AM PST until Sun Jan 12 at 12:00 PM PST. Ferry route will be closed. The Ferry will be out of service for a cable change. Next update time Sun Jan 12 at 12:00 PM PST. Last updated Tue Jan 7 at 5:09 PM PST. (DBC-71725)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71725.html",
-    "Location": "Needles Ferry",
-    "Description": "There will be required maintenance between Needles and Fauquier. Ferry route will be closed. The Ferry will be out of service for a cable change.",
-    "Next update time": "Sun Jan 12 at 12:00 PM PST",
-    "Last update time": "Tue Jan 7 at 5:09 PM PST",
-    "latitude": 49.8741188,
-    "longitude": -118.0967654
   },
   {
     "title": "Other Roads",
