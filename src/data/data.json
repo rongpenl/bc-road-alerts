@@ -30,7 +30,7 @@
     "description": "Highway 17 (Patricia Bay Highway), in both directions. Construction work at Exit 18: Keating Cross Rd (Central Saanich). Until Tue Jul 1, 2025. Nighttime lane closures both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed. Next update time Sat May 10, 2025 at 12:00 PM PDT. Last updated Thu Sep 26 at 12:08 PM PDT. (DBC-54341)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-54341.html",
     "Location": "Highway 17 (Patricia Bay Highway), in both directions at Exit 18: Keating Cross Rd (Central Saanich)",
-    "Description": "Construction work. Nighttime lane closures both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed.",
+    "Description": "Construction work with nighttime lane closures both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed.",
     "Next update time": "Sat May 10, 2025 at 12:00 PM PDT",
     "Last update time": "Thu Sep 26 at 12:08 PM PDT",
     "latitude": 48.5651196,
@@ -38,18 +38,29 @@
   },
   {
     "title": "Highway 37A Both Directions",
-    "description": "Highway 37A, in both directions. Vehicle incident between American Creek Turnout and Argile Creek. Single lane alternating traffic. Watch for traffic control. Expect up to 30 minute delays. Next update time Thu Jan 16 at 7:00 PM PST. Last updated Thu Jan 16 at 3:29 PM PST. (DBC-71875)",
+    "description": "Highway 37A, in both directions. Vehicle incident between American Creek Turnout and Argile Creek. Single lane alternating traffic. Expect delays up to 30 minutes. Watch for traffic control. Next update time Fri Jan 17 at 7:00 PM PST. Last updated Fri Jan 17 at 4:01 PM PST. (DBC-71875)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71875.html",
     "Location": "Highway 37A, between American Creek Turnout and Argile Creek",
-    "Description": "Vehicle incident, single lane alternating traffic. Watch for traffic control. Expect up to 30 minute delays.",
-    "Next update time": "Thu Jan 16 at 7:00 PM PST",
-    "Last update time": "Thu Jan 16 at 3:29 PM PST",
+    "Description": "Vehicle incident causing single lane alternating traffic. Expect delays up to 30 minutes. Watch for traffic control.",
+    "Next update time": "Fri Jan 17 at 7:00 PM PST",
+    "Last update time": "Fri Jan 17 at 4:01 PM PST",
     "latitude": 52.585945,
     "longitude": -119.787717
   },
   {
+    "title": "Highway 91 Southbound",
+    "description": "Highway 91, southbound. Road cleared at Alex Fraser Bridge (Delta). Last updated Fri Jan 17 at 4:05 PM PST. (DBC-72068)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72068.html",
+    "Location": "Highway 91, southbound at Alex Fraser Bridge (Delta)",
+    "Description": "Road cleared",
+    "Next update time": null,
+    "Last update time": "Fri Jan 17 at 4:05 PM PST",
+    "latitude": 49.1588705,
+    "longitude": -122.9425219
+  },
+  {
     "title": "Kootenay Lake Ferry Both Directions",
-    "description": "Kootenay Lake Ferry, in both directions. Ferry is out of service between Balfour and Kootenay Bay. Mon-Fri essential service Balfour sailings: 6:30AM, 8:10AM, 4:30PM, Kootenay Bay: 7:10AM, 9AM, 5:20PM. Sat-Sun Balfour sailings: 6:30AM, 9:40PM, Kootenay Bay: 7:10AM, 10:20PM. Essential service travelers board 1st, then general public. Emergency services accommodated. Next update time Fri Jan 17 at 9:00 AM PST. Last updated Mon Jan 13 at 8:18 AM PST. (DBC-69872)",
+    "description": "Kootenay Lake Ferry, in both directions. Ferry is out of service between Balfour and Kootenay Bay. Mon-Fri essential service Balfour sailings: 6:30AM, 8:10AM, 4:30PM, Kootenay Bay: 7:10AM, 9AM, 5:20PM. Sat-Sun Balfour sailings: 6:30AM, 9:40PM, Kootenay Bay: 7:10AM, 10:20PM. Essential service travelers board 1st, then general public. Emergency services accommodated. Next update time Mon Jan 20 at 9:00 AM PST. Last updated Fri Jan 17 at 8:24 AM PST. (DBC-69872)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69872.html"
   },
   {
@@ -123,15 +134,10 @@
     "description": "Pavilion Clinton Rd, in both directions. Travel advisory in effect between Clinton and Lillooet 60 km south of Lillooet. Road closed for the season. Pavilion-Clinton Rd is closed for the Winter. Next update time Fri May 16, 2025 at 10:00 AM PST. Last updated Tue Nov 12 at 9:23 AM PST. (DBC-70161)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70161.html",
     "Location": "Pavilion Clinton Rd, in both directions between Clinton and Lillooet 60 km south of Lillooet",
-    "Description": "Road closed for the season",
+    "Description": "Road closed for the season. Pavilion-Clinton Rd is closed for the Winter.",
     "Next update time": "Fri May 16, 2025 at 10:00 AM PST",
     "Last update time": "Tue Nov 12 at 9:23 AM PST",
     "latitude": 51.0879404,
     "longitude": -121.598893
-  },
-  {
-    "title": "Upper Arrow Lake Ferry Both Directions",
-    "description": "Upper Arrow Lake Ferry, in both directions. Required maintenance at Upper Arrow Lake Ferry (Upper Arrow Lake). Until Sat Jan 18. From 10:00 PM to 5:00 AM PST on Thursday and Friday. Ferry route closed. Final sailing from Shelter Bay at 9 PM. Last sailing from Galena Bay at 9:30 PM on both days. Next update time Sat Jan 18 at 4:30 AM PST. Last updated Thu Jan 16 at 4:06 PM PST. (DBC-72034)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72034.html"
   }
 ]
