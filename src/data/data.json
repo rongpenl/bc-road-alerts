@@ -13,7 +13,13 @@
   {
     "title": "Highway 1",
     "description": "Highway 1 (TransCanada Highway). Bridge maintenance between Mt Sicker Rd and Fuller Lake Rd for 3.7 km (Chemainus). Until Fri Feb 28 at 2:00 AM PST. Lane Closure. Reduced speed zone. NB Bridge closed for repairs.\nOverwidth protocols Commercial loads 3.2m-3.8m required to pull over and contact for access over SB bridge. Overwidth access only 6-12AM. Loads over 3.8m need 5day notice to accommodate. Next update time Fri Feb 28 at 7:00 AM PST. Last updated Thu Jan 16 at 2:13 PM PST. (DBC-70685)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70685.html"
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70685.html",
+    "Location": "Highway 1 (TransCanada Highway) between Mt Sicker Rd and Fuller Lake Rd for 3.7 km (Chemainus)",
+    "Description": "Bridge maintenance. Lane Closure. Reduced speed zone. NB Bridge closed for repairs. Overwidth protocols Commercial loads 3.2m-3.8m required to pull over and contact for access over SB bridge. Overwidth access only 6-12AM. Loads over 3.8m need 5day notice to accommodate.",
+    "Next update time": "Fri Feb 28 at 7:00 AM PST",
+    "Last update time": "Thu Jan 16 at 2:13 PM PST",
+    "latitude": 48.9034496,
+    "longitude": -123.7183903
   },
   {
     "title": "Highway 1 Both Directions",
@@ -37,31 +43,15 @@
     "longitude": -123.417242
   },
   {
-    "title": "Highway 37A Both Directions",
-    "description": "Highway 37A, in both directions. Vehicle incident between American Creek Turnout and Argile Creek. Single lane alternating traffic. Expect delays up to 30 minutes. Watch for traffic control. Next update time Fri Jan 17 at 7:00 PM PST. Last updated Fri Jan 17 at 4:01 PM PST. (DBC-71875)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-71875.html",
-    "Location": "Highway 37A, between American Creek Turnout and Argile Creek",
-    "Description": "Vehicle incident causing single lane alternating traffic. Expect delays up to 30 minutes. Watch for traffic control.",
-    "Next update time": "Fri Jan 17 at 7:00 PM PST",
-    "Last update time": "Fri Jan 17 at 4:01 PM PST",
-    "latitude": 52.585945,
-    "longitude": -119.787717
-  },
-  {
-    "title": "Highway 91 Southbound",
-    "description": "Highway 91, southbound. Road cleared at Alex Fraser Bridge (Delta). Last updated Fri Jan 17 at 4:05 PM PST. (DBC-72068)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72068.html",
-    "Location": "Highway 91, southbound at Alex Fraser Bridge (Delta)",
-    "Description": "Road cleared",
-    "Next update time": null,
-    "Last update time": "Fri Jan 17 at 4:05 PM PST",
-    "latitude": 49.1588705,
-    "longitude": -122.9425219
-  },
-  {
     "title": "Kootenay Lake Ferry Both Directions",
     "description": "Kootenay Lake Ferry, in both directions. Ferry is out of service between Balfour and Kootenay Bay. Mon-Fri essential service Balfour sailings: 6:30AM, 8:10AM, 4:30PM, Kootenay Bay: 7:10AM, 9AM, 5:20PM. Sat-Sun Balfour sailings: 6:30AM, 9:40PM, Kootenay Bay: 7:10AM, 10:20PM. Essential service travelers board 1st, then general public. Emergency services accommodated. Next update time Mon Jan 20 at 9:00 AM PST. Last updated Fri Jan 17 at 8:24 AM PST. (DBC-69872)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69872.html"
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69872.html",
+    "Location": "Kootenay Lake Ferry, in both directions",
+    "Description": "Ferry is out of service between Balfour and Kootenay Bay",
+    "Next update time": "Mon Jan 20 at 9:00 AM PST",
+    "Last update time": "Fri Jan 17 at 8:24 AM PST",
+    "latitude": 49.57009370000001,
+    "longitude": -116.8312394
   },
   {
     "title": "Other Roads",
@@ -78,8 +68,8 @@
     "title": "Other Roads Both Directions",
     "description": "Durrell Road, in both directions. Landslide at 700m from Highway 97. Road closed. Detour in effect. Detour available via Highway 97 and Dale Lake Road. Next update time Wed Apr 23, 2025 at 2:00 PM PDT. Last updated Wed Oct 23 at 1:06 PM PDT. (DBC-27390)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-27390.html",
-    "Location": "Durrell Road, 700m from Highway 97",
-    "Description": "Landslide, road closed. Detour available via Highway 97 and Dale Lake Road.",
+    "Location": "Durrell Road, in both directions at 700m from Highway 97",
+    "Description": "Landslide. Road closed. Detour available via Highway 97 and Dale Lake Road.",
     "Next update time": "Wed Apr 23, 2025 at 2:00 PM PDT",
     "Last update time": "Wed Oct 23 at 1:06 PM PDT",
     "latitude": 54.6985492,
@@ -134,7 +124,7 @@
     "description": "Pavilion Clinton Rd, in both directions. Travel advisory in effect between Clinton and Lillooet 60 km south of Lillooet. Road closed for the season. Pavilion-Clinton Rd is closed for the Winter. Next update time Fri May 16, 2025 at 10:00 AM PST. Last updated Tue Nov 12 at 9:23 AM PST. (DBC-70161)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70161.html",
     "Location": "Pavilion Clinton Rd, in both directions between Clinton and Lillooet 60 km south of Lillooet",
-    "Description": "Road closed for the season. Pavilion-Clinton Rd is closed for the Winter.",
+    "Description": "Road closed for the season",
     "Next update time": "Fri May 16, 2025 at 10:00 AM PST",
     "Last update time": "Tue Nov 12 at 9:23 AM PST",
     "latitude": 51.0879404,
