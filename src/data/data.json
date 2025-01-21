@@ -14,8 +14,8 @@
     "title": "Highway 1",
     "description": "Highway 1 (TransCanada Highway). Bridge maintenance between Mt Sicker Rd and Fuller Lake Rd for 3.7 km (Chemainus). Until Fri Feb 28 at 2:00 AM PST. Lane Closure. Reduced speed zone. NB Bridge closed for repairs.\nOverwidth protocols Commercial loads 3.2m-3.8m required to pull over and contact for access over SB bridge. Overwidth access only 6-12AM. Loads over 3.8m need 5day notice to accommodate. Next update time Fri Feb 28 at 7:00 AM PST. Last updated Thu Jan 16 at 2:13 PM PST. (DBC-70685)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70685.html",
-    "Location": "Highway 1 (TransCanada Highway) between Mt Sicker Rd and Fuller Lake Rd for 3.7 km (Chemainus)",
-    "Description": "Bridge maintenance. Lane Closure. Reduced speed zone. NB Bridge closed for repairs. Overwidth protocols Commercial loads 3.2m-3.8m required to pull over and contact for access over SB bridge. Overwidth access only 6-12AM. Loads over 3.8m need 5day notice to accommodate.",
+    "Location": "Highway 1 (TransCanada Highway) between Mt Sicker Rd and Fuller Lake Rd, Chemainus",
+    "Description": "Bridge maintenance for 3.7 km. Lane Closure. Reduced speed zone. NB Bridge closed for repairs. Overwidth protocols in place for Commercial loads. Overwidth access only between 6-12AM. Loads over 3.8m require 5-day notice for accommodation.",
     "Next update time": "Fri Feb 28 at 7:00 AM PST",
     "Last update time": "Thu Jan 16 at 2:13 PM PST",
     "latitude": 48.9034496,
@@ -23,8 +23,14 @@
   },
   {
     "title": "Highway 1 Both Directions",
-    "description": "Highway 1 (TransCanada Highway), in both directions. Construction work between Coburn St and Shuswap Ave for 0.7 km (Chase). From 7:00 AM to 5:00 PM PST on weekdays and Saturday. Blasting. Road closed intermittently. Watch for traffic control. Seasonal shutdown until January 19. 80km/hr speed limit. Construction resuming January 20, 2025. Next update time Mon Jan 20 at 9:00 AM PST. Last updated Wed Jan 15 at 8:32 AM PST. (DBC-64961)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-64961.html"
+    "description": "Highway 1 (TransCanada Highway), in both directions. Construction work between Coburn St and Shuswap Ave for 0.7 km (Chase). From 7:00 AM to 5:00 PM PST on weekdays and Saturday. Single lane alternating traffic. Intermittent delays of up to 5 minutes. Four stoppages of up to 20 minutes between 9 AM and 3 PM. Watch for traffic control. Next update time Tue Apr 1 at 5:00 PM PST. Last updated Mon Jan 20 at 12:39 PM PST. (DBC-64961)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-64961.html",
+    "Location": "Highway 1 (TransCanada Highway), between Coburn St and Shuswap Ave for 0.7 km (Chase)",
+    "Description": "Construction work. Single lane alternating traffic. Intermittent delays of up to 5 minutes. Four stoppages of up to 20 minutes between 9 AM and 3 PM. Watch for traffic control.",
+    "Next update time": "Tue Apr 1 at 5:00 PM PST",
+    "Last update time": "Mon Jan 20 at 12:39 PM PST",
+    "latitude": 50.820462,
+    "longitude": -119.686908
   },
   {
     "title": "Highway 1 Both Directions",
@@ -38,14 +44,36 @@
   },
   {
     "title": "Kootenay Lake Ferry Both Directions",
-    "description": "Kootenay Lake Ferry, in both directions. Ferry is out of service between Balfour and Kootenay Bay. Mon-Fri essential service Balfour sailings: 6:30AM, 8:10AM, 4:30PM, Kootenay Bay: 7:10AM, 9AM, 5:20PM. Sat-Sun Balfour sailings: 6:30AM, 9:40PM, Kootenay Bay: 7:10AM, 10:20PM. Essential service travelers board 1st, then general public. Emergency services accommodated. Next update time Mon Jan 20 at 9:00 AM PST. Last updated Fri Jan 17 at 8:24 AM PST. (DBC-69872)",
+    "description": "Kootenay Lake Ferry, in both directions. Ferry is out of service between Balfour and Kootenay Bay. Mon-Fri essential service Balfour sailings: 6:30AM, 8:10AM, 4:30PM, Kootenay Bay: 7:10AM, 9AM, 5:20PM. Sat-Sun Balfour sailings: 6:30AM, 9:40PM, Kootenay Bay: 7:10AM, 10:20PM. Essential service travelers board 1st, then general public. Emergency services accommodated. Next update time Fri Jan 24 at 9:00 AM PST. Last updated Mon Jan 20 at 8:11 AM PST. (DBC-69872)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69872.html",
     "Location": "Kootenay Lake Ferry, in both directions",
     "Description": "Ferry is out of service between Balfour and Kootenay Bay",
-    "Next update time": "Mon Jan 20 at 9:00 AM PST",
-    "Last update time": "Fri Jan 17 at 8:24 AM PST",
+    "Next update time": "Fri Jan 24 at 9:00 AM PST",
+    "Last update time": "Mon Jan 20 at 8:11 AM PST",
     "latitude": 49.57009370000001,
     "longitude": -116.8312394
+  },
+  {
+    "title": "Little Fort Ferry Both Directions",
+    "description": "Little Fort Ferry, in both directions. Seasonal shutdown at Little Fort Ferry (1 km west of Little Fort). Due to winter conditions. Next update time Mon Feb 3 at 12:00 PM PST. Last updated Mon Jan 20 at 3:39 PM PST. (DBC-72115)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72115.html",
+    "Location": "Little Fort Ferry, in both directions",
+    "Description": "Due to winter conditions",
+    "Next update time": "Mon Feb 3 at 12:00 PM PST",
+    "Last update time": "Mon Jan 20 at 3:39 PM PST",
+    "latitude": 51.4239653,
+    "longitude": -120.2053428
+  },
+  {
+    "title": "McLure Ferry Both Directions",
+    "description": "McLure Ferry, in both directions. Seasonal shutdown at McLure Ferry (McLure). Due to winter conditions. Next update time Mon Feb 3 at 12:00 PM PST. Last updated Mon Jan 20 at 3:40 PM PST. (DBC-72114)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72114.html",
+    "Location": "McLure Ferry",
+    "Description": "Seasonal shutdown at McLure Ferry (McLure) due to winter conditions.",
+    "Next update time": "Mon Feb 3 at 12:00 PM PST",
+    "Last update time": "Mon Jan 20 at 3:40 PM PST",
+    "latitude": 51.0409386,
+    "longitude": -120.2401904
   },
   {
     "title": "Other Roads",
@@ -117,8 +145,8 @@
     "title": "Other Roads Both Directions",
     "description": "Pavilion Clinton Rd, in both directions. Travel advisory in effect between Clinton and Lillooet 60 km south of Lillooet. Road closed for the season. Pavilion-Clinton Rd is closed for the Winter. Next update time Fri May 16, 2025 at 10:00 AM PST. Last updated Tue Nov 12 at 9:23 AM PST. (DBC-70161)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70161.html",
-    "Location": "Pavilion Clinton Rd, in both directions between Clinton and Lillooet 60 km south of Lillooet",
-    "Description": "Road closed for the season. Pavilion-Clinton Rd is closed for the Winter.",
+    "Location": "Pavilion Clinton Rd, between Clinton and Lillooet 60 km south of Lillooet",
+    "Description": "Road closed for the season",
     "Next update time": "Fri May 16, 2025 at 10:00 AM PST",
     "Last update time": "Tue Nov 12 at 9:23 AM PST",
     "latitude": 51.0879404,
