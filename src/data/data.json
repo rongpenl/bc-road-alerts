@@ -13,7 +13,13 @@
   {
     "title": "Highway 1",
     "description": "Highway 1 (TransCanada Highway). Bridge maintenance between Mt Sicker Rd and Fuller Lake Rd for 3.7 km (Chemainus). Until Fri Feb 28 at 2:00 AM PST. Lane Closure. Reduced speed zone. NB Bridge closed for repairs.\nOverwidth protocols Commercial loads 3.2m-3.8m required to pull over and contact for access over SB bridge. Overwidth access only 6-12AM. Loads over 3.8m need 5day notice to accommodate. Next update time Fri Feb 28 at 7:00 AM PST. Last updated Thu Jan 16 at 2:13 PM PST. (DBC-70685)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70685.html"
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70685.html",
+    "Location": "Highway 1 (TransCanada Highway) between Mt Sicker Rd and Fuller Lake Rd, Chemainus",
+    "Description": "Bridge maintenance for 3.7 km. Lane Closure. Reduced speed zone. NB Bridge closed for repairs. Overwidth protocols in place for Commercial loads. Overwidth access only between 6-12 AM. Loads over 3.8m require 5-day notice for accommodation.",
+    "Next update time": "Fri Feb 28 at 7:00 AM PST",
+    "Last update time": "Thu Jan 16 at 2:13 PM PST",
+    "latitude": 48.9034496,
+    "longitude": -123.7183903
   },
   {
     "title": "Highway 1 Both Directions",
@@ -30,38 +36,16 @@
     "description": "Highway 17 (Patricia Bay Highway), in both directions. Construction work at Exit 18: Keating Cross Rd (Central Saanich). Until Tue Jul 1, 2025. Nighttime lane closures both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed. Next update time Sat May 10, 2025 at 12:00 PM PDT. Last updated Thu Sep 26 at 12:08 PM PDT. (DBC-54341)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-54341.html",
     "Location": "Highway 17 (Patricia Bay Highway), in both directions at Exit 18: Keating Cross Rd (Central Saanich)",
-    "Description": "Construction work with nighttime lane closures both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed.",
+    "Description": "Construction work with nighttime lane closures both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale, and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed.",
     "Next update time": "Sat May 10, 2025 at 12:00 PM PDT",
     "Last update time": "Thu Sep 26 at 12:08 PM PDT",
     "latitude": 48.5533773,
     "longitude": -123.3926916
   },
   {
-    "title": "Highway 37A Both Directions",
-    "description": "Highway 37A, in both directions. Vehicle incident between American Pullout and Cullen Cr. Bridge for 4.5 km (20 to 24 km east of Stewart). Single lane alternating traffic. Expect delays up to 30 minutes. Watch for traffic control and be prepared to stop. Next update time Thu Jan 23 at 8:00 PM PST. Last updated Thu Jan 23 at 7:58 AM PST. (DBC-72210)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72210.html"
-  },
-  {
-    "title": "Highway 5 Northbound",
-    "description": "Highway 5 (Coquihalla South), northbound. Vehicle incident between Exit 276: Comstock Rd and Exit 286: Merritt - 97C for 9.7 km (Merritt). All lanes blocked. Watch for traffic control. Expect delays of 1 hour. Crews on scene. Next update time Thu Jan 23 at 4:30 PM PST. Last updated Thu Jan 23 at 3:58 PM PST. (DBC-72229)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72229.html",
-    "Location": "Highway 5 (Coquihalla South), northbound",
-    "Description": "Vehicle incident between Exit 276: Comstock Rd and Exit 286: Merritt - 97C for 9.7 km (Merritt). All lanes blocked. Watch for traffic control. Expect delays of 1 hour. Crews on scene.",
-    "Next update time": "Thu Jan 23 at 4:30 PM PST",
-    "Last update time": "Thu Jan 23 at 3:58 PM PST",
-    "latitude": 50.6666509,
-    "longitude": -120.4509403
-  },
-  {
     "title": "Kootenay Lake Ferry Both Directions",
-    "description": "Kootenay Lake Ferry, in both directions. Ferry is out of service between Balfour and Kootenay Bay. Mon-Fri essential service Balfour sailings: 6:30AM, 8:10AM, 4:30PM, Kootenay Bay: 7:10AM, 9AM, 5:20PM. Sat-Sun Balfour sailings: 6:30AM, 9:40PM, Kootenay Bay: 7:10AM, 10:20PM. Essential service travelers board 1st, then general public. Emergency services accommodated. Next update time Fri Jan 24 at 9:00 AM PST. Last updated Mon Jan 20 at 8:11 AM PST. (DBC-69872)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69872.html",
-    "Location": "Kootenay Lake Ferry, in both directions. Ferry is out of service between Balfour and Kootenay Bay",
-    "Description": "Essential service travelers board 1st, then general public. Emergency services accommodated.",
-    "Next update time": "Fri Jan 24 at 9:00 AM PST",
-    "Last update time": "Mon Jan 20 at 8:11 AM PST",
-    "latitude": 49.6754319,
-    "longitude": -116.8727621
+    "description": "Kootenay Lake Ferry, in both directions. Ferry is out of service between Balfour and Kootenay Bay. Mon-Fri essential service Balfour sailings: 6:30AM, 8:10AM, 4:30PM, Kootenay Bay: 7:10AM, 9AM, 5:20PM. Sat-Sun Balfour sailings: 6:30AM, 9:40PM, Kootenay Bay: 7:10AM, 10:20PM. Essential service travelers board 1st, then general public. Emergency services accommodated. Next update time Mon Jan 27 at 9:00 AM PST. Last updated Thu Jan 23 at 4:31 PM PST. (DBC-69872)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69872.html"
   },
   {
     "title": "Little Fort Ferry Both Directions",
@@ -150,7 +134,7 @@
     "description": "Pavilion Clinton Rd, in both directions. Travel advisory in effect between Clinton and Lillooet 60 km south of Lillooet. Road closed for the season. Pavilion-Clinton Rd is closed for the Winter. Next update time Fri May 16, 2025 at 10:00 AM PST. Last updated Tue Nov 12 at 9:23 AM PST. (DBC-70161)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70161.html",
     "Location": "Pavilion Clinton Rd, in both directions between Clinton and Lillooet 60 km south of Lillooet",
-    "Description": "Road closed for the season",
+    "Description": "Road closed for the season. Pavilion-Clinton Rd is closed for the Winter.",
     "Next update time": "Fri May 16, 2025 at 10:00 AM PST",
     "Last update time": "Tue Nov 12 at 9:23 AM PST",
     "latitude": 51.0879404,
