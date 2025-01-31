@@ -13,13 +13,18 @@
   {
     "title": "Highway 1",
     "description": "Highway 1 (TransCanada Highway). Bridge maintenance between Mt Sicker Rd and Fuller Lake Rd for 3.7 km (Chemainus). Until Fri Feb 28 at 2:00 AM PST. Lane Closure. Reduced speed zone. NB Bridge closed for repairs.\nOverwidth protocols Commercial loads 3.2m-3.8m required to pull over and contact for access over SB bridge. Overwidth access only 6-12AM. Loads over 3.8m need 5day notice to accommodate. Next update time Fri Feb 28 at 7:00 AM PST. Last updated Thu Jan 16 at 2:13 PM PST. (DBC-70685)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70685.html",
-    "Location": "Highway 1 (TransCanada Highway) between Mt Sicker Rd and Fuller Lake Rd for 3.7 km (Chemainus)",
-    "Description": "Bridge maintenance. Lane Closure. Reduced speed zone. NB Bridge closed for repairs. Overwidth protocols Commercial loads 3.2m-3.8m required to pull over and contact for access over SB bridge. Overwidth access only 6-12AM. Loads over 3.8m need 5day notice to accommodate.",
-    "Next update time": "Fri Feb 28 at 7:00 AM PST",
-    "Last update time": "Thu Jan 16 at 2:13 PM PST",
-    "latitude": 48.9034496,
-    "longitude": -123.7183903
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70685.html"
+  },
+  {
+    "title": "Highway 1 Eastbound",
+    "description": "Highway 1 (TransCanada Highway), eastbound. Police incident between Exit 55: 192 St and Exit 58: 200 St (Langley - District). Right lane of exit ramp closed. Expect delays. Next update time Thu Jan 30 at 6:00 PM PST. Last updated Thu Jan 30 at 3:34 PM PST. (DBC-72392)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72392.html",
+    "Location": "Highway 1 (TransCanada Highway), eastbound, between Exit 55: 192 St and Exit 58: 200 St (Langley - District)",
+    "Description": "Police incident. Right lane of exit ramp closed. Expect delays.",
+    "Next update time": "Thu Jan 30 at 6:00 PM PST",
+    "Last update time": "Thu Jan 30 at 3:34 PM PST",
+    "latitude": 49.1623893,
+    "longitude": -122.6687339
   },
   {
     "title": "Highway 1 Both Directions",
@@ -30,7 +35,7 @@
     "title": "Highway 1 Both Directions",
     "description": "Highway 1 (TransCanada Highway), in both directions. Construction work between Ford Rd and Schneider Pl for 4.5 km (Tappen). Until Sat Oct 31, 2026. From 7:00 AM to 4:00 AM PST on weekdays and Saturday. Expect up to 30 min delays. Reduced speed through work zone to 60 km/hr. Intermittent minor stoppages and single lane alternating traffic. Watch for traffic control. Next update time Thu Feb 27 at 5:00 AM PST. Last updated Mon Jan 27 at 12:01 PM PST. (DBC-72306)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72306.html",
-    "Location": "Highway 1 (TransCanada Highway), between Ford Rd and Schneider Pl (Tappen), BC",
+    "Location": "Highway 1 (TransCanada Highway), in both directions between Ford Rd and Schneider Pl for 4.5 km (Tappen)",
     "Description": "Construction work. Expect up to 30 min delays. Reduced speed through work zone to 60 km/hr. Intermittent minor stoppages and single lane alternating traffic. Watch for traffic control.",
     "Next update time": "Thu Feb 27 at 5:00 AM PST",
     "Last update time": "Mon Jan 27 at 12:01 PM PST",
@@ -52,12 +57,22 @@
     "title": "Highway 1 Both Directions",
     "description": "Highway 1 (TransCanada Highway), in both directions. Construction work between Old Sicamous Rd and Solsqua-Sicamous Rd for 2.0 km (Sicamous). From 9:00 AM to 3:00 PM PST on weekdays and Saturday. Bridge is closed. Use alternate route. Single lane alternating traffic nightly 8pm to 6am January 27 to February 1. Next update time Sat Feb 1 at 5:00 PM PST. Last updated Sun Jan 26 at 1:07 PM PST. (DBC-70490)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70490.html",
-    "Location": "Highway 1 (TransCanada Highway), Sicamous, BC",
-    "Description": "Construction work between Old Sicamous Rd and Solsqua-Sicamous Rd for 2.0 km. Bridge is closed. Use alternate route. Single lane alternating traffic nightly 8pm to 6am.",
+    "Location": "Highway 1 (TransCanada Highway), in both directions between Old Sicamous Rd and Solsqua-Sicamous Rd for 2.0 km (Sicamous)",
+    "Description": "Construction work. Bridge is closed. Use alternate route. Single lane alternating traffic nightly 8pm to 6am January 27 to February 1.",
     "Next update time": "Sat Feb 1 at 5:00 PM PST",
     "Last update time": "Sun Jan 26 at 1:07 PM PST",
-    "latitude": 51.0398985,
-    "longitude": -117.9944622
+    "latitude": 48.5693141,
+    "longitude": -88.8349293
+  },
+  {
+    "title": "Highway 1 Both Directions",
+    "description": "[Truncated] Highway 1 (TransCanada Highway), in both directions. Weather advisory planned between Silver Sands Rd and BC/Alberta Border for 289.4 km (Sicamous to 16 km east of Field). Starting Fri Jan 31 until Sat Feb 1 at 11:45 PM PST. Changing avalanche conditions. Travelers should expect rapidly deteriorating conditions and visibility. Be prepared for short notice closures for avalanche control and deposit removal. Consider alternate travel plans. Next update time Sat Feb 1 at 11:30 PM PST. L",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72397.html"
+  },
+  {
+    "title": "Highway 1 Both Directions",
+    "description": "Highway 1 (TransCanada Highway), in both directions. Avalanche control work planned between Griffin Lake Avalanche Gate and Clanwilliam OH Bridge for 15.4 km (9 to 24 km west of Revelstoke). Starting Fri Jan 31 at 4:00 AM PST until Fri Jan 31 at 6:00 AM PST. Watch for traffic control personnel. Road closure planned. Next update time Fri Jan 31 at 6:00 AM PST. Last updated Thu Jan 30 at 11:37 AM PST. (DBC-72413)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72413.html"
   },
   {
     "title": "Highway 17 Both Directions",
@@ -71,26 +86,9 @@
     "longitude": -123.3926916
   },
   {
-    "title": "Highway 91 Northbound",
-    "description": "Highway 91, northbound. Road cleared between Nordel Crt and River Rd (Delta). Last updated Wed Jan 29 at 4:01 PM PST. (DBC-72377)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72377.html",
-    "Location": "Highway 91, northbound between Nordel Crt and River Rd (Delta)",
-    "Description": "Road cleared",
-    "Next update time": "",
-    "Last update time": "Wed Jan 29 at 4:01 PM PST",
-    "latitude": 49.1542634,
-    "longitude": -122.9448237
-  },
-  {
     "title": "Kootenay Lake Ferry Both Directions",
     "description": "Kootenay Lake Ferry, in both directions. Ferry is out of service between Balfour and Kootenay Bay. Mon-Fri essential service Balfour sailings: 6:30AM, 8:10AM, 4:30PM, Kootenay Bay: 7:10AM, 9AM, 5:20PM. Sat-Sun Balfour sailings: 6:30AM, 9:40PM, Kootenay Bay: 7:10AM, 10:20PM. Essential service travelers board 1st, then general public. Emergency services accommodated. Next update time Fri Jan 31 at 9:00 AM PST. Last updated Mon Jan 27 at 8:15 AM PST. (DBC-69872)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69872.html",
-    "Location": "Kootenay Lake Ferry, in both directions",
-    "Description": "Ferry is out of service between Balfour and Kootenay Bay",
-    "Next update time": "Fri Jan 31 at 9:00 AM PST",
-    "Last update time": "Mon Jan 27 at 8:15 AM PST",
-    "latitude": 49.57009370000001,
-    "longitude": -116.8312394
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69872.html"
   },
   {
     "title": "Little Fort Ferry Both Directions",
@@ -150,13 +148,7 @@
   {
     "title": "Other Roads",
     "description": "Johnston Bridge. Travel advisory in effect at Front St. In Quesnel. Johnston Bridge. Bridge is open to vehicles with gross vehicle weight rating of 10,000 kilograms or lower. Industrial traffic and heavy commercial traffic must detour via Plywood Rd and Maple Drive. Industrial traffic is not allowed to detour through Johnston Subdivision. Next update time Wed Apr 8, 2026 at 9:00 AM PDT. Last updated Thu Oct 17 at 6:39 AM PDT. (DBC-47311)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-47311.html",
-    "Location": "Johnston Bridge at Front St. in Quesnel",
-    "Description": "Bridge is open to vehicles with gross vehicle weight rating of 10,000 kilograms or lower. Industrial traffic and heavy commercial traffic must detour via Plywood Rd and Maple Drive. Industrial traffic is not allowed to detour through Johnston Subdivision.",
-    "Next update time": "Wed Apr 8, 2026 at 9:00 AM PDT",
-    "Last update time": "Thu Oct 17 at 6:39 AM PDT",
-    "latitude": 52.9733808,
-    "longitude": -122.4965097
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-47311.html"
   },
   {
     "title": "Other Roads Both Directions",
@@ -185,7 +177,7 @@
     "description": "Pavilion Clinton Rd, in both directions. Travel advisory in effect between Clinton and Lillooet 60 km south of Lillooet. Road closed for the season. Pavilion-Clinton Rd is closed for the Winter. Next update time Fri May 16, 2025 at 10:00 AM PST. Last updated Tue Nov 12 at 9:23 AM PST. (DBC-70161)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70161.html",
     "Location": "Pavilion Clinton Rd, in both directions between Clinton and Lillooet 60 km south of Lillooet",
-    "Description": "Road closed for the season",
+    "Description": "Road closed for the season. Pavilion-Clinton Rd is closed for the Winter.",
     "Next update time": "Fri May 16, 2025 at 10:00 AM PST",
     "Last update time": "Tue Nov 12 at 9:23 AM PST",
     "latitude": 51.0879404,
