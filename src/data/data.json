@@ -11,31 +11,20 @@
     "longitude": -121.7255006
   },
   {
+    "title": "Hemlock Valley Rd",
+    "description": "Hemlock Valley Rd. Limited visibility with heavy snowfall between Snowmist Dr and End of Route for 2.4 km (2 km south of Sasquatch Mountain Resort to Sasquatch Mountain Resort). Next update time Sat Feb 1 at 10:00 PM PST. Last updated Sat Feb 1 at 11:24 AM PST. (DBC-72492)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72492.html",
+    "Location": "Hemlock Valley Rd. between Snowmist Dr and End of Route for 2.4 km",
+    "Description": "Limited visibility with heavy snowfall",
+    "Next update time": "Sat Feb 1 at 10:00 PM PST",
+    "Last update time": "Sat Feb 1 at 11:24 AM PST",
+    "latitude": 49.3491856,
+    "longitude": -121.9112736
+  },
+  {
     "title": "Highway 1",
     "description": "Highway 1 (TransCanada Highway). Bridge maintenance between Mt Sicker Rd and Fuller Lake Rd for 3.7 km (Chemainus). Until Fri Feb 28 at 2:00 AM PST. Lane Closure. Reduced speed zone. NB Bridge closed for repairs.\nOverwidth protocols Commercial loads 3.2m-3.8m required to pull over and contact for access over SB bridge. Overwidth access only 6-12AM. Loads over 3.8m need 5day notice to accommodate. Next update time Fri Feb 28 at 7:00 AM PST. Last updated Thu Jan 16 at 2:13 PM PST. (DBC-70685)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70685.html"
-  },
-  {
-    "title": "Highway 1 Eastbound",
-    "description": "Highway 1 (TransCanada Highway), eastbound. Road cleared at Port Mann Bridge (Surrey). Last updated Fri Jan 31 at 4:06 PM PST. (DBC-72466)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72466.html",
-    "Location": "Highway 1 (TransCanada Highway), eastbound at Port Mann Bridge (Surrey)",
-    "Description": "Road cleared",
-    "Next update time": "",
-    "Last update time": "Fri Jan 31 at 4:06 PM PST",
-    "latitude": 49.2156897,
-    "longitude": -122.8116897
-  },
-  {
-    "title": "Highway 1 Eastbound",
-    "description": "Highway 1 (TransCanada Highway), eastbound. Police incident between Exit 55: 192 St and Exit 58: 200 St (Langley - District). Right lane of exit ramp closed. Expect delays. Next update time Fri Jan 31 at 4:30 PM PST. Last updated Fri Jan 31 at 2:33 PM PST. (DBC-72392)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72392.html",
-    "Location": "Highway 1 (TransCanada Highway), eastbound, between Exit 55: 192 St and Exit 58: 200 St (Langley - District)",
-    "Description": "Police incident. Right lane of exit ramp closed. Expect delays.",
-    "Next update time": "Fri Jan 31 at 4:30 PM PST",
-    "Last update time": "Fri Jan 31 at 2:33 PM PST",
-    "latitude": 49.1623893,
-    "longitude": -122.6687339
   },
   {
     "title": "Highway 1 Both Directions",
@@ -81,58 +70,64 @@
     "longitude": -118.9899647
   },
   {
-    "title": "Highway 1",
-    "description": "Highway 1 (TransCanada Highway). Avalanche control work between Griffin Lake Avalanche Gate and Clanwilliam OH Bridge for 15.4 km (9 to 24 km west of Revelstoke). Until Fri Jan 31 at 5:30 PM PST. Road closed. Watch for traffic control. Next update time Fri Jan 31 at 5:30 PM PST. Last updated Fri Jan 31 at 2:07 PM PST. (DBC-72456)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72456.html",
-    "Location": "Highway 1 (TransCanada Highway) between Griffin Lake Avalanche Gate and Clanwilliam OH Bridge for 15.4 km (9 to 24 km west of Revelstoke)",
-    "Description": "Avalanche control work. Road closed. Watch for traffic control.",
-    "Next update time": "Fri Jan 31 at 5:30 PM PST",
-    "Last update time": "Fri Jan 31 at 2:07 PM PST",
-    "latitude": 50.998115,
-    "longitude": -118.195672
-  },
-  {
-    "title": "Highway 1",
-    "description": "Highway 1 (TransCanada Highway). Avalanche control work planned between Townley St and 14th St N for 142.5 km (Revelstoke to Golden). Starting Fri Jan 31 at 9:00 PM PST. Road closure planned. Watch for traffic control personnel. Traffic Control will be holding Commercial Vehicles in Malakwa for less congestion on Highway 1. Passenger vehicles can bypass the Malakwa traffic hold. Next update time Sat Feb 1 at 3:45 AM PST. Last updated Fri Jan 31 at 2:57 PM PST. (DBC-72426)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72426.html",
-    "Location": "Highway 1 (TransCanada Highway) between Townley St and 14th St N for 142.5 km (Revelstoke to Golden)",
-    "Description": "Avalanche control work planned. Road closure planned. Watch for traffic control personnel. Traffic Control will be holding Commercial Vehicles in Malakwa for less congestion on Highway 1. Passenger vehicles can bypass the Malakwa traffic hold.",
-    "Next update time": "Sat Feb 1 at 3:45 AM PST",
-    "Last update time": "Fri Jan 31 at 2:57 PM PST",
-    "latitude": 51.3158794,
-    "longitude": -116.9750542
-  },
-  {
     "title": "Highway 17 Both Directions",
     "description": "Highway 17 (Patricia Bay Highway), in both directions. Construction work at Exit 18: Keating Cross Rd (Central Saanich). Until Tue Jul 1, 2025. Nighttime lane closures both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed. Next update time Sat May 10, 2025 at 12:00 PM PDT. Last updated Thu Sep 26 at 12:08 PM PDT. (DBC-54341)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-54341.html"
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-54341.html",
+    "Location": "Highway 17 (Patricia Bay Highway), in both directions at Exit 18: Keating Cross Rd (Central Saanich)",
+    "Description": "Construction work with nighttime lane closures both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed.",
+    "Next update time": "Sat May 10, 2025 at 12:00 PM PDT",
+    "Last update time": "Thu Sep 26 at 12:08 PM PDT",
+    "latitude": 48.5533773,
+    "longitude": -123.3926916
   },
   {
-    "title": "Highway 17 Westbound",
-    "description": "Highway 17, westbound. Night time construction work between Bridgeview Dr and Tannery Rd for 3.3 km (Surrey). Until Sat Feb 1. From 9:00 PM to 5:00 AM PST daily. Road closed. Detour via Bridgeview Drive to Scott Road to Tannery Road. Next update time Sat Feb 1 at 5:00 AM PST. Last updated Thu Jan 30 at 11:07 PM PST. (DBC-72259)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72259.html"
+    "title": "Highway 23 Both Directions",
+    "description": "Highway 23, in both directions. Avalanche control work planned between Canoe St - Mica Village and Mica Dam for 4.0 km (1 to 5 km north of Mica Dam). Starting Sun Feb 2 at 11:00 AM PST. Road closure planned. Detour will not be available. Watch for traffic control personnel. Estimated time of re-opening Sun Feb 2 at 1:00 PM PST. Next update time Sun Feb 2 at 12:45 PM PST. Last updated Sat Feb 1 at 1:58 PM PST. (DBC-72494)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72494.html",
+    "Location": "Highway 23, in both directions between Canoe St - Mica Village and Mica Dam (1 to 5 km north of Mica Dam)",
+    "Description": "Avalanche control work planned. Road closure planned. Detour will not be available. Watch for traffic control personnel.",
+    "Next update time": "Sun Feb 2 at 12:45 PM PST",
+    "Last update time": "Sat Feb 1 at 1:58 PM PST",
+    "latitude": 52.0770005,
+    "longitude": -118.5657085
   },
   {
-    "title": "Highway 27 Both Directions",
-    "description": "Highway 27, in both directions. Road cleared between Snell Rd E and Braeside Rd for 1.6 km (48 to 46 km south of Fort St James). Last updated Fri Jan 31 at 4:17 PM PST. (DBC-72449)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72449.html",
-    "Location": "Highway 27, in both directions between Snell Rd E and Braeside Rd for 1.6 km (48 to 46 km south of Fort St James)",
-    "Description": "Road cleared",
-    "Next update time": "",
-    "Last update time": "Fri Jan 31 at 4:17 PM PST",
-    "latitude": 54.4440119,
-    "longitude": -124.2579297
+    "title": "Highway 5 Southbound",
+    "description": "Highway 5 (Coquihalla South), southbound. Vehicle incident between Exit 183: Othello Rd and the start of Highway 5 (Coquihalla South) (2 km north of Hope). Expect delays. Next update time Sat Feb 1 at 5:00 PM PST. Last updated Sat Feb 1 at 4:05 PM PST. (DBC-72495)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72495.html",
+    "Location": "Highway 5 (Coquihalla South), southbound between Exit 183: Othello Rd and the start of Highway 5 (Coquihalla South) (2 km north of Hope)",
+    "Description": "Vehicle incident. Expect delays.",
+    "Next update time": "Sat Feb 1 at 5:00 PM PST",
+    "Last update time": "Sat Feb 1 at 4:05 PM PST",
+    "latitude": 49.3811183,
+    "longitude": -121.3588452
+  },
+  {
+    "title": "Highway 5 Both Directions",
+    "description": "Highway 5 (Coquihalla South), in both directions. Travel advisory in effect between Exit 202: Portia and Exit 250: Larson Hill for 48.2 km (11 km south of Great Bear Snowshed to 31 km north of Coquihalla Summit). Blowing snow. Limited visibility. Drive to conditions and watch for crews working. Next update time Sat Feb 1 at 7:00 PM PST. Last updated Sat Feb 1 at 10:00 AM PST. (DBC-72487)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72487.html",
+    "Location": "Highway 5 (Coquihalla South), in both directions between Exit 202: Portia and Exit 250: Larson Hill",
+    "Description": "Blowing snow. Limited visibility. Drive to conditions and watch for crews working.",
+    "Next update time": "Sat Feb 1 at 7:00 PM PST",
+    "Last update time": "Sat Feb 1 at 10:00 AM PST",
+    "latitude": 51.194213,
+    "longitude": -120.1566189
+  },
+  {
+    "title": "Highway 97 Southbound",
+    "description": "Highway 97 (Cariboo Connector), southbound. Vehicle fire between Lake Creek Rd and York Rd for 1.1 km (3 to 2 km south of Hixon). Southbound lane closure. Watch for traffic control. Next update time Sat Feb 1 at 7:00 PM PST. Last updated Sat Feb 1 at 4:04 PM PST. (DBC-72475)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72475.html",
+    "Location": "Highway 97 (Cariboo Connector), southbound between Lake Creek Rd and York Rd, 3 to 2 km south of Hixon",
+    "Description": "Vehicle fire. Southbound lane closure. Watch for traffic control.",
+    "Next update time": "Sat Feb 1 at 7:00 PM PST",
+    "Last update time": "Sat Feb 1 at 4:04 PM PST",
+    "latitude": 53.3861998,
+    "longitude": -122.5574029
   },
   {
     "title": "Kootenay Lake Ferry Both Directions",
     "description": "Kootenay Lake Ferry, in both directions. Ferry is out of service between Balfour and Kootenay Bay. Mon-Fri essential service Balfour sailings: 6:30AM, 8:10AM, 4:30PM, Kootenay Bay: 7:10AM, 9AM, 5:20PM. Sat-Sun Balfour sailings: 6:30AM, 9:40PM, Kootenay Bay: 7:10AM, 10:20PM. Essential service travelers board 1st, then general public. Emergency services accommodated. Next update time Tue Feb 4 at 9:00 AM PST. Last updated Fri Jan 31 at 8:33 AM PST. (DBC-69872)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69872.html",
-    "Location": "Kootenay Lake Ferry, in both directions",
-    "Description": "Ferry is out of service between Balfour and Kootenay Bay",
-    "Next update time": "Tue Feb 4 at 9:00 AM PST",
-    "Last update time": "Fri Jan 31 at 8:33 AM PST",
-    "latitude": 49.57009370000001,
-    "longitude": -116.8312394
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69872.html"
   },
   {
     "title": "Little Fort Ferry Both Directions",
@@ -150,7 +145,7 @@
     "description": "McLure Ferry, in both directions. Seasonal shutdown at McLure Ferry (McLure). Due to winter conditions. Next update time Mon Feb 3 at 12:00 PM PST. Last updated Mon Jan 20 at 3:40 PM PST. (DBC-72114)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72114.html",
     "Location": "McLure Ferry",
-    "Description": "Seasonal shutdown at McLure Ferry (McLure) due to winter conditions.",
+    "Description": "Seasonal shutdown at McLure Ferry due to winter conditions.",
     "Next update time": "Mon Feb 3 at 12:00 PM PST",
     "Last update time": "Mon Jan 20 at 3:40 PM PST",
     "latitude": 51.0409386,
@@ -221,7 +216,7 @@
     "description": "Pavilion Clinton Rd, in both directions. Travel advisory in effect between Clinton and Lillooet 60 km south of Lillooet. Road closed for the season. Pavilion-Clinton Rd is closed for the Winter. Next update time Fri May 16, 2025 at 10:00 AM PST. Last updated Tue Nov 12 at 9:23 AM PST. (DBC-70161)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70161.html",
     "Location": "Pavilion Clinton Rd, in both directions between Clinton and Lillooet 60 km south of Lillooet",
-    "Description": "Road closed for the season",
+    "Description": "Road closed for the season. Pavilion-Clinton Rd is closed for the Winter.",
     "Next update time": "Fri May 16, 2025 at 10:00 AM PST",
     "Last update time": "Tue Nov 12 at 9:23 AM PST",
     "latitude": 51.0879404,
