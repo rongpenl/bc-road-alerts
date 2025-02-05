@@ -12,25 +12,14 @@
   },
   {
     "title": "Hemlock Valley Rd",
-    "description": "Hemlock Valley Rd. Travel advisory in effect between Snowmist Dr and End of Route for 2.4 km (2 km south of Sasquatch Mountain Resort to Sasquatch Mountain Resort). Limited visibility with heavy snowfall. Chains are mandatory for all vehicles. Obey all signs and flaggers. Next update time Tue Feb 4 at 10:00 AM PST. Last updated Mon Feb 3 at 9:24 AM PST. (DBC-72492)",
+    "description": "Hemlock Valley Rd. Travel advisory in effect between Snowmist Dr and End of Route for 2.4 km (2 km south of Sasquatch Mountain Resort to Sasquatch Mountain Resort). Limited visibility with heavy snowfall. All vehicles must carry chains. Obey all signs and flaggers. Next update time Mon Feb 10 at 10:00 AM PST. Last updated Tue Feb 4 at 9:41 AM PST. (DBC-72492)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72492.html",
     "Location": "Hemlock Valley Rd. between Snowmist Dr and End of Route for 2.4 km",
-    "Description": "Limited visibility with heavy snowfall. Chains are mandatory for all vehicles. Obey all signs and flaggers.",
-    "Next update time": "Tue Feb 4 at 10:00 AM PST",
-    "Last update time": "Mon Feb 3 at 9:24 AM PST",
+    "Description": "Limited visibility with heavy snowfall. All vehicles must carry chains. Obey all signs and flaggers.",
+    "Next update time": "Mon Feb 10 at 10:00 AM PST",
+    "Last update time": "Tue Feb 4 at 9:41 AM PST",
     "latitude": 49.3659528,
     "longitude": -121.9194567
-  },
-  {
-    "title": "Highway 1 Both Directions",
-    "description": "Highway 1 (TransCanada Highway), in both directions. Winter operations are occuring between West Shore Pky and Mill Bay Rd for 20.6 km (Langford to 4 km north of Malahat Summit). Mandatory chain ups in effect. Commercial trucks over 11,794 kg licensed GVW must chain up. Next update time Tue Feb 4 at 1:00 PM PST. Last updated Mon Feb 3 at 1:18 PM PST. (DBC-72504)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72504.html",
-    "Location": "Highway 1 (TransCanada Highway), in both directions between West Shore Pky and Mill Bay Rd for 20.6 km (Langford to 4 km north of Malahat Summit)",
-    "Description": "Winter operations are occurring. Mandatory chain ups in effect. Commercial trucks over 11,794 kg licensed GVW must chain up.",
-    "Next update time": "Tue Feb 4 at 1:00 PM PST",
-    "Last update time": "Mon Feb 3 at 1:18 PM PST",
-    "latitude": 48.4464059,
-    "longitude": -123.5388544
   },
   {
     "title": "Highway 1",
@@ -45,20 +34,14 @@
   {
     "title": "Highway 1 Both Directions",
     "description": "Highway 1 (TransCanada Highway), in both directions. Construction work between Ford Rd and Schneider Pl for 4.5 km (Tappen). Until Sat Oct 31, 2026. From 7:00 AM to 4:00 AM PST on weekdays and Saturday. Expect up to 30 min delays. Reduced speed through work zone to 60 km/hr. Intermittent minor stoppages and single lane alternating traffic. Watch for traffic control. Next update time Thu Feb 27 at 5:00 AM PST. Last updated Mon Jan 27 at 12:01 PM PST. (DBC-72306)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72306.html",
-    "Location": "Highway 1 (TransCanada Highway), between Ford Rd and Schneider Pl, Tappen, BC",
-    "Description": "Construction work for 4.5 km. Expect up to 30 min delays. Reduced speed to 60 km/hr. Intermittent minor stoppages and single lane alternating traffic. Watch for traffic control.",
-    "Next update time": "Thu Feb 27 at 5:00 AM PST",
-    "Last update time": "Mon Jan 27 at 12:01 PM PST",
-    "latitude": 50.7695945,
-    "longitude": -119.3378532
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72306.html"
   },
   {
     "title": "Highway 1 Both Directions",
     "description": "Highway 1 (TransCanada Highway), in both directions. Blasting between Tappen Beach Rd and 65 Ave NW for 2.6 km (Salmon Arm to 2 km east of Tappen). Until Wed Dec 31. From 7:00 AM to 4:00 AM PST on weekdays and Saturday. 20 minute closure at 1 PM and 30 minute closure at 7 PM daily. Intermittent 5 minute closures and single lane alternating traffic may be required between 7 AM and 4 AM. Next update time Thu Feb 27 at 5:00 PM PST. Last updated Mon Jan 27 at 12:01 PM PST. (DBC-72305)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72305.html",
-    "Location": "Highway 1 (TransCanada Highway), in both directions. Blasting between Tappen Beach Rd and 65 Ave NW for 2.6 km (Salmon Arm to 2 km east of Tappen)",
-    "Description": "Blasting",
+    "Location": "Highway 1 (TransCanada Highway), between Tappen Beach Rd and 65 Ave NW",
+    "Description": "Blasting for 2.6 km (Salmon Arm to 2 km east of Tappen)",
     "Next update time": "Thu Feb 27 at 5:00 PM PST",
     "Last update time": "Mon Jan 27 at 12:01 PM PST",
     "latitude": 50.7471525,
@@ -76,49 +59,60 @@
     "longitude": -88.8349293
   },
   {
-    "title": "Highway 101 Both Directions",
-    "description": "Highway 101, in both directions. Vehicle incident at Tita Way (Sechelt). Road closed. Assessment in progress. Expect delays. Next update time Mon Feb 3 at 4:30 PM PST. Last updated Mon Feb 3 at 3:38 PM PST. (DBC-72543)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72543.html",
-    "Location": "Highway 101, Tita Way (Sechelt)",
-    "Description": "Vehicle incident. Road closed. Assessment in progress. Expect delays.",
-    "Next update time": "Mon Feb 3 at 4:30 PM PST",
-    "Last update time": "Mon Feb 3 at 3:38 PM PST",
-    "latitude": 49.47408679999999,
-    "longitude": -123.7485202
-  },
-  {
     "title": "Highway 17 Both Directions",
     "description": "Highway 17 (Patricia Bay Highway), in both directions. Construction work at Exit 18: Keating Cross Rd (Central Saanich). Until Tue Jul 1, 2025. Nighttime lane closures both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed. Next update time Sat May 10, 2025 at 12:00 PM PDT. Last updated Thu Sep 26 at 12:08 PM PDT. (DBC-54341)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-54341.html",
-    "Location": "Highway 17 (Patricia Bay Highway), in both directions at Exit 18: Keating Cross Rd (Central Saanich)",
-    "Description": "Construction work with nighttime lane closures both directions. Access to Barbara Drive from Keating Cross Road and access to East Saanich, Martindale and Danica from Highway 17 permanently closed. Keating Cross Road southbound onramp to Highway 17 closed.",
-    "Next update time": "Sat May 10, 2025 at 12:00 PM PDT",
-    "Last update time": "Thu Sep 26 at 12:08 PM PDT",
-    "latitude": 48.5533773,
-    "longitude": -123.3926916
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-54341.html"
   },
   {
-    "title": "Highway 99",
-    "description": "Highway 99. Vehicle incident between Garibaldi Hwy and Ocean Point Dr (West Vancouver). Left lane is blocked. Expect delays. Incident is south of Sunset Marina. Next update time Mon Feb 3 at 4:15 PM PST. Last updated Mon Feb 3 at 3:45 PM PST. (DBC-72544)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72544.html",
-    "Location": "Highway 99 between Garibaldi Hwy and Ocean Point Dr (West Vancouver)",
-    "Description": "Vehicle incident, left lane blocked. Expect delays. Incident is south of Sunset Marina.",
-    "Next update time": "Mon Feb 3 at 4:15 PM PST",
-    "Last update time": "Mon Feb 3 at 3:45 PM PST",
-    "latitude": 49.430869,
-    "longitude": -123.234245
+    "title": "Highway 17 Eastbound",
+    "description": "Highway 17, eastbound. Stalled vehicle between Highway 91 Connector and Grace Rd (Delta). Right lane is blocked. Expect delays due to congestion. Next update time Tue Feb 4 at 4:30 PM PST. Last updated Tue Feb 4 at 4:04 PM PST. (DBC-72595)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72595.html",
+    "Location": "Highway 17, eastbound between Highway 91 Connector and Grace Rd (Delta)",
+    "Description": "Stalled vehicle. Right lane is blocked. Expect delays due to congestion.",
+    "Next update time": "Tue Feb 4 at 4:30 PM PST",
+    "Last update time": "Tue Feb 4 at 4:04 PM PST",
+    "latitude": 49.1878884,
+    "longitude": -122.8966609
+  },
+  {
+    "title": "Highway 7 Westbound",
+    "description": "Highway 7 (Lougheed Highway), westbound. Vehicle incident between River Rd and 240 St (Maple Ridge). Right lane is blocked. Emergency vehicles on scene. Next update time Tue Feb 4 at 4:30 PM PST. Last updated Tue Feb 4 at 3:52 PM PST. (DBC-72589)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72589.html",
+    "Location": "Highway 7 (Lougheed Highway), westbound, between River Rd and 240 St (Maple Ridge)",
+    "Description": "Vehicle incident. Right lane is blocked. Emergency vehicles on scene.",
+    "Next update time": "Tue Feb 4 at 4:30 PM PST",
+    "Last update time": "Tue Feb 4 at 3:52 PM PST",
+    "latitude": 49.2149585,
+    "longitude": -122.5568687
+  },
+  {
+    "title": "Highway 91 Westbound",
+    "description": "Highway 91, westbound. Vehicle incident between No 6 Rd and Exit 21: Knight St for 0.4 km (Richmond). Shoulder closed. Expect delays due to congestion. Next update time Tue Feb 4 at 4:30 PM PST. Last updated Tue Feb 4 at 3:36 PM PST. (DBC-72590)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72590.html",
+    "Location": "Highway 91, westbound, between No 6 Rd and Exit 21: Knight St, Richmond",
+    "Description": "Shoulder closed. Expect delays due to congestion.",
+    "Next update time": "Tue Feb 4 at 4:30 PM PST",
+    "Last update time": "Tue Feb 4 at 3:36 PM PST",
+    "latitude": 49.2257494,
+    "longitude": -123.0771909
   },
   {
     "title": "Kootenay Lake Ferry Both Directions",
-    "description": "Kootenay Lake Ferry, in both directions. Ferry is out of service between Balfour and Kootenay Bay. Mon-Fri essential service Balfour sailings: 6:30AM, 8:10AM, 4:30PM, Kootenay Bay: 7:10AM, 9AM, 5:20PM. Sat-Sun Balfour sailings: 6:30AM, 9:40PM, Kootenay Bay: 7:10AM, 10:20PM. Essential service travelers board 1st, then general public. Emergency services accommodated. Next update time Tue Feb 4 at 9:00 AM PST. Last updated Fri Jan 31 at 8:33 AM PST. (DBC-69872)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69872.html"
+    "description": "Kootenay Lake Ferry, in both directions. Travel advisory in effect between Balfour and Kootenay Bay. Mon-Fri essential service Balfour sailings: 6:30AM, 8:10AM, 4:30PM, Kootenay Bay: 7:10AM, 9AM, 5:20PM. Sat-Sun Balfour sailings: 6:30AM, 9:40PM, Kootenay Bay: 7:10AM, 10:20PM. Essential service travelers board 1st, then general public. Emergency services accommodated. Next update time Fri Feb 7 at 9:00 AM PST. Last updated Tue Feb 4 at 9:55 AM PST. (DBC-69872)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-69872.html",
+    "Location": "Kootenay Lake Ferry, in both directions between Balfour and Kootenay Bay",
+    "Description": "Travel advisory in effect. Mon-Fri essential service Balfour sailings: 6:30AM, 8:10AM, 4:30PM, Kootenay Bay: 7:10AM, 9AM, 5:20PM. Sat-Sun Balfour sailings: 6:30AM, 9:40PM, Kootenay Bay: 7:10AM, 10:20PM. Essential service travelers board 1st, then general public. Emergency services accommodated.",
+    "Next update time": "Fri Feb 7 at 9:00 AM PST",
+    "Last update time": "Tue Feb 4 at 9:55 AM PST",
+    "latitude": 49.62475,
+    "longitude": -116.962879
   },
   {
     "title": "Little Fort Ferry Both Directions",
     "description": "Little Fort Ferry, in both directions. Seasonal shutdown at Little Fort Ferry (1 km west of Little Fort). Due to winter conditions. Next update time Mon Mar 3 at 12:00 PM PST. Last updated Mon Feb 3 at 12:45 PM PST. (DBC-72115)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72115.html",
     "Location": "Little Fort Ferry, in both directions",
-    "Description": "Seasonal shutdown at Little Fort Ferry (1 km west of Little Fort) due to winter conditions",
+    "Description": "Due to winter conditions",
     "Next update time": "Mon Mar 3 at 12:00 PM PST",
     "Last update time": "Mon Feb 3 at 12:45 PM PST",
     "latitude": 51.4239653,
@@ -126,15 +120,15 @@
   },
   {
     "title": "Lytton Ferry Both Directions",
-    "description": "Lytton Ferry, in both directions. Ferry is currently out of service at Lytton Ferry Start (Lytton). Ferry route closed. The ferry will not be running due to low water levels. Next update time Tue Feb 4 at 9:00 AM PST. Last updated Mon Feb 3 at 11:43 AM PST. (DBC-72537)",
+    "description": "Lytton Ferry, in both directions. Ferry is currently out of service at Lytton Ferry Start (Lytton). Ferry route closed. The ferry will not be running due to low water levels. Next update time Wed Feb 5 at 9:00 AM PST. Last updated Tue Feb 4 at 9:33 AM PST. (DBC-72537)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72537.html"
   },
   {
     "title": "McLure Ferry Both Directions",
     "description": "McLure Ferry, in both directions. Seasonal shutdown at McLure Ferry (McLure). Due to winter conditions. Next update time Mon Mar 3 at 12:00 PM PST. Last updated Mon Feb 3 at 12:45 PM PST. (DBC-72114)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72114.html",
-    "Location": "McLure Ferry, in both directions",
-    "Description": "Seasonal shutdown at McLure Ferry (McLure) due to winter conditions",
+    "Location": "McLure Ferry",
+    "Description": "Seasonal shutdown at McLure Ferry (McLure) due to winter conditions.",
     "Next update time": "Mon Mar 3 at 12:00 PM PST",
     "Last update time": "Mon Feb 3 at 12:45 PM PST",
     "latitude": 51.0409386,
@@ -203,6 +197,12 @@
   {
     "title": "Other Roads Both Directions",
     "description": "Pavilion Clinton Rd, in both directions. Travel advisory in effect between Clinton and Lillooet 60 km south of Lillooet. Road closed for the season. Pavilion-Clinton Rd is closed for the Winter. Next update time Fri May 16, 2025 at 10:00 AM PST. Last updated Tue Nov 12 at 9:23 AM PST. (DBC-70161)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70161.html"
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70161.html",
+    "Location": "Pavilion Clinton Rd, in both directions between Clinton and Lillooet 60 km south of Lillooet",
+    "Description": "Road closed for the season. Pavilion-Clinton Rd is closed for the Winter.",
+    "Next update time": "Fri May 16, 2025 at 10:00 AM PST",
+    "Last update time": "Tue Nov 12 at 9:23 AM PST",
+    "latitude": 51.0879404,
+    "longitude": -121.598893
   }
 ]
