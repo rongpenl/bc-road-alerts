@@ -1,5 +1,16 @@
 [
   {
+    "title": "Barnston Island Ferry",
+    "description": "Barnston Island Ferry. Ferry will be out of service at Barnston Island in Surrey. Starting Wed Feb 5 at 6:30 PM PST until Wed Feb 5 at 7:45 PM PST. Service interruption due to low water levels. Next update time Wed Feb 5 at 7:45 PM PST. Last updated Wed Feb 5 at 1:26 PM PST. (DBC-72618)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72618.html",
+    "Location": "Barnston Island in Surrey",
+    "Description": "Service interruption due to low water levels",
+    "Next update time": "Wed Feb 5 at 7:45 PM PST",
+    "Last update time": "Wed Feb 5 at 1:26 PM PST",
+    "latitude": 49.1910438,
+    "longitude": -122.7069931
+  },
+  {
     "title": "Big Bar Reaction Ferry",
     "description": "Big Bar Reaction Ferry. Travel advisory in effect at Big Bar Reaction Ferry (Big Bar Reaction Ferry). Road closed for the season. The Aerial Car is in operation for foot traffic only. Next update time Fri May 30, 2025. Last updated Tue Nov 19 at 9:13 AM PST. (DBC-70341)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70341.html",
@@ -24,7 +35,13 @@
   {
     "title": "Highway 1",
     "description": "Highway 1 (TransCanada Highway). Bridge maintenance between Mt Sicker Rd and Fuller Lake Rd for 3.7 km (Chemainus). Until Fri Feb 28 at 2:00 AM PST. Lane Closure. Reduced speed zone. NB Bridge closed for repairs.\nOverwidth protocols Commercial loads 3.2m-3.8m required to pull over and contact for access over SB bridge. Overwidth access only 6-12AM. Loads over 3.8m need 5day notice to accommodate. Next update time Fri Feb 28 at 7:00 AM PST. Last updated Thu Jan 16 at 2:13 PM PST. (DBC-70685)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70685.html"
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-70685.html",
+    "Location": "Highway 1 (TransCanada Highway) between Mt Sicker Rd and Fuller Lake Rd for 3.7 km (Chemainus)",
+    "Description": "Bridge maintenance. Lane Closure. Reduced speed zone. NB Bridge closed for repairs. Overwidth protocols Commercial loads 3.2m-3.8m required to pull over and contact for access over SB bridge. Overwidth access only 6-12AM. Loads over 3.8m need 5day notice to accommodate.",
+    "Next update time": "Fri Feb 28 at 7:00 AM PST",
+    "Last update time": "Thu Jan 16 at 2:13 PM PST",
+    "latitude": 48.9034496,
+    "longitude": -123.7183903
   },
   {
     "title": "Highway 1 Both Directions",
@@ -40,8 +57,8 @@
     "title": "Highway 1 Both Directions",
     "description": "Highway 1 (TransCanada Highway), in both directions. Blasting between Tappen Beach Rd and 65 Ave NW for 2.6 km (Salmon Arm to 2 km east of Tappen). Until Wed Dec 31. From 7:00 AM to 4:00 AM PST on weekdays and Saturday. 20 minute closure at 1 PM and 30 minute closure at 7 PM daily. Intermittent 5 minute closures and single lane alternating traffic may be required between 7 AM and 4 AM. Next update time Thu Feb 27 at 5:00 PM PST. Last updated Mon Jan 27 at 12:01 PM PST. (DBC-72305)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72305.html",
-    "Location": "Highway 1 (TransCanada Highway), between Tappen Beach Rd and 65 Ave NW",
-    "Description": "Blasting for 2.6 km (Salmon Arm to 2 km east of Tappen)",
+    "Location": "Highway 1 (TransCanada Highway), between Tappen Beach Rd and 65 Ave NW for 2.6 km (Salmon Arm to 2 km east of Tappen)",
+    "Description": "Blasting",
     "Next update time": "Thu Feb 27 at 5:00 PM PST",
     "Last update time": "Mon Jan 27 at 12:01 PM PST",
     "latitude": 50.7471525,
@@ -64,37 +81,9 @@
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-54341.html"
   },
   {
-    "title": "Highway 17 Eastbound",
-    "description": "Highway 17, eastbound. Stalled vehicle between Highway 91 Connector and Grace Rd (Delta). Right lane is blocked. Expect delays due to congestion. Next update time Tue Feb 4 at 4:30 PM PST. Last updated Tue Feb 4 at 4:04 PM PST. (DBC-72595)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72595.html",
-    "Location": "Highway 17, eastbound between Highway 91 Connector and Grace Rd (Delta)",
-    "Description": "Stalled vehicle. Right lane is blocked. Expect delays due to congestion.",
-    "Next update time": "Tue Feb 4 at 4:30 PM PST",
-    "Last update time": "Tue Feb 4 at 4:04 PM PST",
-    "latitude": 49.1878884,
-    "longitude": -122.8966609
-  },
-  {
-    "title": "Highway 7 Westbound",
-    "description": "Highway 7 (Lougheed Highway), westbound. Vehicle incident between River Rd and 240 St (Maple Ridge). Right lane is blocked. Emergency vehicles on scene. Next update time Tue Feb 4 at 4:30 PM PST. Last updated Tue Feb 4 at 3:52 PM PST. (DBC-72589)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72589.html",
-    "Location": "Highway 7 (Lougheed Highway), westbound, between River Rd and 240 St (Maple Ridge)",
-    "Description": "Vehicle incident. Right lane is blocked. Emergency vehicles on scene.",
-    "Next update time": "Tue Feb 4 at 4:30 PM PST",
-    "Last update time": "Tue Feb 4 at 3:52 PM PST",
-    "latitude": 49.2149585,
-    "longitude": -122.5568687
-  },
-  {
-    "title": "Highway 91 Westbound",
-    "description": "Highway 91, westbound. Vehicle incident between No 6 Rd and Exit 21: Knight St for 0.4 km (Richmond). Shoulder closed. Expect delays due to congestion. Next update time Tue Feb 4 at 4:30 PM PST. Last updated Tue Feb 4 at 3:36 PM PST. (DBC-72590)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72590.html",
-    "Location": "Highway 91, westbound, between No 6 Rd and Exit 21: Knight St, Richmond",
-    "Description": "Shoulder closed. Expect delays due to congestion.",
-    "Next update time": "Tue Feb 4 at 4:30 PM PST",
-    "Last update time": "Tue Feb 4 at 3:36 PM PST",
-    "latitude": 49.2257494,
-    "longitude": -123.0771909
+    "title": "Highway 99 Both Directions",
+    "description": "Highway 99, in both directions. Bridge construction planned at Exit 32: Steveston Hwy (Richmond). Starting Fri Feb 7 until Mon Feb 10 at 5:00 AM PST. From 9:00 PM to 8:00 AM PST on Friday and Saturday and from 9:00 PM to 5:00 AM PST on Sunday. Road closure planned. Detour planned. Next update time Mon Feb 10 at 5:00 AM PST. Last updated Wed Feb 5 at 2:34 PM PST. (DBC-72623)",
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72623.html"
   },
   {
     "title": "Kootenay Lake Ferry Both Directions",
@@ -119,16 +108,11 @@
     "longitude": -120.2053428
   },
   {
-    "title": "Lytton Ferry Both Directions",
-    "description": "Lytton Ferry, in both directions. Ferry is currently out of service at Lytton Ferry Start (Lytton). Ferry route closed. The ferry will not be running due to low water levels. Next update time Wed Feb 5 at 9:00 AM PST. Last updated Tue Feb 4 at 9:33 AM PST. (DBC-72537)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72537.html"
-  },
-  {
     "title": "McLure Ferry Both Directions",
     "description": "McLure Ferry, in both directions. Seasonal shutdown at McLure Ferry (McLure). Due to winter conditions. Next update time Mon Mar 3 at 12:00 PM PST. Last updated Mon Feb 3 at 12:45 PM PST. (DBC-72114)",
     "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-72114.html",
-    "Location": "McLure Ferry",
-    "Description": "Seasonal shutdown at McLure Ferry (McLure) due to winter conditions.",
+    "Location": "McLure Ferry, McLure",
+    "Description": "Seasonal shutdown at McLure Ferry due to winter conditions.",
     "Next update time": "Mon Mar 3 at 12:00 PM PST",
     "Last update time": "Mon Feb 3 at 12:45 PM PST",
     "latitude": 51.0409386,
@@ -170,7 +154,13 @@
   {
     "title": "Other Roads",
     "description": "Johnston Bridge. Travel advisory in effect at Front St. In Quesnel. Johnston Bridge. Bridge is open to vehicles with gross vehicle weight rating of 10,000 kilograms or lower. Industrial traffic and heavy commercial traffic must detour via Plywood Rd and Maple Drive. Industrial traffic is not allowed to detour through Johnston Subdivision. Next update time Wed Apr 8, 2026 at 9:00 AM PDT. Last updated Thu Oct 17 at 6:39 AM PDT. (DBC-47311)",
-    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-47311.html"
+    "link": "https://www.drivebc.ca/mobile/pub/events/id/DBC-47311.html",
+    "Location": "Johnston Bridge at Front St. in Quesnel",
+    "Description": "Bridge is open to vehicles with gross vehicle weight rating of 10,000 kilograms or lower. Industrial traffic and heavy commercial traffic must detour via Plywood Rd and Maple Drive. Industrial traffic is not allowed to detour through Johnston Subdivision.",
+    "Next update time": "Wed Apr 8, 2026 at 9:00 AM PDT",
+    "Last update time": "Thu Oct 17 at 6:39 AM PDT",
+    "latitude": 52.9733808,
+    "longitude": -122.4965097
   },
   {
     "title": "Other Roads Both Directions",
@@ -180,8 +170,8 @@
     "Description": "Flooding at McKay Road. Road closed.",
     "Next update time": "Thu Apr 10, 2025 at 9:00 AM PST",
     "Last update time": "Tue Dec 10 at 9:04 AM PST",
-    "latitude": 52.1983359,
-    "longitude": -122.3710929
+    "latitude": 49.5925111,
+    "longitude": -119.5855978
   },
   {
     "title": "Other Roads Both Directions",
